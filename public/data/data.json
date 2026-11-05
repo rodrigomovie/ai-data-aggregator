@@ -1,44 +1,651 @@
 {
   "schema_version": "1.0",
   "metadata": {
-    "project_name": "AI Data Aggregator",
-    "description": "Configuração modular de fontes web e APIs para agregação de dados voltada para consumo por Agentes de IA.",
-    "generated_at_utc": "2026-11-05T14:35:00Z",
-    "total_sources": 2,
-    "successful_sources": 2,
-    "total_items": 2
+    "project_name": "AI Data Aggregator — Setor Público & Notícias Governamentais",
+    "description": "Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.",
+    "generated_at_utc": "2026-11-05T15:03:43Z",
+    "total_sources": 4,
+    "successful_sources": 4,
+    "total_items": 90
   },
   "sources": [
     {
-      "id": "example_hn_news",
-      "name": "Hacker News - Frontpage Sample",
+      "id": "bb_portal_setor_publico",
+      "name": "Banco do Brasil — Portal Setor Público (Soluções e Programas)",
       "type": "web",
-      "category": "tech_news",
-      "source_url": "https://news.ycombinator.com/",
+      "category": "setor_publico_bb",
+      "source_url": "https://www.bb.com.br/site/setor-publico/",
       "status": "success",
-      "items_count": 1,
+      "items_count": 30,
       "items": [
         {
-          "title": "Sample Initial Item — Aguardando primeira execução com as fontes definitivas",
-          "link": "https://news.ycombinator.com/"
+          "title": "Licitações-e",
+          "url": "https://www.bb.com.br/site/setor-publico/licitacoes-e/",
+          "section": "Destaques",
+          "description": "Realize seus pregões eletrônicos com agilidade e transparência."
+        },
+        {
+          "title": "Soluções que crescem com o Brasil",
+          "url": "https://www.bb.com.br/site/setor-publico/",
+          "section": "Destaques",
+          "description": "Soluções pensadas exclusivamente para o Setor Público."
+        },
+        {
+          "title": "BB Pay Arrecadação",
+          "url": "https://www.bb.com.br/site/setor-publico/bb-pay-arrecadacao/",
+          "section": "Destaques",
+          "description": "Receba seus tributos com Cartão de Crédito e Pix."
+        },
+        {
+          "title": "BB Expenses",
+          "url": "https://www.bbexpenses.com.br/",
+          "section": "Destaques",
+          "description": "A solução do BB para gestão de despesas com cartões corporativos, pré-pagos e governamentais. Menos papelada, mais controle!"
+        },
+        {
+          "title": "Soluções Inteligentes",
+          "url": "https://www.bb.com.br/site/setor-publico/solucoes-inteligentes/",
+          "section": "Destaques",
+          "description": "Inovação e sustentabilidade que transformam o país."
+        },
+        {
+          "title": "Novo CNPJ Alfanumérico",
+          "url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/cnpj-alfanumerico",
+          "section": "Destaques",
+          "description": "O número do CNPJ passará a ser alfanumérico, ou seja, incluirá letras e números. Mais detalhes no site da Receita Federal."
+        },
+        {
+          "title": "Federal",
+          "url": "https://www.bb.com.br/site/setor-publico/federal",
+          "section": "Segmentos Setor Público"
+        },
+        {
+          "title": "Estadual",
+          "url": "https://www.bb.com.br/site/setor-publico/estadual",
+          "section": "Segmentos Setor Público"
+        },
+        {
+          "title": "Municipal",
+          "url": "https://www.bb.com.br/site/setor-publico/municipal",
+          "section": "Segmentos Setor Público"
+        },
+        {
+          "title": "Judiciário",
+          "url": "https://www.bb.com.br/site/setor-publico/judiciario",
+          "section": "Segmentos Setor Público"
+        },
+        {
+          "title": "Gestão Ágil",
+          "url": "https://www.bb.com.br/site/setor-publico/bb-gestao-agil/#/",
+          "section": "Soluções em Destaque",
+          "description": "O BB tem uma solução para acompanhamento a execução financeira dos repasses governamentais e prestar contas ficou mais fácil!"
+        },
+        {
+          "title": "Licitações-E",
+          "url": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/",
+          "section": "Soluções em Destaque",
+          "description": "Pregões eletrônicos com agilidade e transparência."
+        },
+        {
+          "title": "Pix Setor Público",
+          "url": "https://www.bb.com.br/site/setor-publico/pix/",
+          "section": "Soluções em Destaque",
+          "description": "Utilize sua chave Pix e conte com as facilidades que o Banco do Brasil oferece para o Setor Público."
+        },
+        {
+          "title": "Serviços para o cidadão",
+          "url": "https://www.bb.com.br/site/cidadao/",
+          "section": "Soluções em Destaque",
+          "description": "Consulte seus benefícios com agilidade e praticidade."
+        },
+        {
+          "title": "BB Conta Única",
+          "url": "https://www.bb.com.br/site/setor-publico/bb-conta-unica/",
+          "section": "Soluções em Destaque",
+          "description": "Centralização de saldos."
+        },
+        {
+          "title": "Gestão Ágil",
+          "url": "https://www.bb.com.br/site/setor-publico/bb-gestao-agil/",
+          "section": "Vantagens e Soluções",
+          "description": "O BB tem uma solução para acompanhamento a execução financeira dos repasses governamentais e prestar contas ficou mais fácil!"
+        },
+        {
+          "title": "Desenvolvimento Socioeconômico",
+          "url": "https://www.bb.com.br/site/setor-publico/federal/desenvolvimento-socioeconomico/",
+          "section": "Soluções por Tema",
+          "description": "Soluções que apoiam o desenvolvimento socioeconômico."
+        },
+        {
+          "title": "Microcrédito Produtivo Orientado",
+          "url": "https://www.bb.com.br/site/pro-seu-negocio/credito/mpo/",
+          "section": "Soluções por Tema",
+          "description": "Crédito com orientação na medida certa para o seu negócio."
+        },
+        {
+          "title": "Sustentabilidade de Infraestrutura",
+          "url": "https://www.bb.com.br/site/setor-publico/credito/",
+          "section": "Soluções por Tema",
+          "description": "Linhas de crédito e financiamento voltadas para melhoria da infraestrutura, sustentabilidade e políticas públicas em todo o país."
+        },
+        {
+          "title": "Gestão eficiente e segura dos recursos previdenciários",
+          "url": "https://www.bb.com.br/site/setor-publico/fundos-de-investimentos-para-rpps/#/",
+          "section": "Soluções por Tema",
+          "description": "O BB dispõe das melhores soluções de investimento para os RPPS (Regimes Próprios de Previdência Social)."
+        },
+        {
+          "title": "Benefícios Sociais",
+          "url": "https://www.bb.com.br/site/setor-publico/beneficios-sociais/",
+          "section": "Soluções por Tema",
+          "description": "Saiba mais sobre o seu benefício."
+        },
+        {
+          "title": "Pé-de-Meia Licenciaturas",
+          "url": "https://www.bb.com.br/site/setor-publico/pe-de-meia-licenciaturas/",
+          "section": "Soluções por Tema",
+          "description": "Apoio financeiro e acadêmico."
+        },
+        {
+          "title": "Investimento Social Privado",
+          "url": "https://www.bb.com.br/site/setor-publico/investimento-social-privado/",
+          "section": "Soluções por Tema"
+        },
+        {
+          "title": "Soluções para o Cidadão",
+          "url": "https://www.bb.com.br/site/cidadao/?utm_source=home_setor_publico&utm_medium=mais_servi%C3%A7os&utm_id=portal_bb",
+          "section": "Soluções por Tema",
+          "description": "Consulte seus benefícios com praticidade."
+        },
+        {
+          "title": "Fundos do Investimento",
+          "url": "https://www.bb.com.br/site/setor-publico/investimentos/",
+          "section": "Soluções por Tema",
+          "description": "Conheça as opções para investir seus recursos da melhor forma."
+        },
+        {
+          "title": "Previdência Complementar",
+          "url": "https://www.bb.com.br/site/setor-publico/previdencia-complementar/",
+          "section": "Soluções por Tema",
+          "description": "Gestão de planos de benefícios para empregados e servidores públicos."
+        },
+        {
+          "title": "Estudos e Publicações",
+          "url": "https://www.bb.com.br/site/setor-publico/estudos-e-publicacoes/",
+          "section": "Soluções por Tema",
+          "description": "Publicamos nesta área estudos, relatórios e materiais técnicos produzidos com o apoio do Banco do Brasil. As publicações abordam temas relacionados à gestão pública, inovação, transformação digital, sustentabilidade fiscal, governança e estruturação de projetos para estados, municípios e demais entes públicos."
+        },
+        {
+          "title": "Depositos Judiciais",
+          "url": "https://www.bb.com.br/site/setor-publico/judiciario/depositos-judiciais",
+          "section": "Serviços e Soluções",
+          "description": "Precatórios, guias, formulários, comprovantes e outros serviços."
+        },
+        {
+          "title": "Pagamentos E Despesas",
+          "url": "https://www.bb.com.br/site/setor-publico/pagamentos-e-despesas/",
+          "section": "Serviços e Soluções",
+          "description": "O BB tem as melhores soluções para gestão de Pagamentos e Despesas."
+        },
+        {
+          "title": "Entrada De Receita",
+          "url": "https://www.bb.com.br/site/setor-publico/entrada-de-receita/",
+          "section": "Serviços e Soluções",
+          "description": "Conheça as soluções BB para gestão de tributos, arrecadação e repasses."
         }
       ]
     },
     {
-      "id": "github_python_trending",
-      "name": "GitHub Repositories - AI & Python Sample",
-      "type": "api",
-      "category": "repositories",
-      "source_url": "https://api.github.com/search/repositories",
+      "id": "camara_ultimas_noticias_rss",
+      "name": "Câmara dos Deputados — Últimas Notícias (RSS Oficial)",
+      "type": "web",
+      "category": "legislativo_camara",
+      "source_url": "https://www.camara.leg.br/noticias/rss/ultimas-noticias",
       "status": "success",
-      "items_count": 1,
+      "items_count": 20,
       "items": [
         {
-          "name": "rodrigomovie/ai-data-aggregator",
-          "description": "Pipeline de agregação de dados em Python, site estático AI-friendly e automação diária via GitHub Actions.",
-          "url": "https://github.com/rodrigomovie/ai-data-aggregator",
-          "stars": 1,
-          "updated_at": "2026-11-05T14:35:00Z"
+          "title": "Câmara aprova ações de educação em saúde no SUS com foco na família",
+          "url": "https://www.camara.leg.br/noticias/1316367-camara-aprova-acoes-de-educacao-em-saude-no-sus-com-foco-na-familia",
+          "published_at": "Thu, 05 Nov 2026 14:48:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Deputados reunidos nesta quinta A Câmara dos Deputados aprovou, na sessão desta quinta-feira (5), o Projeto de Lei 565/20 , que obriga os profissionais de saúde da atenção básica do Sistema A proposta, de autoria da antiga Comissão de Seguridade Social e Família, altera a Lei Orgânica da Saúde e segue agora para análise do Senado. “As equipes de Saúde da Família têm como uma das suas atividades básicas a promoção da saúde por meio da educação sanitária”, explicou o deputado Antonio Brito, na época presidente do colegiado, na justificativa da proposta. “..."
+        },
+        {
+          "title": "Comissão de Segurança debate redução da maioridade penal no Brasil",
+          "url": "https://www.camara.leg.br/noticias/1316252-comissao-de-seguranca-debate-reducao-da-maioridade-penal-no-brasil",
+          "published_at": "Thu, 05 Nov 2026 14:38:00 GMT",
+          "summary": "Depositphotos Proposta em análise na Câmara reduz a maioridade civil e penal para 16 anos A Comissão de Segurança Pública da Câmara dos Deputados realiza, nesta quarta-feira (11), audiência pública para discutir a redução da maioridade penal no Brasil, com foco no enfrentamento da criminalidade violenta e na responsabilização penal. O debate está marcado para as 14 horas, em plenário a ser definido. Veja quem foi convidado A audiência atende a pedido do deputado Capitão Alden (PL-BA). Segundo o parlamentar, a participação de adolescentes em crimes graves e violentos exige uma discussão sobr..."
+        },
+        {
+          "title": "Comissão da Câmara debate políticas públicas de saúde oncológica voltadas para as mulheres",
+          "url": "https://www.camara.leg.br/noticias/1316234-comissao-da-camara-debate-politicas-publicas-de-saude-oncologica-voltadas-para-as-mulheres",
+          "published_at": "Thu, 05 Nov 2026 14:35:00 GMT",
+          "summary": "Hélia Scheppa/Governo de Pernambuco O tempo entre o diagnóstico e o início do tratamento oncológico ainda é um desafio no SUS A Comissão de Saúde da Câmara dos Deputados promove, nesta terça-feira (10), audiência pública para discutir as políticas públicas de combate ao câncer voltadas à saúde das mulheres. O debate está marcado para as 10 horas, no plenário 7. Veja quem foi convidado A reunião atende a pedido do deputado Giovani Cherini (PL-RS). Segundo o parlamentar, apesar dos avanços da Política Nacional de Prevenção e Controle do Câncer no Sistema Único de Saúde (SUS), ainda existem de..."
+        },
+        {
+          "title": "Comissão aprova proposta que facilita emissão da carteira de motorista definitiva",
+          "url": "https://www.camara.leg.br/noticias/1316296-comissao-aprova-proposta-que-facilita-emissao-da-carteira-de-motorista-definitiva",
+          "published_at": "Thu, 05 Nov 2026 14:31:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Hugo Leal: proposta evita sanções desproporcionais A Comissão de Viação e Transportes da Câmara dos Deputados aprovou um projeto de lei que prevê que infrações apenas administrativas não impeçam o motorista de obter a Carteira Nacional de Habilitação (CNH) definitiva após um ano com a Permissão para Dirigir. O texto aprovado é a versão do relator, deputado Hugo Leal (PSD-RJ), para o Projeto de Lei 1662/26 , do deputado Jonas Donizette (PSB-SP). O substitutivo de Leal altera dispositivos do Código de Trânsito Brasileiro . Veja a íntegra do texto aprovado..."
+        },
+        {
+          "title": "Deputados aprovam proposta que dá o nome de José Richa a túnel da Câmara",
+          "url": "https://www.camara.leg.br/noticias/1316228-deputados-aprovam-proposta-que-da-o-nome-de-jose-richa-a-tunel-da-camara",
+          "published_at": "Thu, 05 Nov 2026 14:20:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Deputados reunidos nesta quinta O Plenário da Câmara dos Deputados aprovou, na sessão desta quinta-feira (5), proposta que denomina “Túnel José Richa ” a passagem subterrânea que conecta os anexos 2 e 4 da Casa. A resolução já foi promulgada. O relator da proposta, deputado Aécio Neves (PSDB-MG), apresentou parecer favorável à homenagem ao ex-parlamentar e ex-governador, prevista no Projeto de Resolução 113/23, do deputado Pompeo de Mattos (PDT-RS). “A denominação dos espaços desta Casa é forma de preservar a memória daqueles que a dignificaram. Poucos..."
+        },
+        {
+          "title": "Câmara dos Deputados inicia sessão para analisar propostas; acompanhe",
+          "url": "https://www.camara.leg.br/noticias/1316230-camara-dos-deputados-inicia-sessao-para-analisar-propostas-acompanhe",
+          "published_at": "Thu, 05 Nov 2026 14:14:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Deputados reunidos no plenário A Câmara dos Deputados iniciou a sessão de votações desta quinta-feira (5). Neste momento, os parlamentares analisam o Projeto de Resolução 113/23, que denomina “Túnel José Richa” a passagem subterrânea que conecta os anexos 2 e 4 da Casa. Assista ao vivo Mais informações a seguir."
+        },
+        {
+          "title": "Comissão aprova projeto que permite desfiliação sem perda do mandato de mulher vítima de violência política",
+          "url": "https://www.camara.leg.br/noticias/1316225-comissao-aprova-projeto-que-permite-desfiliacao-sem-perda-do-mandato-de-mulher-vitima-de-violencia-politica",
+          "published_at": "Thu, 05 Nov 2026 14:12:00 GMT",
+          "summary": "Thiago Cristino / Câmara dos Deputados Sâmia Bomfim: medida reduz risco de que a vítima seja penalizada pela violência sofrida e pela ameaça de perda do mandato A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou o Projeto de Lei 690/25 , que inclui a violência política de gênero como hipótese de justa causa para a desfiliação partidária, sem a perda do mandato eletivo. A proposta altera a Lei dos Partidos Políticos , que já prevê a manutenção do mandato em caso de desfiliação por discriminação política pessoal grave, por exemplo. A proposta foi apresentada à Câmara..."
+        },
+        {
+          "title": "Comissão aprova projeto que estabelece maioria de mulheres no júri de casos de feminicídio",
+          "url": "https://www.camara.leg.br/noticias/1316220-comissao-aprova-projeto-que-estabelece-maioria-de-mulheres-no-juri-de-casos-de-feminicidio",
+          "published_at": "Thu, 05 Nov 2026 13:49:00 GMT",
+          "summary": "Bruno Spada / Câmara dos Deputados Carol Dartora recomendou a aprovação do projeto A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou o Projeto de Lei 758/26 , que assegura que no mínimo quatro dos sete jurados que compõem o Conselho de Sentença, nos julgamentos de feminicídio, sejam mulheres. A proposta, de autoria da deputada Dandara (PT-MG), foi aprovada por recomendação da relatora, deputada Carol Dartora (PT-PR). A relatora disse que os colegiados que decidem sobre os feminicídios precisam ser sensíveis às peculiaridades desses crimes. “Por isso, devemos assegu..."
+        },
+        {
+          "title": "Comissão da Câmara aprova compensação fiscal para produtores de leite",
+          "url": "https://www.camara.leg.br/noticias/1316197-comissao-da-camara-aprova-compensacao-fiscal-para-produtores-de-leite",
+          "published_at": "Thu, 05 Nov 2026 13:31:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Rafael Simoes recomendou a aprovação da proposta sem alterações A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara dos Deputados aprovou o Projeto de Lei 228/25 , que prevê compensação fiscal para o leite e seus derivados produzidos no Brasil. Pela proposta, quando o governo federal reduzir o Imposto de Importação sobre lácteos estrangeiros, deverá conceder à indústria nacional crédito fiscal equivalente ao percentual da redução. A Receita Federal calculará o valor do crédito. O autor do projeto, ex-deputado Lebrão (RO)..."
+        },
+        {
+          "title": "Comissão aprova projeto que obriga agressor a pagar despesas de vítima com mudança de imóvel",
+          "url": "https://www.camara.leg.br/noticias/1316214-comissao-aprova-projeto-que-obriga-agressor-a-pagar-despesas-de-vitima-com-mudanca-de-imovel",
+          "published_at": "Thu, 05 Nov 2026 13:18:00 GMT",
+          "summary": "Vinicius Loures / Câmara dos Deputados Fernanda Melchionna: o custo econômico de deixar o lar é uma das barreiras mais concretas ao rompimento do ciclo de violência doméstica A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou o Projeto de Lei 1217/26 , que obriga o agressor a ressarcir as despesas da vítima que precisar mudar de imóvel em razão de violência doméstica. A relatora na comissão, deputada Fernanda Melchionna (Psol-RS), recomendou a aprovação da proposta, de autoria do deputado Pastor Henrique Vieira (Psol-RJ). Fernanda Melchionna considerou que a proposi..."
+        },
+        {
+          "title": "Comissão aprova exigência de tradução em Libras em eventos culturais",
+          "url": "https://www.camara.leg.br/noticias/1316200-comissao-aprova-exigencia-de-traducao-em-libras-em-eventos-culturais",
+          "published_at": "Thu, 05 Nov 2026 13:05:00 GMT",
+          "summary": "Bruno Spada / Câmara dos Deputados Erika Kokay é a relatora do projeto A Comissão de Cultura da Câmara dos Deputados aprovou proposta que exige a oferta de recursos de acessibilidade comunicacional, com tradução e interpretação simultâneas em Língua Brasileira de Sinais (Libras), em eventos artísticos e culturais que contem com apresentações ou manifestações orais. Os parlamentares aprovaram a versão da relatora ( substitutivo ), Erika Kokay (PT-DF), ao Projeto de Lei 3864/25, da deputada Andreia Siqueira (PSB-PA). A principal alteração promovida pelo substitutivo foi a ampliação do alcance..."
+        },
+        {
+          "title": "Câmara pode votar projetos sobre monitoramento de agressores e maus-tratos a animais",
+          "url": "https://www.camara.leg.br/noticias/1316213-camara-pode-votar-projetos-sobre-monitoramento-de-agressores-e-maus-tratos-a-animais",
+          "published_at": "Thu, 05 Nov 2026 11:42:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Plenário da Câmra durante sessão deliberativa A Câmara dos Deputados pode votar nesta quinta-feira (5) projeto de lei ( PL 5542/26 ) que prevê alertas sonoros e luminosos em equipamentos de monitoração eletrônica e a possibilidade de contenção física remota de agressores sujeitos a medidas protetivas por violência doméstica e familiar. Outra proposta em pauta torna hediondo o crime de maus-tratos a animais quando a violência resultar na morte do animal (PL 2475/25). A sessão do Plenário está marcada para as 10 horas. Os deputados podem analisar ainda pr..."
+        },
+        {
+          "title": "Comissão que analisa MP sobre crédito para empresas atingidas por tarifaço analisa relatório nesta quinta",
+          "url": "https://www.camara.leg.br/noticias/1316195-comissao-que-analisa-mp-sobre-credito-para-empresas-atingidas-por-tarifaco-analisa-relatorio-nesta-quinta",
+          "published_at": "Thu, 05 Nov 2026 10:49:00 GMT",
+          "summary": "Carlos Moura/Agência Senado A senadora Leany Lemos é a relatora da MP A comissão mista sobre a Medida Provisória (MP) 1379/26 , que prevê linhas de crédito de R$ 18,5 bilhões, com juros subsidiados, para exportadores e setores considerados estratégicos para a economia nacional analisa, nesta quinta-feira (5), o relatório da senadora Leany Lemos (PSB-DF). A reunião será realizada às 14 horas, no plenário 2 da ala Nilo Coelho, no Senado. A MP precisa ser aprovada pelo Congresso Nacional até 18 de novembro para não perder a validade. A deputada Nely Aquino (Pode-MG) é presidente do grupo e o s..."
+        },
+        {
+          "title": "Debatedores divergem sobre projeto de lei para ampliar concorrência no mercado de gás natural",
+          "url": "https://www.camara.leg.br/noticias/1316160-debatedores-divergem-sobre-projeto-de-lei-para-ampliar-concorrencia-no-mercado-de-gas-natural",
+          "published_at": "Wed, 04 Nov 2026 23:26:00 GMT",
+          "summary": "Renato Araujo / Câmara dos Deputados Duas comissões da Câmara debateram o assunto Audiência pública conjunta das comissões de Desenvolvimento Econômico e de Minas e Energia discutiu o Projeto de Lei (PL) 5802/25, de autoria do deputado Kim Kataguiri (Missão-SP). A proposta trata da desconcentração do mercado de gás natural no país. A redução da concentração do mercado de gás também é chamada de “gas release”. O mecanismo regulatório determina que um agente dominante venda, em leilões compulsórios para outros concorrentes, parte do gás que comercializa. Os debatedores favoráveis à ampliação..."
+        },
+        {
+          "title": "Instalada comissão que vai analisar linhas de crédito para empresas atingidas por tarifaço",
+          "url": "https://www.camara.leg.br/noticias/1316107-instalada-comissao-que-vai-analisar-linhas-de-credito-para-empresas-atingidas-por-tarifaco",
+          "published_at": "Wed, 04 Nov 2026 22:20:00 GMT",
+          "summary": "Bruno Spada / Câmara dos Deputados Deputada Nely Aquino, presidente da comissão mista Foi instalada nesta quarta-feira (4) a comissão mista responsável por analisar a Medida Provisória (MP) 1379/26, que prevê linhas de crédito de R$ 18,5 bilhões, com juros subsidiados, para exportadores e setores considerados estratégicos para a economia nacional. A deputada Nely Aquino (Pode-MG) foi eleita presidente do grupo e o senador Randolfe Rodrigues (PT-AP), vice-presidente. A senadora Leany Lemos (PSB-DF) foi designada relatora. A comissão deve se reunir novamente nesta quinta-feira (5) para analis..."
+        },
+        {
+          "title": "Após sediar COP30, Brasil leva novas contribuições à COP31, na Turquia",
+          "url": "https://www.camara.leg.br/noticias/1316069-apos-sediar-cop30-brasil-leva-novas-contribuicoes-a-cop31-na-turquia",
+          "published_at": "Wed, 04 Nov 2026 21:50:00 GMT",
+          "summary": "Renato Araújo / Câmara dos Deputados Deputado Nilto Tatto (E) e Aloísio de Melo, do Ministério do Meio Ambiente Representantes do governo federal apresentaram nesta quarta-feira (4), na Câmara dos Deputados, as contribuições que o Brasil levará à 31ª Conferência da ONU sobre Mudança do Clima, a COP31, prevista para 9 a 20 deste mês em Antália, na Turquia. Sede da cúpula climática anterior, a COP30 de Belém do Pará, o país vai montar o “Pavilhão Brasil”, com cerca de 130 eventos para mostrar ações governamentais e outras em parceria com universidades, empresários e sociedade civil, como resu..."
+        },
+        {
+          "title": "Câmara aprova criação de programa para acompanhamento psicossocial de crianças e adolescentes",
+          "url": "https://www.camara.leg.br/noticias/1316057-camara-aprova-criacao-de-programa-para-acompanhamento-psicossocial-de-criancas-e-adolescentes",
+          "published_at": "Wed, 04 Nov 2026 21:22:00 GMT",
+          "summary": "Marina Ramos/Camara dos Deputados Waldemar Oliveira previu em seu parecer que o SUS será responsável pelo programa A Câmara dos Deputados aprovou projeto de lei que cria o Programa Nacional de Acompanhamento Periódico Pediátrico e Psicossocial da Infância e Adolescência (PNAPP). A matéria será enviada ao Senado. De autoria da deputada Rosângela Reis (PL-MG), o Projeto de Lei 5815/25 prevê a garantia de acompanhamento periódico da saúde desse público e a identificação de indícios de risco, ameaça ou violação de seus direitos, especialmente em situações de violência, abuso, exploração, abando..."
+        },
+        {
+          "title": "Relator da PEC da Maioridade Penal deve apresentar parecer no final do mês",
+          "url": "https://www.camara.leg.br/noticias/1316048-relator-da-pec-da-maioridade-penal-deve-apresentar-parecer-no-final-do-mes",
+          "published_at": "Wed, 04 Nov 2026 21:10:00 GMT",
+          "summary": "Renato Araujo / Câmara dos Deputados Deputados Aluísio Mendes (E), presidente da comissão, e Mendonça Filho, relator O relator da Proposta de Emenda à Constituição (PEC) 32/15 que trata da redução da maioridade penal de 18 para 16 anos, deputado Mendonça Filho (PL-PE), disse, nesta quarta-feira (4), que vai apresentar seu parecer no final do mês. Segundo ele, a medida é reclamada pela sociedade. “Com certeza atenderá a expectativa da população brasileira que não mais suporta, não mais aguenta a realidade onde jovens de 16, 17 anos cometem crimes violentos e ficam absolutamente impunes. A ge..."
+        },
+        {
+          "title": "Sessão solene celebra os 40 anos da confederação de cooperativas de crédito",
+          "url": "https://www.camara.leg.br/noticias/1315993-sessao-solene-celebra-os-40-anos-da-confederacao-de-cooperativas-de-credito",
+          "published_at": "Wed, 04 Nov 2026 20:59:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Deputada Bia Kicis, que presidiu a sessão solene O aniversário de 40 anos da Confederação Brasileira das Cooperativas de Crédito (Confebrás) foi lembrado em sessão solene na Câmara dos Deputados nesta quarta-feira (4), com a presença de representantes do setor e do Banco Central. Segundo a Confebrás, o cooperativismo financeiro alcançou recentemente o marco de R$ 1 trilhão em ativos em uma base de mais de 21 milhões de cooperados, espalhados por 742 instituições em todo o país. São 10 mil postos de atendimento presentes em mais de mil municípios. O pres..."
+        },
+        {
+          "title": "Comissão aprova presença de intérprete de Libras para acompanhar paciente surdo em hospital",
+          "url": "https://www.camara.leg.br/noticias/1315977-comissao-aprova-presenca-de-interprete-de-libras-para-acompanhar-paciente-surdo-em-hospital",
+          "published_at": "Wed, 04 Nov 2026 20:53:00 GMT",
+          "summary": "Bruno Spada / Câmara dos Deputados Roberto Duarte: projeto se alinha com a dignidade e a promoção da igualdade A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta quarta-feira (4), proposta que autoriza a entrada e a permanência, em hospitais e clínicas, de intérprete de Libras para acompanhar paciente com deficiência auditiva que necessite de cuidados médicos. De acordo com a proposta, se o intérprete não puder entrar, o estabelecimento de saúde deverá disponibilizar um profissional treinado para acompanhar o paciente. O texto aprovado foi o sub..."
+        }
+      ]
+    },
+    {
+      "id": "caixa_ultimas_noticias",
+      "name": "CAIXA Notícias — Últimas Notícias",
+      "type": "web",
+      "category": "caixa_noticias",
+      "source_url": "https://caixanoticias.caixa.gov.br/Paginas/ultimas-noticias.aspx",
+      "status": "success",
+      "items_count": 20,
+      "items": [
+        {
+          "title": "CAIXA Cultural Fortaleza recebe o espetáculo A Invenção do Nordeste - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQejh5SGVfbE5qY2MxbGUxcnJzd1dpelNlY3VpVXZtc3hVeDB0Q21XVmRPenRLMGpoMmxpYmdlRGphS1plaGhEWmtwM3FhR3pWYVBYaGRjUzViMUtpUDM0V3V3alRYXzZwbk1Fd1hZb19Ra2lySEotdkhzU3kwOGRpUExHcGpfNElFczdyT1ZXdXdUbW1zdWs2aWotRkJqT2h2bGxxZXNhRUstLUlrcTkzVThIUmZHQW5QcnVxSU1ibGItVjlta1k4N3VDd3N4SXhWeWcyTEl5cENlMjk3UGt1RnRmY3cxdGtOYmRuTWs1Z1NiQms?oc=5",
+          "published_at": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Fortaleza recebe o espetáculo A Invenção do Nordeste CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Cultural Curitiba apresenta o grupo Barbatuques - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2FJUC1CUkxmUVlYUlVpTWV6ZWpVTlFZcXl3MWJTWXhPM3F2RWE4bE5aODlTX1YzajI2Ti1mT1NXOGtBUjZzMGdoSkxaWEgzNzZiVms0WFVUXzZCcElxWjVmVFFDMzh2N1dSU2ctaVFnY1MxcnY3X0RDODRfYVYyTVZjYTBsalBrYU9nWmdFMWFZRFF1cDNWaVNlR0ZueS1FalJ1QmNKQVpTc0l6V3BnVklnajR4eVVyLWhldWNQb3NkbzYyU3VMaF9fNA?oc=5",
+          "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Curitiba apresenta o grupo Barbatuques CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Cultural São Paulo recebe o espetáculo “Egoísta” - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQk8wZkFLbHhiQWJ1NjFrV2s3UkVxTUhYRWlYNUVPb0kzc3BCR0VHTlA5bFZvcV80eG9ndm02V2V5SGRZREU0ZG5LYmxINEZXRmN1dTh4RkxIU1NITXdnSThMRVlKX0VNS25Ec3IxZGp5REJqYjMzSllrU1ZrYU93SWhGSkVtNy1FcGNaUTRjSmlDOXdTalNzaDZjNFhRYm9HTFVxMFZOUlFJZGFjVFJjR044ckxGSVQzLTYzMmYyTHhLWERJenQ3TUEzanM1QUk?oc=5",
+          "published_at": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural São Paulo recebe o espetáculo “Egoísta” CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Loterias estende horários das apostas - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1JVa3R0ZUR5SXpHYU5SdkVpcHc3V3R1N1lRSVZnYjNCbDFtd1d2NXQyUUFMQmR1Ti1HV1BRNVZYMDlXc2lYN0hwQnRhdFNiY2xka0U1T2hja080WnRxSjJuSlhhdEltWl9JMHU2YUtnVlFVN2dqMGlWeXJXZ0t6bzBHTEpkV2xXMjd6R1h1OHQwLVpseGZHREZ4Z2FPYklzd1NWa25vSjZUODZJOGR1M1ZUUjItR05BbGtv?oc=5",
+          "published_at": "Tue, 03 Nov 2026 14:07:27 GMT",
+          "summary": "CAIXA Loterias estende horários das apostas CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA vai creditar aos trabalhadores R$ 13,04 bilhões do lucro do FGTS - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRjdPLTNLVmlqckI4QTBsSXQxdHZwR1BMRlZKVHBOUVpSQ1QzeHJiQXJGdGJwSFp5YXpEYXBVSWtGckJYWEJfazZ5UlYxWUlkU0x6NnBMa2VGWlFhQWZhRi1WNFFaaVpHZ191ck5UajZGSGJ1YUtHYjhqcm9fV0UtNU1xcHZQamJ6MW8wV3ZMRjVHMGJzajdWODN6aUd6TGVxY0NIS0pyekFhNVBuaHNUeVpDREVsc2hXYW45MXpORjFkR3o3THNYNkNPSHdYLUlJSDZndjBjaG52ZlhCTDRVYw?oc=5",
+          "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
+          "summary": "CAIXA vai creditar aos trabalhadores R$ 13,04 bilhões do lucro do FGTS CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Notícias CAIXA Cultural Recife apresenta o espetáculo infantil “Da Janela” - CAIXA",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSXlMNUlQSXZ6NllHTGRVamxqNGR0b0dsZTU0S0pKb1ktTkNzRmRtVUd5OVNBOEJoNnNUU1lPSkljeEdabmJ1YnNxYXQtUWFfVmo3bElicFczRFE3enRIZFlKWXNyblhDTXRkU2Zlb3Q3a28wVlRXWFZzMlE1eVJ1bm9SUU5rUTJiZHBoTWY2RGpMVU5LYm5CSUpCaGZoR19QQ3RObHdrV0paaE5CdHhUVkUwdVN5b3RXaXFBb0JNX2dva3FBVFAzZ0pFNjJFX0dxM0dqQnNMOVk?oc=5",
+          "published_at": "Mon, 24 Aug 2026 07:00:00 GMT",
+          "summary": "CAIXA Notícias CAIXA Cultural Recife apresenta o espetáculo infantil “Da Janela” CAIXA"
+        },
+        {
+          "title": "CAIXA Cultural São Paulo recebe edição 2026 do Festival Palco Brasil - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOWtPZXBXbm5UcVN6WjJSV25ocVpralI1NDBFd0pqcjNmVVdkSHo5ZG1CRWtDeGp4Z1pHYWUyTEtzck81TWlXNTJmS00xX015Wk5GMUU1aVdTUU9Sb1dnM3pkamFNdjd1UU9Vbll1aWREZDEyV2lRa1pRTXB4cTdXUE0tUV9iTlFQWVFaVG1nR081NUoycHZabGd6TnVHbHk4cTlma2lkRDhlcG9TVTdKbmo0NXM5VEtXN3IwdlctRHNTUjFBcjJxd3kzOXg2dXhsVllTWHc4YnYydmRkNXc?oc=5",
+          "published_at": "Fri, 14 Aug 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural São Paulo recebe edição 2026 do Festival Palco Brasil CAIXA Notícias"
+        },
+        {
+          "title": "Exposição “Rembrandt – O Mestre da Luz e da Sombra” chega à CAIXA Cultural São Paulo - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNVWxZQWlIUHowNWtqUzdCcWNxZUdaQ3dfUmlaZW96Zkx0QWZqUTd6ZDJQRm5PRWNDWkFmZ3Y0XzF3ckM5aGQ2RE1Ed095UEcxNWRoT25mT01HU3JNcnJjb3NBLU1URUh4Vl9JUHFRaGdTTmNpcUxtMFBLcVhpZzJrS0FGYlgtaElxRnRiVzZQc1FqbFlRVjNzWmxGYzlheTVraFR6aHdEdjRBN3N3M0QyQTViTXdzZlV3NVh6YnVIWS13UUFFWlJDaVJ5UW5oV3RmRnlJTWdoYTduc1FWZUpiQ1pjRU10dHlDcDFFQm1ZQ3hmZlFCR1VWZUNMRjNxeE8tWFd5SnB1TXAxU1lFeGdXSHpoS2JSTUt5dFc5QkZUWUxQX0FHallueVZKWjU?oc=5",
+          "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "summary": "Exposição “Rembrandt – O Mestre da Luz e da Sombra” chega à CAIXA Cultural São Paulo CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Cultural Brasília recebe a peça “Elogio da Loucura”, de Erasmo de Rotterdam - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS1hEN1hTbzBucVdod0J4a1lYdTVuZEhnMEkwVWQwY3dMRXBhM0tEU0M1MTBZd3VTWXNOQVZFekRCZG1fZjEyRUE5OGNTRnk0czVUYS1TUzR2d3lPUjF4ME83azY5aGZvZ29XcmsxWVpka3VwSDc1NHVQMUdOUGRvVzYxVldIVi03bWpfbUY4TlcybG5XaEdJb1U2clhUTHJoazlzNUFKbW9mTXJiSWUzXzJ2bmc0SmVQelJVUWdkd0ZGckp2X25uZUJobnNIMHpnNy1ZcllocVFTVTFrdWZJZlJrZnRkU3JsaDN3?oc=5",
+          "published_at": "Tue, 18 Aug 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Brasília recebe a peça “Elogio da Loucura”, de Erasmo de Rotterdam CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA disponibiliza saque calamidade para os moradores de Guaratuba (PR) - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUGlSSnFZVTNFZTVCM2w1MURIX2RmdGUwczhyekxTd2dkZjFUa2RkaGtZOUNHbGctcnRkSHFKT0JYWGVHVHR5aFlaYlg2ZjBXeXhrUDJ1QjdSbENicnlBSmhhWVduaXd5R3dPMTN5LWhldTlqNUNpTW1HRXVVQkFSTmtCQTZ0RHlGb3NHUVBMLXZGS004cEJOUE5XeDdwXy1HdlJDX3BpMUNQakcwNmduZjZGLTBtUWxwZlZMT1hNMmlfWlA5cXB5eWRxWlVfc2E0UlFNX21PN2pvdmJRRElnSA?oc=5",
+          "published_at": "Thu, 13 Aug 2026 07:00:00 GMT",
+          "summary": "CAIXA disponibiliza saque calamidade para os moradores de Guaratuba (PR) CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA inicia pagamento do Abono Salarial 2026 na próxima segunda-feira (16) - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd3NXblZpVmVzbnE1dFFhSHBDZ0JuVDhHcUFQREVRcmxla0NON0Q0UHRSZnR6U2xkeVdiT09Rclo1aHNsM0MxaFlUQlZHVVQ0UjJUQkJkOENvcm5PVjZWSDZ3MU5JSmRGaldIZi1Oa0JPNUxReVR6VnNtbFpYYWRyT3Q0dFZ4T0FObFlTWEZYU0EzN2NWUVZ2ZVRUM3JVWHlBNlo0WVhrV2J1eEJvQzhIR013MldOcjhUcE9EUUMxblBmbmlYWjJvMFlkeXloMFBKYjNOVjNXeUhhUzIzZmc2REVaTjhHczE5?oc=5",
+          "published_at": "Fri, 13 Feb 2026 08:00:00 GMT",
+          "summary": "CAIXA inicia pagamento do Abono Salarial 2026 na próxima segunda-feira (16) CAIXA Notícias"
+        },
+        {
+          "title": "Lotofácil da Independência 2026 inicia suas vendas - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkhPQ21jeFJPOHVrUDlpMC1ZejhJM3FKSGNTWGlJenFSeGNvSGtRcFB3WTJyR1Ztb2IxTjZBNlR5R285UFBISDUtZmJxbkRkV3pnTnUxcG1RY2kwNlZFUS1ieXhhUE52U1RpMHFjR3dEUkJTb2FYcTdSYVd0LWRnTGhCTld5UmNSeE40UlJ1LUZ2QnN3OVZvank0WGU0bXBnU3lsblVXWUk5N2Jtalh2Z0YyVDJBQWZyRHRRTEVkbWw0WHFS?oc=5",
+          "published_at": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "summary": "Lotofácil da Independência 2026 inicia suas vendas CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Cultural Brasília apresenta monólogo de Othon Bastos - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOGpHdWtvaUVOM0Zmdmh4QzlJYWFEbDVuSGxiX0puanlBeEhvenlaYW1UdGMzUXNWaDVCZENYMVdfYW1NVm5QWDNtaDc0THlxaDNiTVE0Umo1M3IyVE5EdEk0UHhQWHBFVjd0ejl6RUtQblQyVzRpU3JDaGpOa3hwLTJrMkNJZFhhX1FUYTlwSHVGb2tpNVExbXc5SHFZUEMtNDNRd0ZaZXVWeEdKZTI1eE15NkRJTG9HMkpNTDVkdXA2MmQybTdGclVnLW1MaFVRaWJ0TjJEV0NtdDIwZnc?oc=5",
+          "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Brasília apresenta monólogo de Othon Bastos CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Cultural Salvador recebe “Grandes Pequeninos” para celebrar mês das crianças com “Cantabrincando” - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOclNVRHJpOUVMNXE3R1VpRUxMdlhhT1E3OHZZSGdOd09kaERzb2sxbEdkdzhkTm9XTmx1R0NhUU9URHhwNmt2ZHFNVkN5SDhQQXRwS1VQRnoyanRFbTZXVGRISmFOc1pBdk03Uy1lQ2Fhcmp3NXVsNEkzMGNlMXpMazdhb0N2MWRJZXpwdFM2X21nZ04wZkJlUjFBeEw1LUNVcUhLZlhNX0dmV2IzQVNWNFZEa1pXSTdqRFpQMmNXTFhNWC1Id3pOTm1WODg0d3pHMlUzZW16bnhPMnF3czZ3RGZEZzZZVVpBZUhMWG4tcHdVTlpJQmR1SXZoZWVMQzRXMHhGaDFUajI4dw?oc=5",
+          "published_at": "Tue, 29 Sep 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Salvador recebe “Grandes Pequeninos” para celebrar mês das crianças com “Cantabrincando” CAIXA Notícias"
+        },
+        {
+          "title": "Roberta Sá comemora 20 anos de carreira com temporada de shows na CAIXA Cultural Salvador - CAIXA",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNUFVRHpyZkppUGNkYjNjU05EWG5MMGEzemFLNmt0SHNhWXcxSWdrQkJPUGJDNERHRWM2QVZubFMxdWM2OE5KVENxbERPaHRiamxLN3p3Q29pM29kRV9uRWEwNnE5eFlfakFBSkZYRGV2TVpVdFdBdkwzR0Q2M3BXSUpMSXRZNnRqMXdpZ21QbWU5Smh5dzNvdTdKbXRyN2VGMVR6SG1JSl9Dd1BQN1BTbjdOQ3pxTmxnU3JqNmppTWFPWmpIcXIzUUNwemVQWVpBc3JVekFFT3BuV0RmVFNVaE1ocl8xQWVu?oc=5",
+          "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
+          "summary": "Roberta Sá comemora 20 anos de carreira com temporada de shows na CAIXA Cultural Salvador CAIXA"
+        },
+        {
+          "title": "CAIXA Cultural Brasília apresenta “Escola de Mulheres”, de Moliére - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUlNjU2tkY09obmtWQmFoajhjbWloUlVUTkw1RnpsdnlsR2NVUXhKTTlfQ1d2X1hlZW1KZFdGYWZ5Z29CYzkwR1FFWjBVbzhldFgwUjl5OE9yQkE0SjdZYXJSLWQyajVXUUMtQm92NUROYTJyT2EyMllLcGJLc1hpa3dSVVRUMGdnVzB1NGdHMjQyUDlYa1o3YlFmUDhPOUE2V0RhTWtGMXhGSzNTeGtYOEZPMTRZdTJMSGk1eUdRSDZocTREWHVRM2QzU0MtUjF1b1FxZ2V3?oc=5",
+          "published_at": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Brasília apresenta “Escola de Mulheres”, de Moliére CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Cultural São Paulo celebra nordeste com música e cordel - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3FpU3JFYUdhdUVaSHU2SWc2ZzY0UDJMVXh6TWhPOHJURHRwWmlIME9iRFdVRmpDRUZ1OXVmTGNabERzOFlYSi1DS3pWSURYY0ZIYmVoeVNoV3BXSlRPb2lNR25UUW1HLU8zZFBnSWppNVdNRExxTWRxWUdtWkVvQ1hLT1pOQXdoY1R4YUlCTW1kb3d6NHk5ZS1SR1JKbW9Qc29fTGNnQ0RDZ2VuU18yQ0Q2Mng0dzVYajBZSFRLMjZoVHJPUWlUWi1yVHlNb2s3WmJLOWtLMA?oc=5",
+          "published_at": "Fri, 25 Sep 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural São Paulo celebra nordeste com música e cordel CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA inicia pagamento do Bolsa Família referente ao mês de julho nesta segunda-feira (20) - CAIXA",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNTk3dnBZaC1JWDVJT09TYnlRa195X2d3VXZ1RDBFUjdrNFlidVluWkhKVEJ0aE5HSkE4SGY4VFNieEVOSDY2Rmx1TUNMRmNXTEhJcU9ZTGZjdTBEOW5ZUjl0RWdma2NkcHFhak5pRzNTR1hUM3BjWDJFaEdHNHhJNWp4T2NWVDBVRDVCTHQ4TVpBSWVvRjFqNkNUMngyd28tc0RRZmhWUEtYcFFMT09LVlJCWUZkVmJfS29BNkRfME5ScGV2Wk5RSjgyUXJERmpJQzFTbXRacHJ1Szk4YTZsZGZ1LS0zVW1BWGVZWDFVdXBPWUZSX2x1R2MtWlNjd1NkTzQ1MFJYSQ?oc=5",
+          "published_at": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "summary": "CAIXA inicia pagamento do Bolsa Família referente ao mês de julho nesta segunda-feira (20) CAIXA"
+        },
+        {
+          "title": "Oficinas gratuitas marcam início da programação da Unidade Pelourinho da CAIXA Cultural Salvador - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWVJpV250Y294YlppTmx5SWx3TXd6akc4OXRDRVRtUG4xaFJsQmUxWTd5bDRCak15VXpUTDhmNHpjZkFwVGpFX0tiNExxaGtyb3UydVVUWWZ1VlowTUJvaUtGU0RKQXVsZl9Qb3d5NVJpWWRDTHJWWVp1SlhYcTdUUmV3RUVfZElXVTl4ejJGMDhSOWxXSGxieVNMZzhMR05WbXYwN1kyZlROTVhfaTNVcTBPMnZUbjlSMDFfMzN0aFJXeXUteHRjMm1RY2JFWVpSaTlndFlBMzFmYllHa05mMEpzdGZ6anpNejVLTEpDY1BQOWQwckI2Q2ZVVjBBVk5sRVE?oc=5",
+          "published_at": "Thu, 16 Jul 2026 07:00:00 GMT",
+          "summary": "Oficinas gratuitas marcam início da programação da Unidade Pelourinho da CAIXA Cultural Salvador CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Cultural Rio de Janeiro recebe Festival CAIXA Ano Cultural Brasil-China - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQkRIbWhpS3lJbTJfc05tQTNlaDl1bzJYVXNnU2NGVmd6dUV5Mlc1eFo0THlVek95MURmVV9pQ25vZXFuMng0OGdlaGhtVW1Ga20xdWdkQzRPeDNzZ2NWWTBjMnctRGpFNktKODN0R0dVYzlCMFZkNXNIZjNLeHh2OUprcUx1WDhtTC1nQzJXX0ljS2hicmwzUnJpc3lrQUtTZ204VTVkS2t4QXBMbmtYUUxHZS1xTnRVdjBmUGNLOEhVVEREYlhrMFVmcmd5c0dJczd2SjBzZFhzUzlnRVRmR0pmckFYa0Nv?oc=5",
+          "published_at": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Rio de Janeiro recebe Festival CAIXA Ano Cultural Brasil-China CAIXA Notícias"
+        }
+      ],
+      "note": "Coletado via endpoint/feed de fallback (https://news.google.com/rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419)"
+    },
+    {
+      "id": "bb_imprensa_setor_publico",
+      "name": "Agência de Notícias BB (Imprensa) — Categoria Setor Público",
+      "type": "api",
+      "category": "imprensa_bb_setor_publico",
+      "source_url": "https://imprensa.bb.com.br/category/setor-publico/",
+      "status": "success",
+      "items_count": 20,
+      "items": [
+        {
+          "id": 2526,
+          "title": "BB firma cooperação com TREs para operacionalizar pagamentos nas Eleições 2026",
+          "subtitle": "Parceria garante agilidade e segurança no pagamento de auxílio-alimentação a mesários e demais colaboradores da Justiça Eleitoral em todo o país",
+          "summary": "Crédito: TSE/Divulgação O Banco do Brasil firmou acordos de cooperação técnica com os Tribunais Regionais Eleitorais (TREs) de todo o país para operacionalizar o pagamento dos auxílios-alimentação destinados aos colaboradores convocados para atuar nas Eleições Gerais de 2026. A iniciativa utilizará a infraestrutura digital do Banco para...",
+          "content": "O Banco do Brasil firmou acordos de cooperação técnica com os Tribunais Regionais Eleitorais (TREs) de todo o país para operacionalizar o pagamento dos auxílios-alimentação destinados aos colaboradores convocados para atuar nas Eleições Gerais de 2026. A iniciativa utilizará a infraestrutura digital do Banco para assegurar pagamentos rápidos, seguros e com abrangência nacional, contemplando os repasses relativos ao primeiro turno e, se houver, ao segundo turno do pleito. Por meio da parceria, o BB atuará como agente financeiro responsável pelo processamento dos pagamentos, utilizando soluções tecnológicas já consolidadas no atendimento ao setor público. Os créditos serão realizados a partir das informações encaminhadas pelos tribunais eleitorais, por meio de sistemas eletrônicos que asseguram agilidade operacional, rastreabilidade e segurança no tratamento dos dados. A atuação do Banco permitirá que colaboradores da Justiça Eleitoral recebam os auxílios por meio de Pix, de forma rápida e segura, contribuindo para a organização logística das eleições em todas as regiões do país. A experiência do BB no atendimento a órgãos públicos é um diferencial que apoia a execução de operações de grande escala e relevância nacional. A solução deverá viabilizar o pagamento de auxílios-alimentação para aproximadamente 2,3 milhões de mesários e colaboradores da Justiça Eleitoral em todo o país, fortalecendo a eficiência operacional de uma das maiores mobilizações cívicas do Brasil. A atuação se apoia na experiência acumulada pelo Banco do Brasil em processos eleitorais anteriores, quando a instituição foi responsável pelo processamento de mais de 2,1 milhões de pagamentos destinados aos colaboradores da Justiça Eleitoral nas eleições de 2024.\"O Banco do Brasil contribui para a realização das Eleições 2026 por meio de uma solução que combina tecnologia, segurança e alcance nacional. Essa parceria reforça nosso compromisso com o fortalecimento das instituições públicas e com a prestação de serviços que apoiam o exercício da cidadania em todo o país\", afirma Hélen Cássia Nunes, gerente executiva da Diretoria Negócios Governo do Banco do Brasil. Os acordos de cooperação técnica firmados com os tribunais não envolvem prestação de serviço remunerada, tendo como objetivo exclusivo viabilizar a operacionalização dos pagamentos dos auxílios-alimentação aos colaboradores da Justiça Eleitoral. A iniciativa integra o conjunto de ações preparatórias para as eleições e reforça a parc...",
+          "url": "https://imprensa.bb.com.br/bb-firma-cooperacao-com-tres-para-operacionalizar-pagamentos-nas-eleicoes-2026",
+          "published_at": "2026-10-01T12:01:17-03:00"
+        },
+        {
+          "id": 2444,
+          "title": "BB registra mais de 46 mil contas eleitorais e amplia apoio às Eleições 2026",
+          "subtitle": "Instituição já atende aproximadamente 76% das candidaturas registradas pelo TSE",
+          "summary": "O Banco do Brasil alcançou a marca de 46.908 contas eleitorais abertas, consolidando sua posição como principal instituição financeira escolhida pelos candidatos para a movimentação dos recursos de campanha. Conforme dados do Tribunal Superior Eleitoral (TSE), até a data de 11 de setembro, haviam sido registradas 20.929...",
+          "content": "O Banco do Brasil alcançou a marca de 46.908 contas eleitorais abertas, consolidando sua posição como principal instituição financeira escolhida pelos candidatos para a movimentação dos recursos de campanha. Conforme dados do Tribunal Superior Eleitoral (TSE), até a data de 11 de setembro, haviam sido registradas 20.929 candidaturas, das quais 15.899 abriram contas no BB. Este número equivale a aproximadamente 76% do total de pedidos de registro de candidatura contabilizados pelo TSE. Pela primeira vez em uma eleição nacional, que envolve a escolha de deputados, senadores, governadores e presidente da República, o Banco do Brasil oferece aos candidatos a abertura digital de contas eleitorais. Do total de contas abertas por candidatos, 41% foram contratadas pelos canais digitais do BB, resultado que demonstra a adesão à praticidade proporcionada pela solução. O BB é a única instituição financeira a disponibilizar aos candidatos um processo de abertura de conta eleitoral 100% digital. Euler Mathias , diretor de Governo do Banco do Brasil, afirma que \"os números evidenciam a ampla utilização das soluções disponibilizadas pelo BB para atendimento às exigências do processo eleitoral. A adesão às nossas soluções, especialmente pelos canais digitais e pela plataforma dedicada às contas eleitorais, confirma que estamos entregando conveniência, eficiência e segurança aos candidatos\". O Banco do Brasil oferece estrutura especializada para a abertura e gestão de contas eleitorais, com atendimento em todo o território nacional e soluções que proporcionam agilidade, segurança e conformidade com as regras estabelecidas pela Justiça Eleitoral. A abertura de conta bancária específica é, em regra, obrigatória para a movimentação dos recursos de campanha, observadas as hipóteses previstas na legislação eleitoral. Ao disponibilizar soluções especializadas para abertura e gestão dessas contas, o BB reafirma seu compromisso com a regularidade das campanhas e com o fortalecimento da transparência no processo eleitoral em todo o país.",
+          "url": "https://imprensa.bb.com.br/bb-registra-mais-de-46-mil-contas-eleitorais-e-amplia-apoio-as-eleicoes-2026",
+          "published_at": "2026-09-21T09:23:44-03:00"
+        },
+        {
+          "id": 1818,
+          "title": "BB simplifica abertura de contas eleitorais para candidatos nas Eleições 2026",
+          "subtitle": "Solução digital permite abrir até cinco contas eleitorais pelo celular, com validação automática de dados junto à Justiça Eleitoral",
+          "summary": "Com o início da preparação para as Eleições 2026, o Banco do Brasil ampliou as funcionalidades da Conta Eleitoral Digital BB, solução que permite aos candidatos abrirem contas destinadas à movimentação financeira de campanha de forma totalmente digital. A principal novidade é a integração com os sistemas...",
+          "content": "Com o início da preparação para as Eleições 2026, o Banco do Brasil ampliou as funcionalidades da Conta Eleitoral Digital BB, solução que permite aos candidatos abrirem contas destinadas à movimentação financeira de campanha de forma totalmente digital. A principal novidade é a integração com os sistemas da Justiça Eleitoral para validação automática das informações e do Requerimento de Abertura de Conta (RAC), reduzindo etapas e tornando o processo mais ágil e simples para candidatos aos cargos federais e estaduais que disputarão o pleito deste ano. Pelo aplicativo BB, é possível abrir até cinco contas eleitorais sem necessidade de comparecimento à agência, utilizando apenas documento de identificação e validação biométrica facial. A iniciativa busca oferecer mais autonomia, praticidade e segurança aos candidatos e suas equipes. Lançada em 2024, a Conta Eleitoral Digital BB teve ampla adesão já em seu primeiro ciclo eleitoral, quando mais da metade das contas eleitorais passou a ser aberta pelos canais digitais do Banco. A Conta Eleitoral Digital BB reforça o compromisso do Banco do Brasil em oferecer soluções cada vez mais simples, seguras e acessíveis para o setor público e para os participantes do processo eleitoral. Ao permitir a abertura de contas pelo celular, com validação integrada à Justiça Eleitoral, ampliamos a autonomia dos candidatos, reduzimos etapas operacionais e contribuímos para uma jornada mais eficiente, transparente e alinhada às exigências da legislação eleitoral, afirma Euler Mathias , diretor de Governo do Banco do Brasil. A conta eleitoral é obrigatória para a movimentação dos recursos de campanha e contribui para a transparência e rastreabilidade financeira exigidas pela legislação eleitoral. Para mais informações acesse bb.com.br/site/setor-publico/conta-eleitoral/",
+          "url": "https://imprensa.bb.com.br/bb-simplifica-abertura-de-contas-eleitorais-para-candidatos-nas-eleicoes-2026",
+          "published_at": "2026-07-23T14:01:32-03:00"
+        },
+        {
+          "id": 1784,
+          "title": "Conglomerado BB lança edital de até R$ 225 milhões para apoiar comunidades na Bacia do Rio Doce",
+          "subtitle": "Iniciativa combina investimento social, apoio produtivo e fortalecimento de economias locais",
+          "summary": "O Banco do Brasil, por meio da Fundação BB e em parceria com a Secretaria-Geral da Presidência da República, lançou o Edital Rio Doce Participativo e Comunitário, que destina até R$ 225 milhões do Fundo de Participação Social vinculado ao Fundo Rio Doce para apoiar projetos comunitários...",
+          "content": "O Banco do Brasil, por meio da Fundação BB e em parceria com a Secretaria-Geral da Presidência da República, lançou o Edital Rio Doce Participativo e Comunitário, que destina até R$ 225 milhões do Fundo de Participação Social vinculado ao Fundo Rio Doce para apoiar projetos comunitários voltados ao desenvolvimento socioeconômico de comunidades da Bacia do Rio Doce e do Litoral Norte capixaba. A iniciativa prevê inscrições abertas para projetos que receberão valores entre R$ 50 mil e R$ 400 mil, além de cerca de R$ 15 milhões para ativação territorial e inclusão produtiva, priorizando geração de renda, fortalecimento de modos de vida locais e desenvolvimento sustentável. O projeto beneficia diretamente 49 municípios em Minas Gerais e no Espírito Santo. Podem se inscrever organizações da sociedade civil, cooperativas, coletivos formalizados e organizações representativas de povos e comunidades tradicionais sem fins lucrativos. Coletivos informais podem participar desde que com vínculo com instituição parceira com CNPJ formal. O projeto é uma parceria entre o conglomerado Banco do Brasil, via Fundação BB, e a Secretaria Geral da Presidência da República. Para o vice-presidente de Governo e Sustentabilidade do Banco do Brasil, José Ricardo Sasseron, a iniciativa reafirma o papel do BB como instituição próxima das pessoas e comprometida com o desenvolvimento sustentável do país. O Banco do Brasil nasce e cresce junto com o Brasil. Queremos ser um banco cada vez mais próximo, relevante e presente na vida da sociedade, contribuindo para o desenvolvimento social, econômico e ambiental dos territórios onde atuamos, afirma. Os recursos serão direcionados a projetos coletivos, com atenção especial a mulheres, povos indígenas, comunidades quilombolas, povos e comunidades tradicionais e jovens, priorizando iniciativas que fortaleçam a autonomia, a organização comunitária e a redução de desigualdades. A Fundação BB será responsável pela seleção, contratação, acompanhamento e monitoramento dos projetos sociais apoiados. Os aportes por iniciativa poderão variar entre R$ 50 mil e R$ 400 mil, alcançando centenas ou milhares de projetos comunitários, conforme as propostas apresentadas. A estratégia inclui ações de capacitação, fortalecimento institucional e acompanhamento contínuo, assegurando transparência, controle social e impacto mensurável. Segundo o presidente da Fundação Banco do Brasil, André Machado, a Fundação BB atua para transformar recursos em cidadania con...",
+          "url": "https://imprensa.bb.com.br/conglomerado-bb-lanca-edital-de-ate-r-225-milhoes-para-apoiar-comunidades-na-bacia-do-rio-doce",
+          "published_at": "2026-05-25T14:26:35-03:00"
+        },
+        {
+          "id": 1781,
+          "title": "BB apresenta Programa de Gestão Climática para municípios",
+          "subtitle": "Iniciativa vai apoiar 100 municípios na estruturação de projetos de mitigação e adaptação climática, com uso de inteligência artificial",
+          "summary": "O Banco do Brasil anuncia nesta quarta-feira, 20 de maio, o pré-lançamento da Assessoria ASG com foco em Gestão Climática Municipal. A iniciativa é uma parceria entre o BB e a WayCarbon, empresa brasileira de inteligência climática e desenvolvimento de soluções digitais para gestão de emissões, riscos...",
+          "content": "O Banco do Brasil anuncia nesta quarta-feira, 20 de maio, o pré-lançamento da Assessoria ASG com foco em Gestão Climática Municipal. A iniciativa é uma parceria entre o BB e a WayCarbon, empresa brasileira de inteligência climática e desenvolvimento de soluções digitais para gestão de emissões, riscos climáticos e sustentabilidade, com apoio da Secretaria do Tesouro Nacional (STN). A solução está em fase de testes e a previsão é que esteja disponibilizada em junho. A Assessoria ASG integra inteligência artificial, tecnologia de monitoramento, diagnósticos territoriais e soluções de gestão financeira do BB para apoiar gestores públicos na identificação de vulnerabilidades, na criação de ações de adaptação e na mitigação das mudanças climáticas. A inciativa prevê apoiar a estruturação de projetos climáticos prioritários em 100 municípios brasileiros de pequeno e médio porte, voltados tanto à redução das emissões de gases de efeito estufa quanto à adaptação aos impactos climáticos. O objetivo é fortalecer a resiliência urbana e preparar projetos aptos à captação de recursos. A solução será disponibilizada sem custo para os municípios participantes, com base em recursos previstos na Portaria Normativa STN/MF nº 808. O lançamento ocorre em um contexto de agravamento dos eventos climáticos extremos no país. Relatório do Centro Nacional de Monitoramento e Alertas de Desastres Naturais (CEMADEN) indica que 2025 foi o terceiro ano mais quente já registrado, com temperatura média global 1,47°C acima dos níveis pré-industriais. O período é marcado por secas severas, enchentes, ondas de calor e uma série de desastres que impactaram infraestrutura, abastecimento hídrico, agricultura e mobilidade urbana em milhares de municípios brasileiros. Os desafios climáticos já impactam diretamente a vida das cidades e exigem planejamento, inteligência territorial e capacidade de resposta. O Banco do Brasil quer apoiar os municípios nessa transição, conectando tecnologia, informação e soluções financeiras para fortalecer o desenvolvimento sustentável local, destaca José Alves, head de Sustentabilidade do Banco do Brasil. O desafio climático no Brasil deixou de ser apenas ambiental. Hoje ele é também fiscal, econômico e de infraestrutura. O grande diferencial deste programa é transformar dados climáticos em capacidade de investimento. Estamos ajudando cidades brasileiras a sair do diagnóstico e avançar para a estruturação de projetos concretos, financiáveis e alinhados à real...",
+          "url": "https://imprensa.bb.com.br/bb-apresenta-programa-de-gestao-climatica-para-municipios",
+          "published_at": "2026-05-25T11:08:41-03:00"
+        },
+        {
+          "id": 1770,
+          "title": "Banco do Brasil impulsiona a digitização na gestão pública",
+          "subtitle": "Plataforma BB Governo Digital traz mais eficiência aos serviços públicos e auxilia na conservação ambiental",
+          "summary": "O Banco do Brasil, em parceria com a govtech Aprova, apresenta os primeiros resultados da implantação da solução BB Governo Digital, plataforma integrada para gestão e automação de processos do setor público que centraliza análises, autorizações, assinaturas e cobranças em um único ambiente digital, com elevado padrão...",
+          "content": "O Banco do Brasil, em parceria com a govtech Aprova, apresenta os primeiros resultados da implantação da solução BB Governo Digital, plataforma integrada para gestão e automação de processos do setor público que centraliza análises, autorizações, assinaturas e cobranças em um único ambiente digital, com elevado padrão de segurança, conformidade jurídica e governança. A solução visa apoiar gestores públicos na tomada de decisão e no controle dos fluxos administrativos. Um dos municípios participantes do piloto é Ipatinga (MG), que já passou a operar com um sistema 100% digital de gestão pública. Processos que antes dependiam da circulação física de documentos entre secretarias passaram a tramitar de forma totalmente digital na plataforma, que oferece automação, inteligência artificial, rastreabilidade completa, padronização de fluxos e análise em tempo real. Os resultados mostram que, além de melhorar a eficiência dos serviços públicos, a plataforma também auxilia na conservação ambiental: - 700 mil páginas não impressas mensalmente; - Redução de 42 toneladas de papel utilizadas por ano; - Redução de custos operacionais e de insumos; - Alinhamento à agenda de sustentabilidade e ESG; - Redução do prazo de processamento dos documentos de 5 a 20 dias para poucas horas e, em alguns casos, poucos minutos. A população de Ipatinga também passou a se beneficiar da digitalização de documentos. Os cidadãos passaram, por meio da plataforma, a abrir e a acompanhar protocolos sobre serviços públicos de forma on-line, pelo celular ou computador, acompanhando todas as etapas do processo sem filas ou deslocamentos. O projeto rendeu à cidade a Medalha Pan-Americana da Inovação, na Expo BH Cidades Inteligentes (Fórum Pan-americano da Inovação), evento realizado em 8 de abril, com projeção desse reconhecimento para a etapa Global, a ser realizada no mês de maio, em Boston. Em Formiga (MG), a plataforma foi responsável pela economia de R$ 18 mil mensais para os cofres públicos e liberação de 125 horas de trabalho (que chegará a 300h/mês). Já em Uberaba (MG), os números projetam economia anual na ordem de R$ 3,5 milhões e 28 toneladas de papel fora de circulação. A experiência em Minas Gerais mostra que a solução BB Governo Digital tem potencial para ser replicada em municípios de diferentes portes, aproveitando a capilaridade e a atuação histórica do Banco do Brasil com os entes públicos. Ao apoiar a transformação digital de processos administrativos, o Banco do Brasil rea...",
+          "url": "https://imprensa.bb.com.br/banco-do-brasil-impulsiona-a-digitizacao-na-gestao-publica",
+          "published_at": "2026-05-04T09:44:22-03:00"
+        },
+        {
+          "id": 1760,
+          "title": "Plataforma do BB reduz em 72% desperdício de alimentos em escolas públicas",
+          "subtitle": "BB Alimentação Escolar também gera economia aos municípios",
+          "summary": "O Banco do Brasil vem ampliando o uso de tecnologia para apoiar a modernização da gestão pública municipal por meio da solução BB Alimentação Escolar, plataforma digital desenvolvida em parceria com a govtech Lemobs. Os resultados dos primeiros meses de uso em 15 municípios mostram que houve...",
+          "content": "O Banco do Brasil vem ampliando o uso de tecnologia para apoiar a modernização da gestão pública municipal por meio da solução BB Alimentação Escolar , plataforma digital desenvolvida em parceria com a govtech Lemobs. Os resultados dos primeiros meses de uso em 15 municípios mostram que houve redução significativa no desperdício de alimentos, gerando economia na casa das centenas de milhares de reais aos caixas das prefeituras. A iniciativa tem como objetivo qualificar o planejamento, o monitoramento e a gestão da merenda escolar, promovendo maior eficiência na aplicação dos recursos públicos, redução de desperdícios e melhoria da qualidade nutricional das refeições oferecidas a estudantes da rede pública. A aplicação da solução começou há poucos meses em 15 municípios e já demonstra resultados expressivos. Em Belém (PA), onde a plataforma foi implementada inicialmente em cinco escolas da rede municipal, os dados apurados entre outubro e dezembro de 2025 indicaram: - Redução de 72% no desperdício de alimentos - Preservação de 7 toneladas de comida, equivalente a 25 mil refeições - Economia de cerca de R$ 200 mil para o município - Redução de 10 toneladas de emissões de carbono - 2,4 mil estudantes beneficiados diretamente - 88% de aprovação das refeições pelos alunos Os resultados foram aferidos por meio do método Aproveita+, que combina acompanhamento em campo, testes de aceitabilidade, análises antropométricas, capacitação das equipes escolares e uso de inteligência de dados para mensurar desperdício, custos e impactos ambientais. A plataforma BB Alimentação Escolar reúne funcionalidades como testes digitais de aceitabilidade das refeições, painéis de acompanhamento nutricional e operacional e ferramentas de apoio à tomada de decisão. Esses recursos ampliam a transparência da gestão, reduzem riscos de não conformidade e otimizam o tempo das equipes técnicas das secretarias municipais de educação. As projeções indicam que a adoção da solução em toda a rede municipal de Belém pode gerar, anualmente, a preservação de aproximadamente 220 toneladas de alimentos, economia superior a R$ 1,2 milhão e impacto positivo para cerca de 63 mil estudantes. Em escala nacional, o potencial de replicação da iniciativa aponta para ganhos significativos na eficiência do gasto público e no fortalecimento das políticas de segurança alimentar. De acordo com Michele Azevedo Alencar, gerente geral de estratégia de Governo do Banco do Brasil, a solução reforça o papel da insti...",
+          "url": "https://imprensa.bb.com.br/plataforma-do-bb-reduz-em-72-desperdicio-de-alimentos-em-escolas-publicas",
+          "published_at": "2026-04-22T13:25:52-03:00"
+        },
+        {
+          "id": 1753,
+          "title": "BB lança Selo de Reconhecimento FGO e mira elevar qualidade do crédito garantido no Brasil",
+          "subtitle": "Iniciativa estabelece critérios de desempenho e incentivos à qualidade na operação do Fundo de Garantia de Operações",
+          "summary": "O Banco do Brasil lança nesta quarta-feira (1), durante a 11ª edição do Fórum do Desenvolvimento, o Selo de Reconhecimento FGO, um novo instrumento voltado a elevar o padrão de qualidade do crédito garantido no país. O lançamento ocorre na Arena do Banco do Brasil, em Brasília....",
+          "content": "O Banco do Brasil lança nesta quarta-feira (1), durante a 11ª edição do Fórum do Desenvolvimento, o Selo de Reconhecimento FGO, um novo instrumento voltado a elevar o padrão de qualidade do crédito garantido no país. O lançamento ocorre na Arena do Banco do Brasil, em Brasília. A iniciativa institui um modelo estruturado de avaliação, incentivo e padronização da atuação dos agentes financeiros que operam com o Fundo de Garantia de Operações (FGO). Na prática, o selo introduz critérios objetivos para mensurar a qualidade das operações realizadas com garantia, induzindo melhoria contínua na atuação das instituições financeiras e fortalecendo a eficiência das políticas públicas associadas ao crédito. A certificação será concedida anualmente aos agentes que se destacarem na operacionalização do FGO, com base em indicadores que avaliam desempenho, qualidade das informações e aderência às diretrizes do programa. A metodologia de avaliação está estruturada em quatro eixos principais: excelência operacional, compliance e governança, gestão de carteira e impacto em políticas públicas. Entre os critérios analisados estão a qualidade e a tempestividade no envio de dados, a conformidade com normas e auditorias, a capacidade de recuperação de operações e o alcance do crédito a públicos prioritários, como mulheres empreendedoras. A apresentação da iniciativa integra a programação do Fórum do Desenvolvimento, encontro que reúne autoridades, especialistas e representantes do setor público e privado para discutir caminhos para o financiamento do desenvolvimento no país. A programação do evento vai até quinta-feira (2). Saiba mais em www.forumdodesenvolvimento.com.br .",
+          "url": "https://imprensa.bb.com.br/bb-lanca-selo-de-reconhecimento-fgo-e-mira-elevar-qualidade-do-credito-garantido-no-brasil",
+          "published_at": "2026-04-01T15:06:10-03:00"
+        },
+        {
+          "id": 1752,
+          "title": "BB e ABDE realizam fórum nacional sobre fundos públicos e caminhos para o desenvolvimento",
+          "subtitle": "Evento reunirá autoridades, especialistas e representantes do setor público e privado; inscrições estão abertas",
+          "summary": "O Banco do Brasil será sede da 11ª edição do Fórum do Desenvolvimento, evento promovido em conjunto com Associação Brasileira de Desenvolvimento (ABDE), representante do Sistema Nacional de Fomento (SNF), e com apoio da Financiadora de Estudos e Projetos (Finep) e patrocínio da Cooperação Alemã (GIZ). O...",
+          "content": "O Banco do Brasil será sede da 11ª edição do Fórum do Desenvolvimento, evento promovido em conjunto com Associação Brasileira de Desenvolvimento (ABDE), representante do Sistema Nacional de Fomento (SNF), e com apoio da Financiadora de Estudos e Projetos (Finep) e patrocínio da Cooperação Alemã (GIZ). O evento ocorrerá nos dias 1º e 2 de abril, com o tema Da Arquitetura Financeira Internacional aos Fundos Públicos Nacionais: Caminhos para o Desenvolvimento, e colocará em debate o papel dos fundos públicos e instrumentos de fomento no financiamento do desenvolvimento brasileiro. O encontro reunirá autoridades, economistas, especialistas e representantes do setor público e privado na Arena do Banco do Brasil, na Asa Norte. As inscrições para participação on-line ainda estão abertas pelo site forumdodesenvolvimento.com.br . O evento discutirá estratégias para aprimorar o uso desses instrumentos no financiamento de investimentos estratégicos em áreas como infraestrutura, inovação e sustentabilidade. A programação abordará ainda temas como sustentabilidade fiscal, reforma tributária, orçamento público, financiamento da transição climática e o papel dos fundos garantidores na ampliação do acesso ao crédito, em um cenário global marcado por transformações tecnológicas, mudanças climáticas e novas dinâmicas geopolíticas. O fórum reunirá lideranças, entre elas, Maria Fernanda Coelho, presidenta da ABDE e diretora do BNDES; e Jochen Quinten, diretor da GIZ Brasil. Também devem comparecer o vice-presidente de Negócios Governo e Sustentabilidade Empresarial do Banco do Brasil, José Ricardo Sasseron; a representante do Banco Interamericano de Desenvolvimento (BID), Annette Kilmer; e o presidente da Finep, Luiz Antonio Elias. Ao longo de dois dias, a programação inclui painéis que tratarão desde os desafios do desenvolvimento global em um cenário de maior incerteza até instrumentos de financiamento climático e a integração do Brasil ao comércio internacional. Representado pela ABDE, o Sistema Nacional de Fomento reúne 35 instituições financeiras de desenvolvimento, entre bancos públicos federais e estaduais, bancos cooperativos, agências de fomento, além da Finep e do Sebrae. Juntas, essas instituições estão presentes em todas as regiões do país e respondem por cerca de 70% do crédito para investimento no Brasil, desempenhando papel estratégico no financiamento de projetos estruturantes e no apoio ao desenvolvimento sustentável. Programação Quarta-feira, 1º de abri...",
+          "url": "https://imprensa.bb.com.br/bb-e-abde-realizam-forum-nacional-sobre-fundos-publicos-e-caminhos-para-o-desenvolvimento",
+          "published_at": "2026-03-31T16:04:41-03:00"
+        },
+        {
+          "id": 1736,
+          "title": "BB viabiliza doação de 20 milhões de euros de banco alemão para ampliar inclusão socioeconômica no país",
+          "subtitle": "Recurso fortalece FGO, fundo garantidor administrado pelo BB, e amplia o acesso ao crédito para empreendedores inscritos no Cadastro Único",
+          "summary": "O Banco do Brasil formalizou, nesta semana, uma parceria internacional que viabiliza a doação de 20 milhões de euros do banco de desenvolvimento alemão KfW para fortalecer ações de inclusão socioeconômica no Brasil. Os recursos serão destinados ao programa FGO Acredita no Primeiro Passo, que faz parte...",
+          "content": "O Banco do Brasil formalizou, nesta semana, uma parceria internacional que viabiliza a doação de 20 milhões de euros do banco de desenvolvimento alemão KfW para fortalecer ações de inclusão socioeconômica no Brasil. Os recursos serão destinados ao programa FGO Acredita no Primeiro Passo, que faz parte do Fundo de Garantia de Operações (FGO), administrado pelo BB, ampliando o acesso ao crédito para empreendedores em situação de vulnerabilidade social. Como administrador do Fundo de Garantia de Operações (FGO), o Banco do Brasil assegura que esses recursos internacionais serão aplicados com forte rigor técnico e governança, ampliando a capacidade do fundo de mitigar riscos e viabilizar crédito para empreendedores do Cadastro Único, incluindo a destinação de uma parcela dos recursos exclusivamente para mulheres empreendedoras. Trata-se de um instrumento financeiro estruturante para promover inclusão socioeconômica com sustentabilidade, destaca Michele Azevedo Alencar, gerente geral da Unidade de Estratégia Governo do BB. A iniciativa está inserida no Programa Acredita no Primeiro Passo, coordenado pelo Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), e tem como foco facilitar o financiamento de pessoas inscritas no Cadastro Único que desejam iniciar ou ampliar pequenos negócios. O FGO Acredita no Primeiro Passo estabelece que, no mínimo, 50% das operações garantidas serão direcionadas a mulheres empreendedoras. Na prática, os recursos reforçam o fundo garantidor, reduzindo o risco das operações de crédito para os bancos e ampliando as chances de aprovação de financiamentos, em condições mais favoráveis, para famílias de baixa renda. A doação, que será disponibilizada em até cinco tranches (parcelas), foi formalizada por meio de contrato de contribuição financeira entre o KfW e o FGO, administrado pelo Banco do Brasil. Um segundo acordo estabelece diretrizes de governança e de implementação das ações, assegurando a correta aplicação dos recursos e a efetividade da política pública. KfW: é o banco de desenvolvimento da Alemanha e atua no financiamento de projetos sociais, econômicos e ambientais, com foco em proteção climática, infraestrutura e apoio a pequenas empresas, contribuindo para o desenvolvimento sustentável em diversos países.",
+          "url": "https://imprensa.bb.com.br/bb-viabiliza-doacao-de-20-milhoes-de-euros-de-banco-alemao-para-ampliar-inclusao-socioeconomica-no-pais",
+          "published_at": "2026-03-19T14:10:09-03:00"
+        },
+        {
+          "id": 1706,
+          "title": "BB Gestão Ágil reforça governança na gestão do Fundo Rio Doce",
+          "subtitle": "Parceria entre BB e BNDES garante solução para monitoramento financeiro, prestação de contas e acompanhamento dos projetos",
+          "summary": "O Banco do Brasil (BB) e o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) firmam acordo de cooperação para a implementar a solução BB Gestão Ágil como sistema oficial de controle e gestão das movimentações financeiras das contas vinculadas ao Fundo Rio Doce.Esse acordo reafirma o...",
+          "content": "O Banco do Brasil (BB) e o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) firmam acordo de cooperação para a implementar a solução BB Gestão Ágil como sistema oficial de controle e gestão das movimentações financeiras das contas vinculadas ao Fundo Rio Doce. Esse acordo reafirma o compromisso do BB em fornecer soluções que garantam ao Setor Público mais transparência e rastreabilidade dos recursos aplicados. Desta forma, com a adoção do BB Gestão Ágil, BB e BNDES ampliam a capacidade de monitorar e rastrear os recursos, fortalecendo os mecanismos de transparência, conformidade regulatória e governança na execução dos projetos financiados pelo Fundo Rio Doce. A solução aprimora o controle institucional e a segurança operacional, garantindo maior integridade na aplicação dos recursos e permitindo que a sociedade acompanhe, de forma clara e tempestiva, a destinação dos valores voltados à reparação dos danos decorrentes do rompimento da barragem, afirma José Ricardo Sasseron, vice-presidente de Negócios de Governo e Sustentabilidade Empresarial do Banco do Brasil. O presidente do BNDES, Aloizio Mercadante, observou que a parceria com o BB gera múltiplos benefícios. Além de favorecer o acompanhamento do público geral, a solução facilita o trabalho de auditoria pelos órgãos de controle e viabiliza consultas e análises mais sistematizadas pelas entidades da sociedade civil e instituições de pesquisa interessadas na reparação da bacia do Rio Doce, em Minas e no Espírito Santo. BB Gestão Ágil: solução para controle, rastreabilidade e transparência O BB Gestão Ágil é uma solução já adotada por mais de 100 agentes repassadores e 29 órgãos de controle e passa a centralizar a operacionalização das contas vinculadas ao Fundo Rio Doce, além de disponibilizar, em ambiente on-line, os extratos dessas contas ao público. Conforme diretrizes do Comitê Gestor, todas as entidades executoras deverão realizar a movimentação financeira exclusivamente por meio das contas específicas abertas no Banco do Brasil, garantindo padronização e rastreabilidade dos repasses. A solução possibilita publicar extratos bancários em ambiente aberto; acompanhar, em tempo real, as movimentações financeiras; padronizar os fluxos operacionais; e dar conformidade com requisitos legais e de governança. Fundo Rio Doce O Fundo Rio Doce foi instituído em 2024 por meio de acordo judicial homologado pelo Supremo Tribunal Federal (STF), é regulamentado pelo Decreto Federal nº 12.412/2025...",
+          "url": "https://imprensa.bb.com.br/bb-gestao-agil-reforca-governanca-na-gestao-do-fundo-rio-doce",
+          "published_at": "2026-01-28T16:34:28-03:00"
+        },
+        {
+          "id": 1681,
+          "title": "BB firma parcerias com Govtechs e lança 3 novas soluções inteligentes",
+          "subtitle": "Ferramentas digitais e sustentáveis buscam acelerar a inovação nos municípios e enfrentar os desafios da gestão pública",
+          "summary": "O Banco do Brasil firmou parceria com as Govtechs Aprova, Lemobs e Gove, empresas focadas em tecnologia e soluções ágeis, com o objetivo de gerar alternativas inteligentes e sustentáveis para a gestão pública e auxiliar na economia de recursos para estados e municípios. Além de inovação, redução de...",
+          "content": "O Banco do Brasil firmou parceria com as Govtechs Aprova, Lemobs e Gove, empresas focadas em tecnologia e soluções ágeis, com o objetivo de gerar alternativas inteligentes e sustentáveis para a gestão pública e auxiliar na economia de recursos para estados e municípios. Além de inovação, redução de desperdício e custos, as parcerias com as Govtechs visam o aumento da eficiência na prestação de serviços e consequente melhoria da experiência do cliente (governo e cidadão) e estão alinhadas com iniciativas governamentais, como a Estratégia de Governo Digital e o Sprint da Alimentação Escolar. Para José Ricardo Sasseron, vice-presidente de Negócios Governo e Sustentabilidade Empresarial do BB, os resultados dessas parcerias nos enchem de orgulho e provam a importância do Banco do Brasil como provedor de soluções inovadoras, que viabilizam as políticas públicas do nosso país, ao mesmo tempo que ratificam nosso compromisso e cuidado com as pessoas e o meio ambiente. Conheça as soluções geradas por essas novas parcerias: BB Governo Digital Por meio da parceria com a Aprova, Govtech investida pelo BB Ventures , programa de Corporate Venture Capital do Banco, foi lançada a BB Governo Digital, plataforma voltada à digitização de fluxos e processos públicos, desde os processos administrativos internos (como ofícios e criação de editais) até o atendimento ao cidadão, permitindo que serviços como a emissão de licenças, alvarás e guias de tributos e outros serviços administrativos sejam realizados de forma 100% digital, com segurança, agilidade e transparência. O processo se dá por meio de formulários inteligentes, que fazem cálculos, apontam erros e distribuem os processos para as repartições e equipes responsáveis nos órgãos públicos, o que gera um aumento da eficiência dos serviços, modernização do atendimento, economia de tempo e recursos aos governos e cidadãos. Como resultado, processos mais céleres, menos papel, mais economia e segurança para o setor público, com conformidade legal, proteção na nuvem e resultados diretos na arrecadação (cerca de 2%), preservação de árvores, horas de trabalho e corte de custos do físico para o digital, que podem ser simulados na página da solução: BB Governo Digital . BB Alimentação Escolar Já a parceria do Banco com a Lemobs - Govtech constituída e gerida por mestres e doutores da UFRJ  deu origem à BB Alimentação Escolar, que visa combater o desperdício de alimentos e recursos, melhorando a gestão de estoques, fichas de pr...",
+          "url": "https://imprensa.bb.com.br/bb-firma-parcerias-com-govtechs-e-lanca-3-novas-solucoes-inteligentes",
+          "published_at": "2025-11-12T18:53:12-03:00"
+        },
+        {
+          "id": 1638,
+          "title": "Parceria com BB garante maior participação feminina no InfraLeaders 2025",
+          "subtitle": "Dos 113 participantes, 44 são mulheres",
+          "summary": "O programa internacional de capacitação em liderança para o setor de infraestrutura, InfraLeaders, celebra neste ano a maior participação feminina da história. Dos 113 participantes, 44 são mulheres. Este resultado foi possível pela parceria com o Banco do Brasil e a Secretaria do Tesouro Nacional, por meio...",
+          "content": "O programa internacional de capacitação em liderança para o setor de infraestrutura, InfraLeaders, celebra neste ano a maior participação feminina da história. Dos 113 participantes, 44 são mulheres. Este resultado foi possível pela parceria com o Banco do Brasil e a Secretaria do Tesouro Nacional, por meio da Portaria MF 808/23. De um total de 47 bolsas concedidas pelo BB, 43% foram destinadas a mulheres, reforçando o compromisso da instituição em promover a equidade de gênero em espaços estratégicos de decisão. O projeto é uma oportunidade para capacitar gestores de mais alto nível na área de infraestrutura no país. Está vinculado à estratégia do BB de ampliar a presença de mulheres em posições de liderança, promover a diversidade e inclusão no setor, destaca Leiner Bastos, gerente de Soluções da Unidade Estratégia Governo do Banco do Brasil. Para Cintia Torquetto, presidente da Infra Women Brazil, a presença feminina no programa representa mais do que números. Temos a maior delegação da história do programa InfraLeaders e com maior participação feminina. Mais do que números, isso reforça um movimento real de que mulheres estão cada vez mais presentes onde as decisões estratégicas são tomadas sobre o futuro da infraestrutura. Temos muito orgulho de participar desse momento, enfatiza. O InfraLeaders 2025 acontece durante esta semana em Durham, na Inglaterra, e em Edimburgo, na Escócia, e reúne líderes brasileiros e internacionais em debates sobre inovação, sustentabilidade e transformação no setor de infraestrutura, reforçando o papel das mulheres nos espaços de liderança. Sobre o programa O InfraLeaders 2025 tem como propósito preparar lideranças públicas e privadas para enfrentar os desafios mais complexos da infraestrutura com visão estratégica, competência técnica e capacidade de articulação global. O Programa tem duração de cinco dias, o equivalente a 36 horas-aula de atividades em sala de aula e pelo menos 4 horas de interação social e informal construída em torno de almoços e eventos noturnos. Isso leva a um curso com duração total de 40 horas-aula. A programação está estruturada em torno do ciclo de vida dos projetos de infraestrutura, com ênfase nas competências de liderança aplicadas a cada fase. Durante cinco dias intensivos, os participantes têm acesso a painéis, palestras, visitas técnicas e um roadshow internacional, proporcionando uma vivência completa e estratégica sobre os desafios contemporâneos do setor.",
+          "url": "https://imprensa.bb.com.br/parceria-com-bb-garante-maior-participacao-feminina-no-infraleaders-2025",
+          "published_at": "2025-09-15T15:51:41-03:00"
+        },
+        {
+          "id": 1564,
+          "title": "BB, Tesouro Nacional e FESPSP lançam plataforma educacional sobre Parcerias Público-Privadas (PPPs), concessões e infraestrutura",
+          "subtitle": "Em formato streaming, o PPPFlix oferecerá capacitação gratuita aos agentes públicos dos estados e municípios",
+          "summary": "O Banco do Brasil lança, em parceria com o Tesouro Nacional e a Fundação Escola de Sociologia e Política de São Paulo (FESPSP), o PPPFlix, uma plataforma educacional dedicada à capacitação de servidores públicos em áreas estratégicas como gestão fiscal, estruturação de contratos de PPPs e concessões,...",
+          "content": "O Banco do Brasil lança, em parceria com o Tesouro Nacional e a Fundação Escola de Sociologia e Política de São Paulo (FESPSP), o PPPFlix, uma plataforma educacional dedicada à capacitação de servidores públicos em áreas estratégicas como gestão fiscal, estruturação de contratos de PPPs e concessões, além de outras temáticas fundamentais para o desenvolvimento de projetos de infraestrutura no Brasil. O PPPFlix oferecerá um ambiente digital de aprendizado contínuo, inspirado nos modelos de plataformas sob demanda, com vídeos, materiais complementares (PDFs), entrevistas e videocasts, combinando a flexibilidade e acessibilidade com a profundidade de conteúdos. Com cursos estruturados em séries, gamificação e mentorias, a plataforma incentivará o engajamento e o aprendizado dos participantes com interface intuitiva, proporcionando uma jornada de aprendizado envolvente e eficaz. Em sua primeira temporada, o PPPFlix oferecerá 20 cursos, cada um com 18 horas-aula, combinando conteúdos teóricos e práticos e com uma progressão estruturada que permite aos participantes aprofundar-se gradualmente em temas mais complexos. Além disso, a plataforma oferecerá mentorias personalizadas e incentivos, como recompensas, para promover o desenvolvimento contínuo. Inicialmente, o PPPFlix será oferecido gratuitamente a 5.500 servidores e empregados públicos de entes subnacionais, como estados, municípios, consórcios e empresas públicas. De acordo com o Vice-presidente de Negócios Governo e Sustentabilidade Empresarial do Banco do Brasil, José Ricardo Sasseron, o Banco do Brasil tem um compromisso histórico com o desenvolvimento sustentável do país. Atuamos não apenas como agente financeiro, mas como parceiro estratégico na construção de soluções que ampliem a capacidade dos entes públicos de promover investimentos com eficiência, transparência e responsabilidade. Nesse contexto, temos orgulho de apoiar ações de capacitação voltadas aos agentes de estados e municípios sobre o tema das Parcerias Público-Privadas. Sabemos que o sucesso das PPPs depende de quadros técnicos preparados, capazes de estruturar projetos sólidos, atrativos e que realmente atendam às necessidades da população. Ao fomentar o conhecimento e a qualificação, o Banco do Brasil reforça seu papel como indutor de desenvolvimento, promovendo uma cultura de excelência na gestão pública. O Secretário do Tesouro Nacional, Rogerio Ceron, destaca a importância da iniciativa: As Parcerias Público-Privadas têm se mo...",
+          "url": "https://imprensa.bb.com.br/bb-tesouro-nacional-e-fespsp-lancam-plataforma-educacional-sobre-parcerias-publico-privadas-ppps-concessoes-e-infraestrutura",
+          "published_at": "2025-05-21T14:29:20-03:00"
+        },
+        {
+          "id": 1552,
+          "title": "BB inicia pagamentos do programa Pé-de-Meia Licenciaturas",
+          "subtitle": "Os créditos serão disponibilizados por meio da Poupança Social BB",
+          "summary": "O Banco do Brasil iniciou os pagamentos da Bolsa de Atratividade e Formação para a Docência, o Pé-de-Meia Licenciaturas, iniciativa executada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), fundação vinculada ao Ministério da Educação (MEC). Os créditos serão disponibilizados por meio da Poupança Social...",
+          "content": "O Banco do Brasil iniciou os pagamentos da Bolsa de Atratividade e Formação para a Docência, o Pé-de-Meia Licenciaturas, iniciativa executada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), fundação vinculada ao Ministério da Educação (MEC). Os créditos serão disponibilizados por meio da Poupança Social BB, disponibilizada para atender o pagamento de bolsas e benefícios sociais de maneira ágil e fácil. A conta é aberta automaticamente após a solicitação da CAPES para o pagamento da bolsa. O beneficiário precisa ativar a conta pelo aplicativo do BB, na opção \"Poupança Social. Para concluir, basta inserir o número do CPF, atualizar os dados cadastrais e adicionar foto do documento e uma selfie. Com a solução, os beneficiários têm acesso, pelo App BB, às principais transações oferecidas pelo Banco, como Pix, transferências, pagamento de contas, recarga de celular, compras com cartão digital e saques, inclusive na rede de correspondentes bancários Mais BB. \"Estamos convencidos de que o investimento em educação é essencial para construir um futuro mais próspero e inclusivo. Por isso, o BB atua não apenas como agente financeiro, mas como um parceiro estratégico do desenvolvimento social, impulsionando políticas públicas que transformam a vida dos jovens e fortalecem as comunidades. Nossa parceria com o MEC e a CAPES reforça o compromisso em promover oportunidades e garantir um futuro melhor para todos\", destaca Euler Mathias, diretor de Negócios Governo do Banco do Brasil. A bolsa faz parte do eixo de atratividade para as licenciaturas, do Programa Mais Professores para o Brasil, instituído pelo Decreto nº 12.358/2025 e que tem como objetivo promover a valorização e a qualificação do magistério da educação básica e o incentivo à docência no Brasil. Detalhes do Programa O Pé-de-Meia Licenciaturas oferece apoio financeiro e acadêmico a estudantes de alto desempenho que ingressam em cursos de licenciatura. Os beneficiários recebem uma bolsa de incentivo financeiro mensal no valor de R$ 1.050,00. Deste valor, R$ 700,00 podem ser utilizados a qualquer momento. Os outros R$ 350,00 (trezentos e cinquenta reais) são depositados em uma poupança bloqueada, podendo ser utilizados somente após atendimento aos requisitos do programa. Atendimento O atendimento aos bolsistas pode ser realizado pela Central de Relacionamento BB (4004-0001, opção 4) ou pelo chatbot BB no WhatsApp, pelo número 4004-0001, basta iniciar a conversa com o tema Poupança S...",
+          "url": "https://imprensa.bb.com.br/bb-inicia-pagamentos-do-programa-pe-de-meia-licenciaturas",
+          "published_at": "2025-05-13T13:47:24-03:00"
+        },
+        {
+          "id": 1502,
+          "title": "Banco do Brasil firma parceria para modernizar iluminação pública na Alta Mogiana (SP)",
+          "subtitle": "Solução beneficiará mais de 300 mil pessoas em 15 municípios",
+          "summary": "O BB firmou uma parceria inovadora com o Consórcio de Municípios da Alta Mogiana (COMAM) para viabilizar a modernização da iluminação pública no interior de São Paulo. A solução BB Administração de Garantias resultou na assinatura de 15 contratos com os municípios participantes do consórcio, garantindo a...",
+          "content": "O BB firmou uma parceria inovadora com o Consórcio de Municípios da Alta Mogiana (COMAM) para viabilizar a modernização da iluminação pública no interior de São Paulo. A solução BB Administração de Garantias resultou na assinatura de 15 contratos com os municípios participantes do consórcio, garantindo a continuidade da operação da Parceria Público-Privada (PPP) de Iluminação Pública na região. O projeto viabilizará a instalação de 13.730 pontos de LED, beneficiando mais de 300 mil pessoas ao longo do período de vigência da PPP nos municípios de Aramina, Batatais, Buritizal, Ituverava, Jardinópolis, Jeriquara, Miguelópolis, Morro Agudo, Nuporanga, Patrocínio Paulista, Pedregulho, Restinga, Sales Oliveira, São José da Bela Vista e Serrana. Para José Ricardo Sasseron, vice-presidente de Governo e Sustentabilidade Empresarial do Banco do Brasil, compreender as demandas dos municípios foi fundamental para desenvolver uma solução customizada. A modernização da iluminação pública não apenas aumenta a eficiência energética, mas também fortalece a segurança e a qualidade de vida da população. O Banco do Brasil reafirma seu compromisso como parceiro estratégico da administração pública, viabilizando soluções inovadoras e eficientes que impulsionam o desenvolvimento e estreitam o relacionamento com o setor público, destaca. Investimento de longo prazo As operações contratadas têm prazo de 25 anos e permitem que municípios de pequeno e médio porte tenham acesso a financiamento para investimentos públicos de infraestrutura, o que gera modernização, otimização, expansão, eficiência e segurança para a população. A iniciativa reforça a importância das PPPs como alternativa para financiar investimentos municipais e a presença do Banco do Brasil junto às gestões municipais, no apoio e parceria para estruturação de soluções inovadoras.",
+          "url": "https://imprensa.bb.com.br/banco-do-brasil-firma-parceria-para-modernizar-iluminacao-publica-na-alta-mogiana-sp",
+          "published_at": "2025-02-19T18:49:34-03:00"
+        },
+        {
+          "id": 1494,
+          "title": "FGV e Banco do Brasil iniciam processo seletivo para o MBA em Parcerias Público-Privadas (PPP) e Concessões Sustentáveis",
+          "subtitle": "Com apoio do BB e financiado com contrapartidas de garantias do Tesouro Nacional, curso é voltado para capacitação de agentes públicos em projetos de PPP e de concessões de forma eficiente e sustentável",
+          "summary": "A Fundação Getulio Vargas (FGV), em parceria com o Banco do Brasil, inicia as inscrições para novas turmas do MBA em Parcerias Público-Privadas (PPP) e Concessões Sustentáveis, voltado aos agentes públicos. As inscrições estão abertas e podem ser realizadas até 21 de fevereiro, no site do FGV...",
+          "content": "A Fundação Getulio Vargas (FGV), em parceria com o Banco do Brasil, inicia as inscrições para novas turmas do MBA em Parcerias Público-Privadas (PPP) e Concessões Sustentáveis, voltado aos agentes públicos. As inscrições estão abertas e podem ser realizadas até 21 de fevereiro, no site do FGV In Company , pelo responsável da entidade participante (governador, prefeito, secretário, diretor ou equivalente). O curso gratuito para agentes públicos de entes subnacionais será patrocinado pelo Banco do Brasil, com recursos provenientes das contrapartidas previstas nas Portarias do Ministério da Fazenda e Secretaria do Tesouro Nacional nº 808/2023, 1.478/2023 e suas alterações. O MBA busca capacitar os profissionais para implementar projetos de PPP e de concessões de maneira eficiente e sustentável, contribuindo para o desenvolvimento de práticas inovadoras na gestão pública, enfatizando os seguintes temas: energia verde; gestão de ecossistemas, resiliência urbana ao clima, saneamento, mobilidade e infraestruturas sustentáveis. Com um programa que combina análises de casos reais e simulações, o curso permite que os alunos vivenciem tanto os desafios quanto os êxitos das PPPs contemporâneas. Esta experiência prática é complementada por uma abordagem interdisciplinar que integra conhecimentos de economia, direito e políticas públicas, incentivando métodos inovadores para abordar e resolver problemas públicos complexos. O curso tem carga de 432 horas e, ao final, os alunos devem entregar um projeto de PPP ou concessão em área ligada à sustentabilidade, que possa ser implementado na sua entidade de origem. Para assegurar diversidade e inclusão social na representação de todas as regiões do país, serão aplicados critérios de balanceamento territorial e social. Esses critérios visam equilibrar a representação entre as regiões mais e menos representadas e entre entidades subnacionais com diferentes níveis de renda e população. Rogério Ceron, secretário do Tesouro Nacional destaca que \"o Tesouro Nacional tem o compromisso de apoiar iniciativas que promovam a eficiência e a inovação na gestão pública não só para a União, como também para Estados e Municípios. A segunda oferta do MBA em PPPs e Concessões Sustentáveis se insere num conjunto mais amplo de iniciativas apoiadas pelo Tesouro Nacional para dotar a administração pública de conhecimento e capacidade para utilizar-se de instrumentos modernos para viabilizar investimentos em infraestrutura e serviços públicos com...",
+          "url": "https://imprensa.bb.com.br/fgv-e-banco-do-brasil-iniciam-processo-seletivo-para-o-mba-em-parcerias-publico-privadas-ppp-e-concessoes-sustentaveis",
+          "published_at": "2025-01-28T10:35:43-03:00"
+        },
+        {
+          "id": 1487,
+          "title": "BB lidera o mercado de crédito para o setor público em 2024",
+          "subtitle": "Estados e municípios contrataram R$ 19 bi em crédito no ano passado",
+          "summary": "Em 2024, o Banco do Brasil contratou R$ 19 bilhões em crédito para estados e municípios, mantendo a liderança em investimentos públicos no mercado financeiro. Com isso, as contratações realizadas por meio das linhas de crédito BB Financiamento Setor Público e Programa Eficiência Municipal (PEM) colocam a...",
+          "content": "Em 2024, o Banco do Brasil contratou R$ 19 bilhões em crédito para estados e municípios, mantendo a liderança em investimentos públicos no mercado financeiro. Com isso, as contratações realizadas por meio das linhas de crédito BB Financiamento Setor Público e Programa Eficiência Municipal (PEM) colocam a instituição em destaque no mercado de operações de crédito para o setor público, com uma carteira de R$ 70,5 bilhões. Isso mantém o protagonismo no relacionamento com os entes públicos. Os empréstimos concedidos aos entes subnacionais são destinados ao financiamento de despesas de capital, sendo vedada a aplicação em despesas correntes, como serviços e pagamento de salários. Os investimentos precisam estar previstos em instrumentos legais de planejamento, como o Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA). Além da análise de risco da instituição financeira, as operações passam por análises de limites, de risco e condições da Secretaria do Tesouro Nacional, sendo que cada operação deve estar prevista em lei específica aprovada pela Câmara de Vereadores ou Assembleia Legislativa do respectivo estado ou município. Os valores emprestados no ano passado estão associados a obras de infraestrutura viária e resiliência urbana, energia renovável, tratamento de resíduos sólidos, além do financiamento a obras de saúde e educação por exemplo. A garantia da União abrange 91,5% do montante emprestado, o que permite acesso a taxas de juros reduzidas, facilitando o crédito para estados e municípios. Adicionalmente, o Banco do Brasil tem promovido a capacitação de agentes públicos por meio de programas como o MBA em PPPs e Concessões Sustentáveis, utilizando recursos gerenciados provenientes da portaria do Ministério da Fazenda, que visa fortalecer a gestão fiscal dos entes subnacionais. A carteira mantém índice zero na inadimplência superior a 90 dias, o que, somado à cobertura do aval soberano, se traduz em baixíssimo risco para o capital do banco e reforça o compromisso com a responsabilidade financeira e a excelência na gestão de crédito para o setor público. Além disso, as externalidades positivas do ASG abrangem 94,8% da carteira, o que equivale a R$ 72,1 bilhões. Outro recorde celebrado em 2024 foi o de quantidade de operações realizadas com municípios, totalizando 389 contratos entre janeiro e agosto, antes do período eleitoral. Esse número fez com que o BB superasse a marca anterior, de 379 municípios atendid...",
+          "url": "https://imprensa.bb.com.br/bb-lidera-o-mercado-de-credito-para-o-setor-publico-em-2024",
+          "published_at": "2025-01-14T18:12:22-03:00"
+        },
+        {
+          "id": 1472,
+          "title": "BB, Tesouro e FESPSP anunciam parceria para desenvolvimento de plataforma educacional sobre PPPs",
+          "subtitle": "O projeto, conhecido como PPPFlix, está em fase de desenvolvimento e disponibilizará conteúdo gratuito sobre o tema para agentes públicos dos Estados e municípios",
+          "summary": "Fruto de uma parceria entre a Secretaria do Tesouro Nacional (STN), o Banco do Brasil e a Fundação Escola de Sociologia e Política de São Paulo (FESPSP), o projeto PPPFlix foi anunciado na última sexta-feira. O foco do projeto é a capacitação de agentes públicos dos entes...",
+          "content": "Fruto de uma parceria entre a Secretaria do Tesouro Nacional (STN), o Banco do Brasil e a Fundação Escola de Sociologia e Política de São Paulo (FESPSP), o projeto PPPFlix foi anunciado na última sexta-feira. O foco do projeto é a capacitação de agentes públicos dos entes subnacionais no contexto de Parcerias Público-Privadas (PPPs) e concessões. O anúncio do PPPFlix ocorreu durante o seminário 20 anos da Lei Federal de PPPs no Brasil, realizado na FESPSP, na capital paulista. A plataforma foi construída com base nas oportunidades criadas pela Portaria Normativa MF nº 808, de 26 de julho de 2023. Essa regra estabelece a exigência de contrapartida de instituições financeiras para concessão de garantias da União em operações de crédito, com foco no aprimoramento da gestão fiscal e na promoção de investimentos nos estados, Distrito Federal e municípios. É um setor que está crescendo muito e vai crescer ainda mais, destacou o secretário do Tesouro Nacional, Rogério Ceron. Ele apontou que um dos principais desafios para o desenvolvimento desse setor é a formação de quadros qualificados entre os entes subnacionais (Distrito Federal, estados e municípios) e ressaltou que o PPPFlix ajudará a suprir essa lacuna, capacitando servidores em todo o país. Segundo Ceron, a iniciativa vai popularizar a difusão de conhecimentos sobre PPPs e concessões, complementando formações mais especializadas anteriores. Temos milhares de municípios que têm outras necessidades. Talvez não seja preciso que todos tenham um MBA super aprofundado, mas precisam entender o básico, afirmou o secretário do Tesouro. O gerente geral de Estratégia de Governo do Banco do Brasil, José Alves, destaca a importância da iniciativa: O Banco do Brasil foi protagonista na utilização de contrapartidas de operações de crédito garantidas pela União em benefício dos entes subnacionais. Agora, por meio de uma parceria inovadora entre o Banco, STN e FESPSP, o BB ampliará sua atuação para capacitar agentes públicos dos entes subnacionais no ecossistema de PPPs, concessões e gestão fiscal. É uma grande alegria poder participar desse movimento, que compõe um conjunto estruturado de iniciativas e que contribuirá para a melhoria do ambiente de infraestrutura econômica e social do Brasil. Plataforma O PPPFlix é uma plataforma educacional dedicada à capacitação de servidores públicos em áreas estratégicas como gestão fiscal, estruturação de contratos de PPPs e concessões, além de outras temáticas fundam...",
+          "url": "https://imprensa.bb.com.br/bb-tesouro-e-fespsp-anunciam-parceria-para-desenvolvimento-de-plataforma-educacional-sobre-ppps",
+          "published_at": "2024-12-11T15:52:45-03:00"
+        },
+        {
+          "id": 1459,
+          "title": "BB anuncia acolhimento de depósitos judiciais via Pix",
+          "subtitle": "Nova solução permite depósitos instantâneos através de QR Code, 24h por dia",
+          "summary": "O Banco do Brasil lançou uma nova facilidade para cidadãos, advogados e empresas: a opção de acolhimento de depósitos judiciais por meio do Pix, disponível para as justiças estadual e trabalhista. Com a inovação, os depósitos podem ser realizados de forma ágil e instantânea com a utilização...",
+          "content": "O Banco do Brasil lançou uma nova facilidade para cidadãos, advogados e empresas: a opção de acolhimento de depósitos judiciais por meio do Pix, disponível para as justiças estadual e trabalhista. Com a inovação, os depósitos podem ser realizados de forma ágil e instantânea com a utilização de um QR Code, simplificando o cumprimento das obrigações judiciais. Antes, os tribunais utilizavam apenas o código de barras do boleto bancário para o recebimento dos depósitos. Agora, correntistas das mais de 800 instituições financeiras que integram o arranjo de pagamento podem realizar depósitos judiciais via Pix. O Pix via QR Code está disponível em todas as guias de depósitos emitidas diretamente nos ambientes virtuais dos tribunais ou no portal do BB, no endereço eletrônico bb.com.br/djo . O serviço funciona 24 horas por dia, 7 dias por semana. Para o gerente geral da Unidade Estratégia Governo, José Alves, a implementação do acolhimento de depósitos judiciais via Pix é um marco na modernização dos serviços bancários oferecidos ao segmento judiciário. Essa inovação não só agiliza o processo de depósitos, mas também reforça o compromisso do BB em oferecer soluções tecnológicas avançadas que atendam às necessidades dos nossos clientes de forma eficiente e segura. Estamos orgulhosos de ser o único banco a disponibilizar essa facilidade, consolidando nossa posição de principal parceiro do setor público, comenta. Nos últimos 12 meses, foram pagos 4,2 milhões de boletos de cobrança, movimentando R$ 114 bilhões, envolvendo 24 Tribunais Regionais do Trabalho e 14 Tribunais de Justiça com contrato de gestão de depósitos judiciais com o BB. Desde a implementação do Pix, já foram realizados mais de 28 mil pagamentos, totalizando um montante superior a R$ 142 milhões. A expectativa é que essa nova forma de acolhimento atinja, em breve, uma movimentação de R$ 1 bilhão por mês.",
+          "url": "https://imprensa.bb.com.br/bb-anuncia-acolhimento-de-depositos-judiciais-via-pix",
+          "published_at": "2024-12-03T15:52:14-03:00"
         }
       ]
     }
