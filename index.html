@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Data Aggregator — Machine & Human Readable Feed</title>
+  <meta name="description" content="Repositório de dados agregados otimizado para leitura por Agentes de IA (JSON & Markdown/LLMs.txt) e visualização humana." />
+  <link rel="alternate" type="application/json" href="public/data/data.json" title="Structured JSON Data Feed" />
+  <link rel="alternate" type="text/markdown" href="public/llms.txt" title="LLM Plain-Text Feed (llms.txt)" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-top">
+        <div>
+          <span class="badge-protocol">AI-READY DATA NODE</span>
+          <h1 id="project-title">AI Data Aggregator</h1>
+          <p id="project-description" class="subtitle">
+            Carregando feed consolidado para Agentes de IA...
+          </p>
+        </div>
+        <nav class="machine-endpoints" aria-label="Endpoints diretos para Agentes de IA">
+          <a href="public/data/data.json" class="btn-endpoint" target="_blank" rel="noopener">
+            <code>GET /public/data/data.json</code>
+          </a>
+          <a href="public/llms.txt" class="btn-endpoint" target="_blank" rel="noopener">
+            <code>GET /public/llms.txt</code>
+          </a>
+        </nav>
+      </div>
+
+      <section class="stats-bar" aria-label="Métricas da última coleta">
+        <div class="stat-item">
+          <span class="stat-label">Última Atualização (UTC)</span>
+          <time id="stat-updated" class="stat-value">—</time>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Fontes Ativas</span>
+          <span id="stat-sources" class="stat-value">0</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-label">Itens Extraídos</span>
+          <span id="stat-items" class="stat-value">0</span>
+        </div>
+      </section>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls-bar" aria-label="Controles de visualização e filtro">
+      <div class="search-group">
+        <label for="search-input" class="sr-only">Filtrar dados</label>
+        <input
+          type="search"
+          id="search-input"
+          placeholder="Filtrar por palavra-chave, fonte ou categoria..."
+          autocomplete="off"
+        />
+        <select id="category-filter" aria-label="Filtrar por categoria">
+          <option value="all">Todas as categorias</option>
+        </select>
+      </div>
+
+      <div class="view-switcher" role="group" aria-label="Modo de exibição">
+        <button type="button" class="btn-view active" data-view="markdown">Texto Puro (LLM / Markdown)</button>
+        <button type="button" class="btn-view" data-view="cards">Cards Semânticos</button>
+        <button type="button" class="btn-view" data-view="json">JSON Bruto</button>
+      </div>
+    </section>
+
+    <section id="view-markdown" class="view-section" aria-live="polite">
+      <div class="raw-header">
+        <span>Formato texto puro estruturado (ideal para leitura imediata por Agentes de IA / LLMs)</span>
+        <button type="button" id="copy-markdown-btn" class="btn-copy">Copiar Markdown</button>
+      </div>
+      <pre id="markdown-output" class="code-block">Carregando texto puro...</pre>
+    </section>
+
+    <section id="view-cards" class="view-section hidden" aria-live="polite">
+      <div id="sources-container" class="sources-grid">
+        <p class="loading-state">Carregando <code>public/data/data.json</code>...</p>
+      </div>
+    </section>
+
+    <section id="view-json" class="view-section hidden" aria-live="polite">
+      <div class="raw-header">
+        <span>Payload completo de <code>public/data/data.json</code></span>
+        <button type="button" id="copy-json-btn" class="btn-copy">Copiar JSON</button>
+      </div>
+      <pre id="json-output" class="code-block">Carregando JSON...</pre>
+    </section>
+  </main>
+
+  <script id="ai-agent-structured-data" type="application/json"></script>
+  <script src="app.js" defer></script>
+</body>
+</html>

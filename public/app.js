@@ -1,14 +1,13 @@
 /**
  * Frontend do AI Data Aggregator.
- * Faz fetch direto de `data/data.json`, popula o DOM de forma semântica e
- * disponibiliza visualizações em Cards, Texto Puro (Markdown/LLM) e JSON Bruto.
+ * Funciona tanto a partir da raiz do repositório (GitHub Pages main) quanto de /public.
  */
 
 const state = {
   rawData: null,
   searchTerm: "",
   selectedCategory: "all",
-  currentView: "cards",
+  currentView: "markdown",
 };
 
 const elements = {
@@ -33,14 +32,25 @@ const elements = {
   copyJsonBtn: document.getElementById("copy-json-btn"),
 };
 
+async function fetchDataJson() {
+  const candidates = ["public/data/data.json", "data/data.json"];
+  for (const url of candidates) {
+    try {
+      const response = await fetch(url, { cache: "no-store" });
+      if (response.ok) {
+        return await response.json();
+      }
+    } catch (_) {
+      // Tenta próximo caminho candidato
+    }
+  }
+  throw new Error("Não foi possível carregar public/data/data.json nem data/data.json");
+}
+
 async function init() {
   bindEvents();
   try {
-    const response = await fetch("data/data.json", { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status} ao buscar data/data.json`);
-    }
-    const data = await response.json();
+    const data = await fetchDataJson();
     state.rawData = data;
 
     if (elements.structuredScript) {
@@ -54,9 +64,6 @@ async function init() {
     elements.sourcesContainer.innerHTML = `
       <div class="source-block" style="padding: 1.25rem;">
         <p class="status-error"><strong>Erro ao carregar dados:</strong> ${escapeHtml(error.message)}</p>
-        <p style="margin-top: 0.5rem; color: var(--text-muted);">
-          Execute <code>python -m src.main</code> para gerar o arquivo <code>public/data/data.json</code>.
-        </p>
       </div>
     `;
   }
@@ -209,7 +216,11 @@ function renderMarkdown(sources) {
   const meta = state.rawData?.metadata || {};
   const lines = [
     `# ${meta.project_name || "AI Data Aggregator"}`,
-    `> Gerado em: ${meta.generated_at_utc || "—"}`,
+    `> ${meta.description || ""}`,
+    `- Última atualização (UTC): ${meta.generated_at_utc || "—"}`,
+    `- Total de fontes: ${meta.total_sources ?? 0} | Total de itens: ${meta.total_items ?? 0}`,
+    "",
+    "---",
     "",
   ];
 
@@ -228,6 +239,8 @@ function renderMarkdown(sources) {
       });
       lines.push("");
     });
+    lines.push("---");
+    lines.push("");
   });
 
   elements.markdownOutput.textContent = lines.join("\n");
