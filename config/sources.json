@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "project_name": "AI Data Aggregator",
+    "description": "Configuração modular de fontes web e APIs para agregação de dados voltada para consumo por Agentes de IA.",
+    "output_dir": "public/data",
+    "output_json": "public/data/data.json",
+    "output_markdown": "public/llms.txt"
+  },
+  "settings": {
+    "timeout_seconds": 20,
+    "max_retries": 3,
+    "user_agent": "AIDataAggregatorBot/1.0 (+https://github.com/rodrigomovie/ai-data-aggregator)"
+  },
+  "web_sources": [
+    {
+      "id": "example_hn_news",
+      "name": "Hacker News - Frontpage Sample",
+      "enabled": true,
+      "url": "https://news.ycombinator.com/",
+      "category": "tech_news",
+      "extraction_rules": {
+        "container_selector": "tr.athing",
+        "fields": {
+          "title": {
+            "selector": "span.titleline > a",
+            "attribute": "text"
+          },
+          "link": {
+            "selector": "span.titleline > a",
+            "attribute": "href"
+          }
+        },
+        "max_items": 10
+      }
+    }
+  ],
+  "api_sources": [
+    {
+      "id": "github_python_trending",
+      "name": "GitHub Repositories - AI & Python Sample",
+      "enabled": true,
+      "category": "repositories",
+      "base_url": "https://api.github.com",
+      "endpoint": "/search/repositories",
+      "method": "GET",
+      "auth": {
+        "type": "bearer",
+        "env_var": "API_GITHUB_TOKEN",
+        "optional": true
+      },
+      "params": {
+        "q": "topic:ai-agents language:python",
+        "sort": "stars",
+        "order": "desc"
+      },
+      "pagination": {
+        "enabled": true,
+        "strategy": "page",
+        "page_param": "page",
+        "per_page_param": "per_page",
+        "per_page": 5,
+        "max_pages": 1,
+        "results_path": "items"
+      },
+      "field_mapping": {
+        "name": "full_name",
+        "description": "description",
+        "url": "html_url",
+        "stars": "stargazers_count",
+        "updated_at": "updated_at"
+      },
+      "nested_queries": []
+    }
+  ]
+}

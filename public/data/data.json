@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "metadata": {
+    "project_name": "AI Data Aggregator",
+    "description": "Configuração modular de fontes web e APIs para agregação de dados voltada para consumo por Agentes de IA.",
+    "generated_at_utc": "2026-11-05T14:35:00Z",
+    "total_sources": 2,
+    "successful_sources": 2,
+    "total_items": 2
+  },
+  "sources": [
+    {
+      "id": "example_hn_news",
+      "name": "Hacker News - Frontpage Sample",
+      "type": "web",
+      "category": "tech_news",
+      "source_url": "https://news.ycombinator.com/",
+      "status": "success",
+      "items_count": 1,
+      "items": [
+        {
+          "title": "Sample Initial Item — Aguardando primeira execução com as fontes definitivas",
+          "link": "https://news.ycombinator.com/"
+        }
+      ]
+    },
+    {
+      "id": "github_python_trending",
+      "name": "GitHub Repositories - AI & Python Sample",
+      "type": "api",
+      "category": "repositories",
+      "source_url": "https://api.github.com/search/repositories",
+      "status": "success",
+      "items_count": 1,
+      "items": [
+        {
+          "name": "rodrigomovie/ai-data-aggregator",
+          "description": "Pipeline de agregação de dados em Python, site estático AI-friendly e automação diária via GitHub Actions.",
+          "url": "https://github.com/rodrigomovie/ai-data-aggregator",
+          "stars": 1,
+          "updated_at": "2026-11-05T14:35:00Z"
+        }
+      ]
+    }
+  ]
+}

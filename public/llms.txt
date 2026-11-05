@@ -1,0 +1,32 @@
+# AI Data Aggregator
+> Configuração modular de fontes web e APIs para agregação de dados voltada para consumo por Agentes de IA.
+
+- **Última atualização (UTC):** `2026-11-05T14:35:00Z`
+- **Total de fontes processadas:** `2`
+- **Total de registros extraídos:** `2`
+- **Endpoint JSON Estruturado:** `/data/data.json`
+
+---
+
+## [WEB] Hacker News - Frontpage Sample
+- **ID:** `example_hn_news`
+- **Categoria:** `tech_news`
+- **Origem:** https://news.ycombinator.com/
+- **Status:** `success` (1 itens)
+
+### 1. [Sample Initial Item — Aguardando primeira execução com as fontes definitivas](https://news.ycombinator.com/)
+
+---
+
+## [API] GitHub Repositories - AI & Python Sample
+- **ID:** `github_python_trending`
+- **Categoria:** `repositories`
+- **Origem:** https://api.github.com/search/repositories
+- **Status:** `success` (1 itens)
+
+### 1. [rodrigomovie/ai-data-aggregator](https://github.com/rodrigomovie/ai-data-aggregator)
+- **description:** Pipeline de agregação de dados em Python, site estático AI-friendly e automação diária via GitHub Actions.
+- **stars:** 1
+- **updated_at:** 2026-11-05T14:35:00Z
+
+---
