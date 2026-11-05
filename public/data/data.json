@@ -3,7 +3,7 @@
   "metadata": {
     "project_name": "AI Data Aggregator — Setor Público & Notícias Governamentais",
     "description": "Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.",
-    "generated_at_utc": "2026-11-05T15:25:18Z",
+    "generated_at_utc": "2026-11-05T17:12:19Z",
     "total_sources": 4,
     "successful_sources": 4,
     "total_items": 90
@@ -205,6 +205,48 @@
       "items_count": 20,
       "items": [
         {
+          "title": "Comissão aprova socorro fiscal e renegociação de dívidas para agroexportadores",
+          "url": "https://www.camara.leg.br/noticias/1316203-comissao-aprova-socorro-fiscal-e-renegociacao-de-dividas-para-agroexportadores",
+          "published_at": "Thu, 05 Nov 2026 17:07:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Deputado Pezenti, relator do projeto de lei A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara dos Deputados aprovou proposta que cria o Programa Emergencial de Retomada do Setor Agroexportador (Peragro) e o Programa Especial de Transação Tributária e Regularização Fiscal (Petragro). A medida institui incentivos fiscais, linhas de crédito subsidiadas e mecanismos de renegociação de dívidas para proteger o agronegócio brasileiro contra barreiras tarifárias internacionais e a escalada nos custos de insumos. Os parlamentar..."
+        },
+        {
+          "title": "Comissão aprova projeto que permite retirar sobrenome de pais que perderem o poder familiar",
+          "url": "https://www.camara.leg.br/noticias/1316355-comissao-aprova-projeto-que-permite-retirar-sobrenome-de-pais-que-perderem-o-poder-familiar",
+          "published_at": "Thu, 05 Nov 2026 17:04:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Daniela do Waguinho: impor a um filho que carregue o sobrenome daquele que o vitimou gera um perpétuo mal-estar A Comissão de Previdência, Assistência Social, Infância, Adolescência e Família da Câmara dos Deputados aprovou projeto de lei que permite a exclusão do sobrenome do pai ou da mãe nos registros de nascimento e de casamento em situações que envolvam a perda do poder familiar. O texto aprovado é um substitutivo elaborado pela relatora, deputada Daniela do Waguinho (Republicanos-RJ), que reúne a proposta original ( PL 842/20 ), do ex-deputado Del..."
+        },
+        {
+          "title": "Comissão aprova projeto que obriga agressor a pagar pensão a vítima de violência doméstica",
+          "url": "https://www.camara.leg.br/noticias/1316321-comissao-aprova-projeto-que-obriga-agressor-a-pagar-pensao-a-vitima-de-violencia-domestica",
+          "published_at": "Thu, 05 Nov 2026 17:02:00 GMT",
+          "summary": "Bruno Spada/Câmara dos Deputados Flávia Morais, relatora da proposta A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou o Projeto de Lei 207/26 , que obriga o agressor a pagar pensão provisória mensal a mulheres vítimas de violência doméstica e familiar ou de tentativa de feminicídio. A proposta também prevê o bloqueio cautelar imediato de contas bancárias e a aplicação de outras medidas assecuratórias sobre bens, direitos e valores do agressor. O texto, do deputado Thiago Flores (União-RO), altera a Lei Maria da Penha . Pela proposta, o juiz poderá determinar a pen..."
+        },
+        {
+          "title": "Comissão debate implantação e projeto acadêmico da Universidade Federal do Esporte; participe",
+          "url": "https://www.camara.leg.br/noticias/1316274-comissao-debate-implantacao-e-projeto-academico-da-universidade-federal-do-esporte-participe",
+          "published_at": "Thu, 05 Nov 2026 17:00:00 GMT",
+          "summary": "Depositphotos Criada este ano, a UFEsporte será dedicada exclusivamente a ensino, pesquisa, extensão e inovação na área científica do esporte A Comissão do Esporte da Câmara dos Deputados realiza audiência pública na próxima quarta-feira (11) para discutir a implantação e o projeto acadêmico da Universidade Federal do Esporte (UFEsporte). O debate atende a pedido do deputado Julio Cesar Ribeiro (Republicanos-DF) e está marcado para as 14 horas, no plenário 4. A audiência será interativa; veja quem foi convidado e envie suas perguntas Segundo o deputado, a universidade poderá contribuir para..."
+        },
+        {
+          "title": "Comissão aprova incentivo à pós-graduação de profissionais da educação básica",
+          "url": "https://www.camara.leg.br/noticias/1316273-comissao-aprova-incentivo-a-pos-graduacao-de-profissionais-da-educacao-basica",
+          "published_at": "Thu, 05 Nov 2026 16:54:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Lídice da Mata recomendou a aprovação do projeto A Comissão de Educação da Câmara dos Deputados aprovou projeto de lei que define incentivos à formação continuada dos profissionais da educação básica pública em programas de pós-graduação stricto sensu (mestrado e doutorado). A proposta prevê a redução da jornada de trabalho durante o período em que o profissional cursar as disciplinas. Também estabelece afastamento remunerado integral para estudos durante a escrita da dissertação ou tese. O texto aprovado é a versão da relatora ( substitutivo ), deputad..."
+        },
+        {
+          "title": "Comissão de Agricultura aprova proposta para incentivar hortas em áreas urbanas",
+          "url": "https://www.camara.leg.br/noticias/1316281-comissao-de-agricultura-aprova-proposta-para-incentivar-hortas-em-areas-urbanas",
+          "published_at": "Thu, 05 Nov 2026 16:33:00 GMT",
+          "summary": "Renato Araújo / Câmara dos Deputados Luciano Amaral recomentou a aprovação da proposta A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara dos Deputados aprovou o Projeto de Lei 6725/25 , que cria a Política Nacional de Apoio à Produção Alimentar de Proximidade para incentivar o cultivo de alimentos em áreas urbanas e periurbanas (no entorno das cidades). O objetivo é aumentar a oferta de alimentos frescos e reduzir custos de transporte e comercialização, especialmente em regiões de difícil abastecimento. Crédito, assistência técnica e feiras A proposta esta..."
+        },
+        {
+          "title": "Deputados aprovam projeto que permite adaptar obras em linguagem simples para pessoas com deficiência",
+          "url": "https://www.camara.leg.br/noticias/1316422-deputados-aprovam-projeto-que-permite-adaptar-obras-em-linguagem-simples-para-pessoas-com-deficiencia",
+          "published_at": "Thu, 05 Nov 2026 15:24:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Deputados reunidos nesta quinta A Câmara dos Deputados aprovou nesta quinta-feira (5) projeto de lei que permite a reprodução adaptada de obras para pessoas com deficiência, em especial aquelas com deficiência intelectual. A adaptação poderá usar a técnica de Linguagem Simples ou outro procedimento congênere, sem fins comerciais. A proposta altera a Lei de Direitos Autorais e segue agora para análise do Senado. Com as mudanças na norma, a reprodução que seguir as novas regras não será considerada ofensa aos direitos autorais. O texto aprovado é a versão..."
+        },
+        {
           "title": "Medida provisória regulamenta o Imposto Seletivo para 2027",
           "url": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027",
           "published_at": "Thu, 05 Nov 2026 15:16:00 GMT",
@@ -281,48 +323,6 @@
           "url": "https://www.camara.leg.br/noticias/1316200-comissao-aprova-exigencia-de-traducao-em-libras-em-eventos-culturais",
           "published_at": "Thu, 05 Nov 2026 13:05:00 GMT",
           "summary": "Bruno Spada / Câmara dos Deputados Erika Kokay é a relatora do projeto A Comissão de Cultura da Câmara dos Deputados aprovou proposta que exige a oferta de recursos de acessibilidade comunicacional, com tradução e interpretação simultâneas em Língua Brasileira de Sinais (Libras), em eventos artísticos e culturais que contem com apresentações ou manifestações orais. Os parlamentares aprovaram a versão da relatora ( substitutivo ), Erika Kokay (PT-DF), ao Projeto de Lei 3864/25, da deputada Andreia Siqueira (PSB-PA). A principal alteração promovida pelo substitutivo foi a ampliação do alcance..."
-        },
-        {
-          "title": "Câmara pode votar projetos sobre monitoramento de agressores e maus-tratos a animais",
-          "url": "https://www.camara.leg.br/noticias/1316213-camara-pode-votar-projetos-sobre-monitoramento-de-agressores-e-maus-tratos-a-animais",
-          "published_at": "Thu, 05 Nov 2026 11:42:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Plenário da Câmra durante sessão deliberativa A Câmara dos Deputados pode votar nesta quinta-feira (5) projeto de lei ( PL 5542/26 ) que prevê alertas sonoros e luminosos em equipamentos de monitoração eletrônica e a possibilidade de contenção física remota de agressores sujeitos a medidas protetivas por violência doméstica e familiar. Outra proposta em pauta torna hediondo o crime de maus-tratos a animais quando a violência resultar na morte do animal (PL 2475/25). A sessão do Plenário está marcada para as 10 horas. Os deputados podem analisar ainda pr..."
-        },
-        {
-          "title": "Comissão que analisa MP sobre crédito para empresas atingidas por tarifaço analisa relatório nesta quinta",
-          "url": "https://www.camara.leg.br/noticias/1316195-comissao-que-analisa-mp-sobre-credito-para-empresas-atingidas-por-tarifaco-analisa-relatorio-nesta-quinta",
-          "published_at": "Thu, 05 Nov 2026 10:49:00 GMT",
-          "summary": "Carlos Moura/Agência Senado A senadora Leany Lemos é a relatora da MP A comissão mista sobre a Medida Provisória (MP) 1379/26 , que prevê linhas de crédito de R$ 18,5 bilhões, com juros subsidiados, para exportadores e setores considerados estratégicos para a economia nacional analisa, nesta quinta-feira (5), o relatório da senadora Leany Lemos (PSB-DF). A reunião será realizada às 14 horas, no plenário 2 da ala Nilo Coelho, no Senado. A MP precisa ser aprovada pelo Congresso Nacional até 18 de novembro para não perder a validade. A deputada Nely Aquino (Pode-MG) é presidente do grupo e o s..."
-        },
-        {
-          "title": "Debatedores divergem sobre projeto de lei para ampliar concorrência no mercado de gás natural",
-          "url": "https://www.camara.leg.br/noticias/1316160-debatedores-divergem-sobre-projeto-de-lei-para-ampliar-concorrencia-no-mercado-de-gas-natural",
-          "published_at": "Wed, 04 Nov 2026 23:26:00 GMT",
-          "summary": "Renato Araujo / Câmara dos Deputados Duas comissões da Câmara debateram o assunto Audiência pública conjunta das comissões de Desenvolvimento Econômico e de Minas e Energia discutiu o Projeto de Lei (PL) 5802/25, de autoria do deputado Kim Kataguiri (Missão-SP). A proposta trata da desconcentração do mercado de gás natural no país. A redução da concentração do mercado de gás também é chamada de “gas release”. O mecanismo regulatório determina que um agente dominante venda, em leilões compulsórios para outros concorrentes, parte do gás que comercializa. Os debatedores favoráveis à ampliação..."
-        },
-        {
-          "title": "Instalada comissão que vai analisar linhas de crédito para empresas atingidas por tarifaço",
-          "url": "https://www.camara.leg.br/noticias/1316107-instalada-comissao-que-vai-analisar-linhas-de-credito-para-empresas-atingidas-por-tarifaco",
-          "published_at": "Wed, 04 Nov 2026 22:20:00 GMT",
-          "summary": "Bruno Spada / Câmara dos Deputados Deputada Nely Aquino, presidente da comissão mista Foi instalada nesta quarta-feira (4) a comissão mista responsável por analisar a Medida Provisória (MP) 1379/26, que prevê linhas de crédito de R$ 18,5 bilhões, com juros subsidiados, para exportadores e setores considerados estratégicos para a economia nacional. A deputada Nely Aquino (Pode-MG) foi eleita presidente do grupo e o senador Randolfe Rodrigues (PT-AP), vice-presidente. A senadora Leany Lemos (PSB-DF) foi designada relatora. A comissão deve se reunir novamente nesta quinta-feira (5) para analis..."
-        },
-        {
-          "title": "Após sediar COP30, Brasil leva novas contribuições à COP31, na Turquia",
-          "url": "https://www.camara.leg.br/noticias/1316069-apos-sediar-cop30-brasil-leva-novas-contribuicoes-a-cop31-na-turquia",
-          "published_at": "Wed, 04 Nov 2026 21:50:00 GMT",
-          "summary": "Renato Araújo / Câmara dos Deputados Deputado Nilto Tatto (E) e Aloísio de Melo, do Ministério do Meio Ambiente Representantes do governo federal apresentaram nesta quarta-feira (4), na Câmara dos Deputados, as contribuições que o Brasil levará à 31ª Conferência da ONU sobre Mudança do Clima, a COP31, prevista para 9 a 20 deste mês em Antália, na Turquia. Sede da cúpula climática anterior, a COP30 de Belém do Pará, o país vai montar o “Pavilhão Brasil”, com cerca de 130 eventos para mostrar ações governamentais e outras em parceria com universidades, empresários e sociedade civil, como resu..."
-        },
-        {
-          "title": "Câmara aprova criação de programa para acompanhamento psicossocial de crianças e adolescentes",
-          "url": "https://www.camara.leg.br/noticias/1316057-camara-aprova-criacao-de-programa-para-acompanhamento-psicossocial-de-criancas-e-adolescentes",
-          "published_at": "Wed, 04 Nov 2026 21:22:00 GMT",
-          "summary": "Marina Ramos/Camara dos Deputados Waldemar Oliveira previu em seu parecer que o SUS será responsável pelo programa A Câmara dos Deputados aprovou projeto de lei que cria o Programa Nacional de Acompanhamento Periódico Pediátrico e Psicossocial da Infância e Adolescência (PNAPP). A matéria será enviada ao Senado. De autoria da deputada Rosângela Reis (PL-MG), o Projeto de Lei 5815/25 prevê a garantia de acompanhamento periódico da saúde desse público e a identificação de indícios de risco, ameaça ou violação de seus direitos, especialmente em situações de violência, abuso, exploração, abando..."
-        },
-        {
-          "title": "Relator da PEC da Maioridade Penal deve apresentar parecer no final do mês",
-          "url": "https://www.camara.leg.br/noticias/1316048-relator-da-pec-da-maioridade-penal-deve-apresentar-parecer-no-final-do-mes",
-          "published_at": "Wed, 04 Nov 2026 21:10:00 GMT",
-          "summary": "Renato Araujo / Câmara dos Deputados Deputados Aluísio Mendes (E), presidente da comissão, e Mendonça Filho, relator O relator da Proposta de Emenda à Constituição (PEC) 32/15 que trata da redução da maioridade penal de 18 para 16 anos, deputado Mendonça Filho (PL-PE), disse, nesta quarta-feira (4), que vai apresentar seu parecer no final do mês. Segundo ele, a medida é reclamada pela sociedade. “Com certeza atenderá a expectativa da população brasileira que não mais suporta, não mais aguenta a realidade onde jovens de 16, 17 anos cometem crimes violentos e ficam absolutamente impunes. A ge..."
         }
       ]
     },
