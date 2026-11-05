@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rodrigomovie.github.io/ai-data-aggregator/sitemap.xml
