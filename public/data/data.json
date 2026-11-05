@@ -3,7 +3,7 @@
   "metadata": {
     "project_name": "AI Data Aggregator — Setor Público & Notícias Governamentais",
     "description": "Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.",
-    "generated_at_utc": "2026-11-05T15:09:37Z",
+    "generated_at_utc": "2026-11-05T15:25:18Z",
     "total_sources": 4,
     "successful_sources": 4,
     "total_items": 90
@@ -205,6 +205,18 @@
       "items_count": 20,
       "items": [
         {
+          "title": "Medida provisória regulamenta o Imposto Seletivo para 2027",
+          "url": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027",
+          "published_at": "Thu, 05 Nov 2026 15:16:00 GMT",
+          "summary": "Valter Campanato/Agência Brasil Alíquotas serão maiores para as bebidas que tiverem maior teor alcoólico A medida provisória (MP) 1399/26 estabelece as alíquotas do novo Imposto Seletivo, criado pela reforma tributária para substituir parte da arrecadação do Imposto sobre Produtos Industrializados (IPI), que será extinto nos próximos anos. O Imposto Seletivo tem como objetivo reduzir o consumo de produtos considerados prejudiciais à saúde ou ao meio ambiente. Ele entra em vigor em 2 de fevereiro de 2027, e o Executivo afirma que as alíquotas foram calculadas para manter a carga tributária a..."
+        },
+        {
+          "title": "Câmara aprova projeto que reconhece artesanato do Maranhão como cultura nacional",
+          "url": "https://www.camara.leg.br/noticias/1316407-camara-aprova-projeto-que-reconhece-artesanato-do-maranhao-como-cultura-nacional",
+          "published_at": "Thu, 05 Nov 2026 15:06:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Hildo Rocha recomendou a aprovação da proposta A Câmara dos Deputados aprovou, na sessão desta quinta-feira (5), o Projeto de Lei 3507/26, que reconhece o artesanato tradicional do estado do Maranhão como manifestação da cultura nacional. O texto segue para análise do Senado. O relator, deputado Hildo Rocha (MDB-MA), recomendou a aprovação do projeto, de autoria do deputado Pedro Lucas Fernandes (União-MA). A proposta também autoriza o Poder Executivo a adotar medidas voltadas à salvaguarda, ao fomento, à valorização e à preservação da atividade. 400 an..."
+        },
+        {
           "title": "Câmara aprova ações de educação em saúde no SUS com foco na família",
           "url": "https://www.camara.leg.br/noticias/1316367-camara-aprova-acoes-de-educacao-em-saude-no-sus-com-foco-na-familia",
           "published_at": "Thu, 05 Nov 2026 14:48:00 GMT",
@@ -311,18 +323,6 @@
           "url": "https://www.camara.leg.br/noticias/1316048-relator-da-pec-da-maioridade-penal-deve-apresentar-parecer-no-final-do-mes",
           "published_at": "Wed, 04 Nov 2026 21:10:00 GMT",
           "summary": "Renato Araujo / Câmara dos Deputados Deputados Aluísio Mendes (E), presidente da comissão, e Mendonça Filho, relator O relator da Proposta de Emenda à Constituição (PEC) 32/15 que trata da redução da maioridade penal de 18 para 16 anos, deputado Mendonça Filho (PL-PE), disse, nesta quarta-feira (4), que vai apresentar seu parecer no final do mês. Segundo ele, a medida é reclamada pela sociedade. “Com certeza atenderá a expectativa da população brasileira que não mais suporta, não mais aguenta a realidade onde jovens de 16, 17 anos cometem crimes violentos e ficam absolutamente impunes. A ge..."
-        },
-        {
-          "title": "Sessão solene celebra os 40 anos da confederação de cooperativas de crédito",
-          "url": "https://www.camara.leg.br/noticias/1315993-sessao-solene-celebra-os-40-anos-da-confederacao-de-cooperativas-de-credito",
-          "published_at": "Wed, 04 Nov 2026 20:59:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Deputada Bia Kicis, que presidiu a sessão solene O aniversário de 40 anos da Confederação Brasileira das Cooperativas de Crédito (Confebrás) foi lembrado em sessão solene na Câmara dos Deputados nesta quarta-feira (4), com a presença de representantes do setor e do Banco Central. Segundo a Confebrás, o cooperativismo financeiro alcançou recentemente o marco de R$ 1 trilhão em ativos em uma base de mais de 21 milhões de cooperados, espalhados por 742 instituições em todo o país. São 10 mil postos de atendimento presentes em mais de mil municípios. O pres..."
-        },
-        {
-          "title": "Comissão aprova presença de intérprete de Libras para acompanhar paciente surdo em hospital",
-          "url": "https://www.camara.leg.br/noticias/1315977-comissao-aprova-presenca-de-interprete-de-libras-para-acompanhar-paciente-surdo-em-hospital",
-          "published_at": "Wed, 04 Nov 2026 20:53:00 GMT",
-          "summary": "Bruno Spada / Câmara dos Deputados Roberto Duarte: projeto se alinha com a dignidade e a promoção da igualdade A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta quarta-feira (4), proposta que autoriza a entrada e a permanência, em hospitais e clínicas, de intérprete de Libras para acompanhar paciente com deficiência auditiva que necessite de cuidados médicos. De acordo com a proposta, se o intérprete não puder entrar, o estabelecimento de saúde deverá disponibilizar um profissional treinado para acompanhar o paciente. O texto aprovado foi o sub..."
         }
       ]
     },
