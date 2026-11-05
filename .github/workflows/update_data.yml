@@ -4,6 +4,14 @@ on:
   schedule:
     # Executa diariamente à meia-noite (UTC)
     - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "config/**"
+      - "src/**"
+      - "requirements.txt"
+      - ".github/workflows/update_data.yml"
   workflow_dispatch: # Permite disparo manual na aba Actions do GitHub
 
 permissions:
