@@ -3,12 +3,17 @@ Módulo de Consumo de APIs (APIClient) com suporte a:
 - Autenticação via variáveis de ambiente (Bearer, API Key Header, Query Param, Basic)
 - Paginação automática (page-based, offset-based e cursor/next_url)
 - Múltiplas queries sequenciais ou aninhadas (nested queries) para consolidar resultados
+- Pós-processamento opcional (limpeza de HTML em campos de texto e prefixo de URLs relativas)
 """
 
+import html
 import logging
 import os
+import re
 from typing import Any, Dict, List, Optional
+from urllib.parse import urljoin
 import requests
+from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -18,7 +23,7 @@ logger = logging.getLogger(__name__)
 class APIClient:
     """Cliente de API configurável e resiliente para agregação de dados."""
 
-    def __init__(self, timeout: int = 20, max_retries: int = 3, user_agent: str = "AIDataAggregator/1.0"):
+    def __init__(self, timeout: int = 25, max_retries: int = 3, user_agent: str = "AIDataAggregator/1.0"):
         self.timeout = timeout
         self.user_agent = user_agent
         self.session = requests.Session()
@@ -48,9 +53,10 @@ class APIClient:
         base_url = api_config.get("base_url", "").rstrip("/")
         endpoint = api_config.get("endpoint", "")
         full_url = f"{base_url}/{endpoint.lstrip('/')}" if endpoint else base_url
+        origin_page_url = api_config.get("origin_url", full_url)
 
         if not full_url:
-            return self._build_result(source_id, name, full_url, category, "error", [], "URL base/endpoint ausente")
+            return self._build_result(source_id, name, origin_page_url, category, "error", [], "URL base/endpoint ausente")
 
         logger.info("Consumindo API: %s (%s)", name, full_url)
 
@@ -79,15 +85,24 @@ class APIClient:
                 )
 
             field_mapping = api_config.get("field_mapping")
-            processed_items = [
-                self._apply_field_mapping(item, field_mapping) for item in raw_items
-            ] if field_mapping else raw_items
+            url_prefix = api_config.get("url_prefix")
+            strip_html_fields = set(api_config.get("strip_html_fields", []))
 
-            return self._build_result(source_id, name, full_url, category, "success", processed_items)
+            processed_items = [
+                self._transform_item(
+                    item,
+                    mapping=field_mapping,
+                    url_prefix=url_prefix,
+                    strip_html_fields=strip_html_fields,
+                )
+                for item in raw_items
+            ]
+
+            return self._build_result(source_id, name, origin_page_url, category, "success", processed_items)
 
         except Exception as exc:  # pylint: disable=broad-except
             logger.error("Erro ao consumir API '%s': %s", name, exc)
-            return self._build_result(source_id, name, full_url, category, "error", [], str(exc))
+            return self._build_result(source_id, name, origin_page_url, category, "error", [], str(exc))
 
     def _prepare_auth(self, auth_cfg: Dict[str, Any]) -> tuple[Dict[str, str], Dict[str, str]]:
         """Prepara cabeçalhos ou parâmetros de autenticação via variáveis de ambiente."""
@@ -215,9 +230,7 @@ class APIClient:
         headers: Dict[str, str],
         auth_params: Dict[str, str],
     ) -> List[Dict[str, Any]]:
-        """
-        Executa queries sequenciais/aninhadas para enriquecer cada item pai.
-        """
+        """Executa queries sequenciais/aninhadas para enriquecer cada item pai."""
         for nested_cfg in nested_configs:
             target_field = nested_cfg.get("target_field", "nested_details")
             endpoint_template = nested_cfg.get("endpoint_template", "")
@@ -254,12 +267,48 @@ class APIClient:
 
         return parent_items
 
-    def _apply_field_mapping(self, item: Dict[str, Any], mapping: Dict[str, str]) -> Dict[str, Any]:
-        """Mapeia chaves de um objeto bruto da API para um schema limpo e amigável para IA."""
-        mapped: Dict[str, Any] = {}
-        for clean_key, source_path in mapping.items():
-            mapped[clean_key] = self._extract_by_path(item, source_path)
+    def _transform_item(
+        self,
+        item: Dict[str, Any],
+        mapping: Optional[Dict[str, str]],
+        url_prefix: Optional[str],
+        strip_html_fields: set[str],
+    ) -> Dict[str, Any]:
+        """Mapeia chaves, resolve URLs relativas e remove HTML de campos textuais."""
+        if mapping:
+            mapped: Dict[str, Any] = {}
+            for clean_key, source_path in mapping.items():
+                mapped[clean_key] = self._extract_by_path(item, source_path)
+        else:
+            mapped = dict(item)
+
+        if url_prefix:
+            for url_key in ("url", "link"):
+                val = mapped.get(url_key)
+                if isinstance(val, str) and val and not val.startswith("http"):
+                    mapped[url_key] = urljoin(url_prefix.rstrip("/") + "/", val.lstrip("/"))
+
+        for key, val in list(mapped.items()):
+            if isinstance(val, str) and (key in strip_html_fields or key in ("title", "subtitle", "summary", "content")):
+                cleaned = self._clean_html_text(val)
+                if key == "content" and len(cleaned) > 2500:
+                    cleaned = cleaned[:2497].rstrip() + "..."
+                mapped[key] = cleaned
+
         return mapped
+
+    @staticmethod
+    def _clean_html_text(raw_text: str) -> str:
+        """Remove comentários/tags HTML (como blocos do WordPress), decodifica entidades e normaliza espaços."""
+        if not raw_text:
+            return ""
+        unescaped = html.unescape(raw_text)
+        if "<" in unescaped and ">" in unescaped:
+            soup = BeautifulSoup(unescaped, "html.parser")
+            for fig in soup.find_all("figcaption"):
+                fig.decompose()
+            unescaped = soup.get_text(separator=" ", strip=True)
+        return re.sub(r"\s+", " ", unescaped).strip()
 
     @staticmethod
     def _extract_by_path(data: Any, path: Optional[str]) -> Any:

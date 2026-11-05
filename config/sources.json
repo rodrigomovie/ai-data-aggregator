@@ -1,74 +1,103 @@
 {
   "metadata": {
-    "project_name": "AI Data Aggregator",
-    "description": "Configuração modular de fontes web e APIs para agregação de dados voltada para consumo por Agentes de IA.",
+    "project_name": "AI Data Aggregator — Setor Público & Notícias Governamentais",
+    "description": "Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.",
     "output_dir": "public/data",
     "output_json": "public/data/data.json",
     "output_markdown": "public/llms.txt"
   },
   "settings": {
-    "timeout_seconds": 20,
+    "timeout_seconds": 25,
     "max_retries": 3,
-    "user_agent": "AIDataAggregatorBot/1.0 (+https://github.com/rodrigomovie/ai-data-aggregator)"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
   },
   "web_sources": [
     {
-      "id": "example_hn_news",
-      "name": "Hacker News - Frontpage Sample",
+      "id": "bb_portal_setor_publico",
+      "name": "Banco do Brasil — Portal Setor Público (Soluções e Programas)",
       "enabled": true,
-      "url": "https://news.ycombinator.com/",
-      "category": "tech_news",
+      "url": "https://www.bb.com.br/site/setor-publico/",
+      "category": "setor_publico_bb",
       "extraction_rules": {
-        "container_selector": "tr.athing",
+        "mode": "embedded_json",
+        "max_items": 30
+      }
+    },
+    {
+      "id": "camara_ultimas_noticias_rss",
+      "name": "Câmara dos Deputados — Últimas Notícias (RSS Oficial)",
+      "enabled": true,
+      "url": "https://www.camara.leg.br/noticias/rss/ultimas-noticias",
+      "category": "legislativo_camara",
+      "extraction_rules": {
+        "mode": "rss",
+        "max_items": 20
+      }
+    },
+    {
+      "id": "caixa_ultimas_noticias",
+      "name": "CAIXA Notícias — Últimas Notícias",
+      "enabled": true,
+      "url": "https://caixanoticias.caixa.gov.br/Paginas/ultimas-noticias.aspx",
+      "category": "caixa_noticias",
+      "extraction_rules": {
+        "container_selector": ".card, article, .noticia-item",
         "fields": {
           "title": {
-            "selector": "span.titleline > a",
+            "selector": "h2, h3, h4, .card-title, a",
             "attribute": "text"
           },
-          "link": {
-            "selector": "span.titleline > a",
+          "url": {
+            "selector": "a",
             "attribute": "href"
           }
         },
-        "max_items": 10
+        "max_items": 20
+      },
+      "fallback": {
+        "url": "https://news.google.com/rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+        "extraction_rules": {
+          "mode": "rss",
+          "max_items": 20
+        }
       }
     }
   ],
   "api_sources": [
     {
-      "id": "github_python_trending",
-      "name": "GitHub Repositories - AI & Python Sample",
+      "id": "bb_imprensa_setor_publico",
+      "name": "Agência de Notícias BB (Imprensa) — Categoria Setor Público",
       "enabled": true,
-      "category": "repositories",
-      "base_url": "https://api.github.com",
-      "endpoint": "/search/repositories",
+      "category": "imprensa_bb_setor_publico",
+      "origin_url": "https://imprensa.bb.com.br/category/setor-publico/",
+      "base_url": "https://imprensa.api.search.bb.com.br",
+      "endpoint": "/blogbb/v2/search",
+      "url_prefix": "https://imprensa.bb.com.br/",
       "method": "GET",
-      "auth": {
-        "type": "bearer",
-        "env_var": "API_GITHUB_TOKEN",
-        "optional": true
-      },
       "params": {
-        "q": "topic:ai-agents language:python",
-        "sort": "stars",
-        "order": "desc"
+        "taxonomy": "category",
+        "terms_taxonomy": "Setor Público",
+        "post_type": "post"
       },
       "pagination": {
         "enabled": true,
         "strategy": "page",
         "page_param": "page",
         "per_page_param": "per_page",
-        "per_page": 5,
-        "max_pages": 1,
-        "results_path": "items"
+        "per_page": 10,
+        "max_pages": 2,
+        "results_path": "data"
       },
       "field_mapping": {
-        "name": "full_name",
-        "description": "description",
-        "url": "html_url",
-        "stars": "stargazers_count",
-        "updated_at": "updated_at"
+        "id": "id",
+        "title": "titulo",
+        "subtitle": "subtitulo",
+        "summary": "resume",
+        "content": "content",
+        "url": "link",
+        "published_at": "date"
       },
+      "strip_html_fields": ["title", "subtitle", "summary", "content"],
       "nested_queries": []
     }
   ]
