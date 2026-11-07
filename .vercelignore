@@ -1,0 +1,9 @@
+# Ignora o backend Python de agregação (executado via GitHub Actions)
+# para impedir que a Vercel tente compilar funções Serverless Python
+src/
+config/
+requirements.txt
+.github/
+*.py
+*.pyc
+__pycache__/
