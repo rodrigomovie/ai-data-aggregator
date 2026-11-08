@@ -3,7 +3,7 @@
   "metadata": {
     "project_name": "AI Data Aggregator — Setor Público & Notícias Governamentais",
     "description": "Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.",
-    "generated_at_utc": "2026-11-07T00:28:36Z",
+    "generated_at_utc": "2026-11-08T00:27:34Z",
     "total_sources": 4,
     "successful_sources": 4,
     "total_items": 90
@@ -456,7 +456,7 @@
           "summary": "Oficinas gratuitas marcam início da programação da Unidade Pelourinho da CAIXA Cultural Salvador CAIXA Notícias"
         }
       ],
-      "note": "Coletado via endpoint/feed de fallback (https://news.google.com/rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419)"
+      "note": "Dados preservados da coleta anterior (motivo na execução atual: Bloqueio WAF/Captcha detectado (ShieldSquare / Radware / Cloudflare Challenge). | Fallback error: HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses')))"
     },
     {
       "id": "bb_imprensa_setor_publico",

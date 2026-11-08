@@ -1,7 +1,7 @@
 # AI Data Aggregator — Setor Público & Notícias Governamentais
 > Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.
 
-- **Última atualização (UTC):** `2026-11-07T00:28:36Z`
+- **Última atualização (UTC):** `2026-11-08T00:27:34Z`
 - **Total de fontes processadas:** `4`
 - **Total de registros extraídos:** `90`
 - **Endpoint JSON Estruturado:** `/public/data/data.json`
@@ -224,7 +224,7 @@
 - **Categoria:** `caixa_noticias`
 - **Origem:** https://caixanoticias.caixa.gov.br/Paginas/ultimas-noticias.aspx
 - **Status:** `success` (20 itens)
-- **Nota:** Coletado via endpoint/feed de fallback (https://news.google.com/rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419)
+- **Nota:** Dados preservados da coleta anterior (motivo na execução atual: Bloqueio WAF/Captcha detectado (ShieldSquare / Radware / Cloudflare Challenge). | Fallback error: HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses')))
 
 ### 1. [CAIXA Cultural Fortaleza recebe o espetáculo A Invenção do Nordeste - CAIXA Notícias](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQejh5SGVfbE5qY2MxbGUxcnJzd1dpelNlY3VpVXZtc3hVeDB0Q21XVmRPenRLMGpoMmxpYmdlRGphS1plaGhEWmtwM3FhR3pWYVBYaGRjUzViMUtpUDM0V3V3alRYXzZwbk1Fd1hZb19Ra2lySEotdkhzU3kwOGRpUExHcGpfNElFczdyT1ZXdXdUbW1zdWs2aWotRkJqT2h2bGxxZXNhRUstLUlrcTkzVThIUmZHQW5QcnVxSU1ibGItVjlta1k4N3VDd3N4SXhWeWcyTEl5cENlMjk3UGt1RnRmY3cxdGtOYmRuTWs1Z1NiQms?oc=5)
 - **published_at:** Wed, 09 Sep 2026 07:00:00 GMT
