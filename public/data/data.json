@@ -3,7 +3,7 @@
   "metadata": {
     "project_name": "AI Data Aggregator — Setor Público & Notícias Governamentais",
     "description": "Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.",
-    "generated_at_utc": "2026-11-09T00:28:54Z",
+    "generated_at_utc": "2026-11-09T22:07:11Z",
     "total_sources": 4,
     "successful_sources": 4,
     "total_items": 90
@@ -205,6 +205,114 @@
       "items_count": 20,
       "items": [
         {
+          "title": "Cancelada votação de parecer sobre política nacional para pessoas com autismo",
+          "url": "https://www.camara.leg.br/noticias/1296150-cancelada-votacao-de-parecer-sobre-politica-nacional-para-pessoas-com-autismo",
+          "published_at": "Mon, 09 Nov 2026 20:40:00 GMT",
+          "summary": "Depositphotos O quebra-cabeça colorido é o símbolo do autismo Foi cancelada a votação de parecer na comissão especial da Câmara dos Deputados que analisa a criação da política nacional dos direitos das pessoas com transtorno do espectro autista. Não foi definida nova data para a votação. A proposta O Projeto de Lei 3080/20 cria uma política nacional para garantir e ampliar os direitos das pessoas com autismo. De autoria do ex-deputado Alexandre Frota (SP), a proposta prevê ações nas áreas de saúde, educação, assistência social e inclusão, assegurando direitos como diagnóstico precoce, atend..."
+        },
+        {
+          "title": "Comissão aprova diretrizes para atendimento integral a mulheres com endometriose no SUS",
+          "url": "https://www.camara.leg.br/noticias/1317308-comissao-aprova-diretrizes-para-atendimento-integral-a-mulheres-com-endometriose-no-sus",
+          "published_at": "Mon, 09 Nov 2026 20:37:00 GMT",
+          "summary": "Renato Araújo / Câmara dos Deputados Erika Hilton: nova política deve estar alinhada ao programa de saúde menstrual A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou proposta que estabelece diretrizes para a atenção integral à saúde de mulheres com endometriose no Sistema Único de Saúde (SUS). O texto também prevê ações nacionais de educação e conscientização sobre saúde menstrual. Endometriose é uma condição inflamatória crônica na qual as células do tecido que reveste o útero (endométrio) crescem fora dele, causando dores intensas e possível infertilidade. Por re..."
+        },
+        {
+          "title": "Comissão aprova ampliação da política nacional para pacientes com diabetes tipo 1 no SUS",
+          "url": "https://www.camara.leg.br/noticias/1317312-comissao-aprova-ampliacao-da-politica-nacional-para-pacientes-com-diabetes-tipo-1-no-sus",
+          "published_at": "Mon, 09 Nov 2026 20:19:00 GMT",
+          "summary": "Vinicius Loures / Câmara dos Deputados Texto aprovado é o substitutivo do relator, Dr. Zacharias Calil A Comissão de Ciência, Tecnologia e Inovação da Câmara dos Deputados aprovou medidas para aprimorar o cuidado e o acompanhamento de pacientes com diabetes melito tipo 1 (DM1) no Sistema Único de Saúde (SUS). As novas exigências para tratamento dessa doença serão inseridas na lei que criou a Política Nacional de Prevenção do Diabetes e de Assistência Integral à Pessoa Diabética . O DM1 é uma doença autoimune onde o pâncreas para de produzir insulina, exigindo o uso diário e contínuo do horm..."
+        },
+        {
+          "title": "Especialistas afirmam que Brasil avança para se tornar referência em educação digital e midiática",
+          "url": "https://www.camara.leg.br/noticias/1317402-especialistas-afirmam-que-brasil-avanca-para-se-tornar-referencia-em-educacao-digital-e-midiatica",
+          "published_at": "Mon, 09 Nov 2026 19:49:00 GMT",
+          "summary": "Bruno Spada / Câmara dos Deputados Conselho de Comunicação Social durante debate sobre educação digital Participantes de audiência pública do Conselho de Comunicação do Congresso, realizada nesta segunda-feira (9), ressaltaram que o Brasil está se torando um grande líder mundial em educação digital e midiática. O diretor do Departamento de Direitos na Rede e Educação Midiática da Secretaria de Comunicação Social da Presidência da República, David Almansa Bernardo, relatou que, a partir da lei que restringiu o uso do celular nas escolas no ano passado, o governo criou uma série de iniciativa..."
+        },
+        {
+          "title": "Comissão discute falta de auditores-fiscais do trabalho nesta quarta-feira",
+          "url": "https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira",
+          "published_at": "Mon, 09 Nov 2026 19:16:00 GMT",
+          "summary": "Marcelo Camargo/Agência Brasil Alice Portugal afirma que os auditores fiscais garantem que os direitos dos trabalhadores sejam respeitados A Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara dos Deputados realiza, nesta quarta-feira (11), às 16 horas, audiência pública para discutir o déficit no número de auditores-fiscais do trabalho no Brasil. O debate será realizado no plenário 9, por iniciativa da deputada Alice Portugal (PCdoB-BA). Veja quem foi convidado O objetivo é avaliar os impactos da redução do quadro de profissionais responsáveis pela fiscalização das condiçõe..."
+        },
+        {
+          "title": "Comissão aprova regras de prevenção e resposta a emergências em escolas",
+          "url": "https://www.camara.leg.br/noticias/1317310-comissao-aprova-regras-de-prevencao-e-resposta-a-emergencias-em-escolas",
+          "published_at": "Mon, 09 Nov 2026 18:47:00 GMT",
+          "summary": "Vinicius Loures / Câmara dos Deputados Nely Aquino sugeriu modelo mais proporcional ao risco ao qual cada unidade está exposta A Comissão de Educação da Câmara dos Deputados aprovou proposta que estabelece normas gerais de segurança preventiva e de resposta a emergências para escolas públicas e privadas de educação básica. O objetivo é proteger a comunidade escolar contra incêndios, desastres naturais, acidentes, emergências médicas e atos de violência. Por recomendação da relatora, deputada Nely Aquino (Pode-MG), os parlamentares aprovaram o substitutivo adotado pela Comissão de Integração..."
+        },
+        {
+          "title": "Comissão aprova destinação de recursos da venda de bens militares ao Ministério da Defesa",
+          "url": "https://www.camara.leg.br/noticias/1317252-comissao-aprova-destinacao-de-recursos-da-venda-de-bens-militares-ao-ministerio-da-defesa",
+          "published_at": "Mon, 09 Nov 2026 18:00:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Pazuello destacou a necessidade de modernizar equipamentos e infraestrutura A Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados aprovou proposta que destina ao Ministério da Defesa as receitas obtidas com a venda de bens móveis e imóveis das Forças Armadas. O texto aprovado é a versão do relator, deputado General Pazuello (PL-RJ), para o Projeto de Lei Complementar (PLP) 118/24 , do deputado Fernando Monteiro (PSD-PE). “A iniciativa não é apenas oportuna, mas necessária para a sobrevivência operacional do setor de defesa no Br..."
+        },
+        {
+          "title": "Comissão aprova projeto que inclui trabalho doméstico e de cuidado na redução de pena",
+          "url": "https://www.camara.leg.br/noticias/1317305-comissao-aprova-projeto-que-inclui-trabalho-domestico-e-de-cuidado-na-reducao-de-pena",
+          "published_at": "Mon, 09 Nov 2026 17:44:00 GMT",
+          "summary": "Vinicius Loures / Câmara dos Deputados Benedita: sistema carcerário brasileiro foi pensado majoritariamente para os homens A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou proposta que altera a Lei de Execução Penal ( Lei 7.210/84 ) para garantir que o trabalho doméstico e as tarefas de cuidado sejam contabilizados para a redução da pena. Pela lei atual, o condenado no regime fechado ou semiaberto pode reduzir um dia de sua pena a cada três dias de trabalho ou 12 horas de estudo. Os parlamentares aprovaram substitutivo da deputada Benedita da Silva (PT-RJ) ao Proj..."
+        },
+        {
+          "title": "Comissão debate exploração sexual de crianças e adolescentes em rodovias e no turismo",
+          "url": "https://www.camara.leg.br/noticias/1317272-comissao-debate-exploracao-sexual-de-criancas-e-adolescentes-em-rodovias-e-no-turismo",
+          "published_at": "Mon, 09 Nov 2026 17:16:00 GMT",
+          "summary": "GettyImages Combater a exploração sexual em rodovias exige articulação entre órgãos de segurança viária A comissão externa da Câmara dos Deputados sobre Prevenção e Enfrentamento da Violência Sexual Infantojuvenil realiza, nesta terça-feira (10), audiência pública para discutir o turismo sexual, a exploração sexual em rodovias federais e as cadeias de aliciamento de crianças e adolescentes. O debate está marcado para as 14 horas, no plenário 3. Veja quem foi convidado Articulação A audiência atende a pedido do coordenador do colegiado, deputado Fernando Rodolfo (PRD-PE). Segundo o parlament..."
+        },
+        {
+          "title": "Comissão aprova programa para ampliar ações de atividade física no SUS",
+          "url": "https://www.camara.leg.br/noticias/1317164-comissao-aprova-programa-para-ampliar-acoes-de-atividade-fisica-no-sus",
+          "published_at": "Mon, 09 Nov 2026 16:17:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Flávia Morais, relatora da proposta A Comissão de Saúde da Câmara dos Deputados aprovou projeto de lei que cria o Programa Atividade Física é Saúde no âmbito do Sistema Único de Saúde (SUS). O objetivo é promover a saúde, prevenir doenças e contribuir para a reabilitação funcional da população por meio da atuação de profissionais de educação física. O texto aprovado é a versão da relatora, deputada Flávia Morais (MDB-GO), para o Projeto de Lei 5756/25 , do deputado Dr. Daniel Soranz (PSD-RJ). A relatora manteve a essência do projeto original, mas retiro..."
+        },
+        {
+          "title": "Comissão aprova criação de programa de incentivo à adoção de animal",
+          "url": "https://www.camara.leg.br/noticias/1317189-comissao-aprova-criacao-de-programa-de-incentivo-a-adocao-de-animal",
+          "published_at": "Mon, 09 Nov 2026 15:51:00 GMT",
+          "summary": "Bruno Spada/Câmara dos Deputados Fred Costa recomendou a aprovação da proposta, com mudanças A Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara dos Deputados aprovou projeto de lei que cria o Programa Nacional de Incentivo à Adoção e Proteção Animal (PNI-Animal). A proposta estabelece um marco legal para financiar e executar ações voltadas ao bem-estar e à proteção de animais domésticos no país. A medida está prevista no Projeto de Lei 6082/25, do deputado Delegado Matheus Laiola (União-PR), aprovado na forma de uma nova redação ( substitutivo ) elaborada pelo relator, depu..."
+        },
+        {
+          "title": "Comissão aprova projeto com diretrizes para atendimento a pessoas com gagueira no SUS",
+          "url": "https://www.camara.leg.br/noticias/1317153-comissao-aprova-projeto-com-diretrizes-para-atendimento-a-pessoas-com-gagueira-no-sus",
+          "published_at": "Mon, 09 Nov 2026 14:56:00 GMT",
+          "summary": "Vinicius Loures / Câmara dos Deputados Geraldo Resende: a gagueira deve ser tratada como uma condição que demanda atenção adequada do poder público A Comissão de Saúde da Câmara dos Deputados aprovou um projeto de lei com diretrizes para a assistência a pessoas com gagueira no Sistema Único de Saúde (SUS). A proposta foi aprovada na forma do substitutivo apresentado pelo relator, deputado Geraldo Resende (União-MS), ao Projeto de Lei 4201/24 , que trata do assunto. Veja o texto aprovado A redação aprovada orienta a formulação de ações de saúde destinadas a essa população. Entre as medidas p..."
+        },
+        {
+          "title": "Comissão aprova proposta para incluir informações sobre adenomiose na carteira de identidade",
+          "url": "https://www.camara.leg.br/noticias/1317130-comissao-aprova-proposta-para-incluir-informacoes-sobre-adenomiose-na-carteira-de-identidade",
+          "published_at": "Mon, 09 Nov 2026 14:23:00 GMT",
+          "summary": "Bruno Spada / Câmara dos Deputados Maria Arraes recomendou a aprovação da proposta, com mudanças A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou um projeto de lei que permite o registro da adenomiose no documento de identificação oficial. Adenomiose é quando o tecido do endométrio cresce na parede muscular do útero, provocando dores pélvicas e forte sangramento menstrual. A inclusão dependerá de pedido da pessoa interessada e será preciso apresentar comprovante médico e consentimento expresso, em conformidade com a legislação de proteção de dados. O texto aprovad..."
+        },
+        {
+          "title": "Comissão aprova programa para ampliar armazenagem agropecuária",
+          "url": "https://www.camara.leg.br/noticias/1317119-comissao-aprova-programa-para-ampliar-armazenagem-agropecuaria",
+          "published_at": "Mon, 09 Nov 2026 13:53:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos deputados Dilceu Sperafico, relator da proposta A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara dos Deputados aprovou projeto de lei que cria o Programa Nacional de Armazenagem e Secagem da Produção Agropecuária (PNAS). O objetivo da proposta é ampliar a capacidade de estocagem e reduzir perdas pós-colheita. O texto aprovado é a versão do relator, deputado Dilceu Sperafico (PP-PR), para o Projeto de Lei 1621/26, do deputado Mauricio do Vôlei (PL-MG). O relator incluiu as empresas cerealistas entre os segmentos atendidos pelo p..."
+        },
+        {
+          "title": "Comissão aprova incentivo à geração própria de energia para agricultores familiares",
+          "url": "https://www.camara.leg.br/noticias/1317104-comissao-aprova-incentivo-a-geracao-propria-de-energia-para-agricultores-familiares",
+          "published_at": "Mon, 09 Nov 2026 13:21:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Júnior Ferrari, relator da proposta A Comissão de Minas e Energia da Câmara dos Deputados aprovou projeto de lei que amplia o acesso de agricultores familiares e microempreendedores individuais à micro e minigeração distribuída de energia elétrica. O texto aprovado é a versão do relator, deputado Júnior Ferrari (PSD-PA), para o Projeto de Lei 1228/23 , do deputado João Daniel (PT-SE), e um apensado . O relator manteve os objetivos originais, mas ajustou a iniciativa à legislação atual. Veja o texto aprovado Entre as alterações aprovadas, a iniciativa pe..."
+        },
+        {
+          "title": "Comissão aprova diretrizes para ampliar cirurgias bariátricas no SUS",
+          "url": "https://www.camara.leg.br/noticias/1317110-comissao-aprova-diretrizes-para-ampliar-cirurgias-bariatricas-no-sus",
+          "published_at": "Mon, 09 Nov 2026 13:01:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos deputados Rogéria Santos é a relatora da proposta A Comissão de Saúde da Câmara dos Deputados aprovou um projeto de lei com diretrizes para ampliar a oferta de cirurgias bariátricas e metabólicas no Sistema Único de Saúde (SUS) e reduzir o tempo de espera dos pacientes. Pelo texto aprovado – um substitutivo ao PL 6626/25 –, os gestores do SUS poderão contratar serviços privados de forma complementar caso a disponibilidade da rede pública seja insuficiente. Veja o texto aprovado Todo o encaminhamento para as cirurgias será obrigatoriamente realizado pelos mecanism..."
+        },
+        {
+          "title": "Comissão aprova ampliação da região de desenvolvimento do DF com a inclusão de 16 municípios goianos",
+          "url": "https://www.camara.leg.br/noticias/1316833-comissao-aprova-ampliacao-da-regiao-de-desenvolvimento-do-df-com-a-inclusao-de-16-municipios-goianos",
+          "published_at": "Mon, 09 Nov 2026 11:57:00 GMT",
+          "summary": "Renato Araújo / Câmara dos Deputados Josenildo: medida fortalece a governança regional e favorece o planejamento integrado A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou projeto de lei que altera a composição da Região Integrada de Desenvolvimento do Distrito Federal e Entorno (Ride-DF). O texto aprovado incorpora à Ride mais 16 municípios do estado de Goiás, visando fortalecer a articulação regional e o desenvolvimento socioeconômico compartilhado. Por recomendação do relator, deputado Josenildo (PDT-AP), foi aprovado o substitutivo da Comissão de Desenvolvimento Urban..."
+        },
+        {
+          "title": "Conselho de Comunicação debate educação midiática e letramento digital; participe",
+          "url": "https://www.camara.leg.br/noticias/1316471-conselho-de-comunicacao-debate-educacao-midiatica-e-letramento-digital-participe",
+          "published_at": "Mon, 09 Nov 2026 11:40:00 GMT",
+          "summary": "Bruno Spada / Câmara dos Deputados Patrícia Blanco destacou importância do tema para proteção de crianças e adolescentes O Conselho de Comunicação Social do Congresso Nacional promove audiência pública nesta segunda-feira (9), às 9h30, para debater educação midiática e letramento digital. A presidente do conselho, Patrícia Blanco, propôs a audiência para aproveitar a 4ª Semana Brasileira de Educação Midiática, que vai de 4 a 11 de novembro e é organizada pela Secretaria de Comunicação da Presidência da República e pelo Ministério da Educação. Na reunião que aprovou o requerimento, Patrícia..."
+        },
+        {
           "title": "Nova lei condiciona registro de médicos à aprovação em exame",
           "url": "https://www.camara.leg.br/noticias/1316981-nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame",
           "published_at": "Fri, 06 Nov 2026 21:42:00 GMT",
@@ -215,114 +323,6 @@
           "url": "https://www.camara.leg.br/noticias/1316835-comissao-aprova-proibicao-de-posse-em-cargo-publico-para-condenados-por-crimes-contra-vulneraveis",
           "published_at": "Fri, 06 Nov 2026 20:40:00 GMT",
           "summary": "Kayo Magalhães / Câmara dos Deputados Merlong Solano, relator da proposta na comissão A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou proposta que proíbe pessoas condenadas por crimes contra grupos vulneráveis de assumirem cargos, empregos ou funções públicas, além de impedi-las de firmar contratos com a administração pública. A medida afeta condenados com decisão judicial definitiva por crimes de violência doméstica e familiar, racismo e discriminação, ou delitos praticados contra crianças, adolescentes, idosos e pessoas com deficiência. Os parlamentares aprovaram alter..."
-        },
-        {
-          "title": "Comissão aprova política nacional para celíacos",
-          "url": "https://www.camara.leg.br/noticias/1316839-comissao-aprova-politica-nacional-para-celiacos",
-          "published_at": "Fri, 06 Nov 2026 20:17:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Merlong Solano, relator da proposta na comissão A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou proposta que cria a Política Nacional de Apoio às Pessoas com Doença Celíaca. A doença celíaca é uma condição autoimune que exige a exclusão permanente do glúten da dieta. O glúten é uma proteína encontrada em alimentos como trigo, centeio e cevada. Entre as diretrizes e objetivos da nova política, destacam-se: a disseminação de informações sobre sintomas, diagnóstico precoce e tratamento da doença; a capacitação de profissionais de saúde..."
-        },
-        {
-          "title": "Comissão debate redução da maioridade penal em duas audiências públicas",
-          "url": "https://www.camara.leg.br/noticias/1316864-comissao-debate-reducao-da-maioridade-penal-em-duas-audiencias-publicas",
-          "published_at": "Fri, 06 Nov 2026 19:23:00 GMT",
-          "summary": "Bruno Spada / Câmara dos Deputados Reunião da comissão especial que analisa a proposta A comissão especial da Câmara dos Deputados que analisa a proposta de redução da maioridade civil e penal para 16 anos (PEC 32/15) realiza duas audiências públicas na terça-feira (10) e na quarta-feira (11). Apresentada pelo ex-deputado Gonzaga Patriota, a proposta altera a Constituição para estabelecer a maioridade civil e penal aos 16 anos. Atualmente, a Constituição considera penalmente inimputáveis os menores de 18 anos. A primeira audiência será realizada às 14h30, no plenário 9, atendendo a pedido d..."
-        },
-        {
-          "title": "Comissão aprova garantia de informações claras sobre atendimento a pessoas com autismo no SUS",
-          "url": "https://www.camara.leg.br/noticias/1316780-comissao-aprova-garantia-de-informacoes-claras-sobre-atendimento-a-pessoas-com-autismo-no-sus",
-          "published_at": "Fri, 06 Nov 2026 19:14:00 GMT",
-          "summary": "Thiago Cristino / Câmara dos Deputados Geraldo Resende: \"Queremos contribuir para que a informação se converta em ação\" A Comissão de Saúde da Câmara dos Deputados aprovou o Projeto de Lei 2582/26, que garante às pessoas com transtorno do espectro autista (TEA) o acesso a informações claras, atualizadas e acessíveis sobre os serviços de saúde disponíveis para atendimento pelo Sistema Único de Saúde (SUS). A proposta altera a Lei 12.764/12 para estabelecer a divulgação de informações sobre protocolos clínicos, diretrizes terapêuticas e linhas de cuidado publicados pelo Ministério da Saúde e..."
-        },
-        {
-          "title": "Comissão de Educação aprova regras para facilitar trabalho de conselho que fiscaliza merenda escolar",
-          "url": "https://www.camara.leg.br/noticias/1316724-comissao-de-educacao-aprova-regras-para-facilitar-trabalho-de-conselho-que-fiscaliza-merenda-escolar",
-          "published_at": "Fri, 06 Nov 2026 19:08:00 GMT",
-          "summary": "Vinicius Loures / Câmara dos Deputados Luciene Cavalcante: Conselho de Alimentação Escolar exerce papel decisivo na garantia da qualidade da alimentação escolar A Comissão de Educação da Câmara dos Deputados aprovou um projeto de lei para facilitar o trabalho dos membros do Conselho de Alimentação Escolar (CAE), responsável pela fiscalização dos contratos para aquisição de merenda e transparência na prestação de contas. Pela proposta, estados e municípios deverão garantir condições para o transporte dos conselheiros do CAE em suas atribuições. Por recomendação da relatora, deputada Professo..."
-        },
-        {
-          "title": "Comissão aprova emissão gratuita de documentos para mulheres e filhos vítimas de violência patrimonial",
-          "url": "https://www.camara.leg.br/noticias/1316689-comissao-aprova-emissao-gratuita-de-documentos-para-mulheres-e-filhos-vitimas-de-violencia-patrimonial",
-          "published_at": "Fri, 06 Nov 2026 18:09:00 GMT",
-          "summary": "Vinicius Loures / Câmara dos Deputados Érika Hilton estendeu a gratuidade aos dependentes A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou proposta que prevê gratuidade na emissão da segunda via de documentos para mulheres e filhos vítimas de violência patrimonial no âmbito doméstico e familiar. A proposta também garante prioridade imediata no atendimento, sem necessidade de agendamento prévio. O texto original do Projeto de Lei 2592/24, de autoria do deputado Marx Beltrão (União-AL), previa a gratuidade apenas para as mulheres. A relatora, deputada Erika Hilton (..."
-        },
-        {
-          "title": "Comissão de Educação aprova projeto que cria o marco da educação integral",
-          "url": "https://www.camara.leg.br/noticias/1316826-comissao-de-educacao-aprova-projeto-que-cria-o-marco-da-educacao-integral",
-          "published_at": "Fri, 06 Nov 2026 17:35:00 GMT",
-          "summary": "Thiago Cristino / Câmara dos Deputados Thiago de Joaldo, relator da proposta A Comissão de Educação da Câmara dos Deputados aprovou projeto de lei que institui o Marco Nacional da Educação Integral em Tempo Integral, com regras gerais e permanentes para a expansão e a qualificação da jornada ampliada nas escolas públicas de ensino básico. Foi aprovado o substitutivo elaborado pelo deputado Thiago de Joaldo (Republicanos-SE). O texto reúne o conteúdo do Projeto de Lei 479/15 , do deputado João Daniel (PT-SE), e mais 21 propostas que tramitam em conjunto. O projeto original alterava a Lei de..."
-        },
-        {
-          "title": "Comissão aprova projeto que exige identificação em medicamentos comprados para o SUS",
-          "url": "https://www.camara.leg.br/noticias/1316831-comissao-aprova-projeto-que-exige-identificacao-em-medicamentos-comprados-para-o-sus",
-          "published_at": "Fri, 06 Nov 2026 16:31:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Laura Carneiro: embalagens, rótulos e cartelas deverão trazer marcas de identificação exclusivas A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou proposta que obriga a União, os estados, o Distrito Federal e os municípios a identificarem medicamentos e produtos de saúde comprados para o Sistema Único de Saúde (SUS). O objetivo é dificultar o desvio de cargas e impedir a comercialização indevida desses insumos no mercado paralelo. Os parlamentares aprovaram a versão da relatora ( substitutivo ), deputada Laura Carneiro (PSD-RJ), ao Pro..."
-        },
-        {
-          "title": "Câmara Mirim leva jornada parlamentar para dentro das escolas em edição do bicentenário",
-          "url": "https://www.camara.leg.br/noticias/1316564-camara-mirim-leva-jornada-parlamentar-para-dentro-das-escolas-em-edicao-do-bicentenario",
-          "published_at": "Fri, 06 Nov 2026 15:45:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Participantes durante visita especial à Câmara dos Deputados A edição de 2026 do Câmara Mirim levou a jornada parlamentar para dentro das escolas. Em uma iniciativa especial pelo bicentenário da Câmara dos Deputados, professores conduziram estudantes em atividades de elaboração, debate, emendamento e votação de propostas sobre problemas do cotidiano. Neste ano, o programa foi organizado em duas modalidades independentes. Na primeira, professores de escolas públicas e privadas conduziram uma jornada parlamentar com os estudantes. Na segunda, educadores d..."
-        },
-        {
-          "title": "Comissão aprova projeto de incentivo à produção e ao uso do etanol",
-          "url": "https://www.camara.leg.br/noticias/1316742-comissao-aprova-projeto-de-incentivo-a-producao-e-ao-uso-do-etanol",
-          "published_at": "Fri, 06 Nov 2026 15:31:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Rafael Fera, relator da proposta A Comissão de Minas e Energia da Câmara dos Deputados aprovou o Projeto de Lei 2300/25, do deputado Max Lemos (União-RJ), que estabelece medidas de incentivo à produção, à comercialização e ao uso do etanol combustível. A proposta tem o objetivo de reduzir o custo dos combustíveis no Brasil e fortalecer a matriz energética nacional. O texto prevê: criação de linhas de crédito especiais com juros subsidiados para usinas e produtores rurais; incentivos fiscais para novos investimentos e modernização tecnológica do setor su..."
-        },
-        {
-          "title": "Comissão aprova inclusão do vinagre colonial em regras da agricultura familiar",
-          "url": "https://www.camara.leg.br/noticias/1316706-comissao-aprova-inclusao-do-vinagre-colonial-em-regras-da-agricultura-familiar",
-          "published_at": "Fri, 06 Nov 2026 14:11:00 GMT",
-          "summary": "Renato Araújo / Câmara dos Deputados Daniel Agrobom: contribuirá para a permanência das famílias no campo e para o fortalecimento da identidade cultural das regiões produtoras A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara dos Deputados aprovou o Projeto de Lei 6538/25, que inclui o vinagre colonial no regime jurídico aplicável ao vinho colonial produzido por agricultor familiar ou empreendedor familiar rural. O relator, deputado Daniel Agrobom (PSD-GO), recomendou a aprovação do texto, de autoria do deputado Alceu Moreira (MDB-RS). Para Daniel Agrobom,..."
-        },
-        {
-          "title": "Projeto inclui vinagre colonial nas regras aplicadas ao vinho da agricultura familiar",
-          "url": "https://www.camara.leg.br/noticias/1316704-projeto-inclui-vinagre-colonial-nas-regras-aplicadas-ao-vinho-da-agricultura-familiar",
-          "published_at": "Fri, 06 Nov 2026 14:00:00 GMT",
-          "summary": "Renato Araújo / Câmara dos Deputados Alceu Moreira: a ausência de regulamentação específica impede que agricultores formalizem a produção O Projeto de Lei 6538/25 inclui a produção de vinagre colonial no mesmo regime jurídico simplificado já aplicado ao vinho colonial produzido por agricultores familiares. O texto está em análise na Câmara dos Deputados. Conforme a proposta, será considerado vinagre colonial o produto obtido por fermentação acética de vinho, com métodos tradicionais e processamento artesanal realizados na propriedade rural ou em agroindústria familiar. O vinagre colonial de..."
-        },
-        {
-          "title": "Comissão aprova atendimento virtual 24 horas a mulheres vítimas de violência",
-          "url": "https://www.camara.leg.br/noticias/1316681-comissao-aprova-atendimento-virtual-24-horas-a-mulheres-vitimas-de-violencia",
-          "published_at": "Fri, 06 Nov 2026 13:51:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Célia Xakriabá defendeu a aprovação do texto original A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou o Projeto de Lei 1292/26 , que prevê atendimento virtual ininterrupto a mulheres vítimas de violência nos municípios que não têm Delegacia Especializada de Atendimento à Mulher (Deam). O serviço será de responsabilidade da Polícia Civil de cada estado ou do Distrito Federal. A proposta acrescenta dispositivos à Lei 14.541/23 , que trata do funcionamento das delegacias da mulher. Como será o atendimento A plataforma virtual de..."
-        },
-        {
-          "title": "Comissão aprova uso do Fundo Social para compra de móveis e eletrodomésticos no Minha Casa, Minha Vida",
-          "url": "https://www.camara.leg.br/noticias/1316693-comissao-aprova-uso-do-fundo-social-para-compra-de-moveis-e-eletrodomesticos-no-minha-casa-minha-vida",
-          "published_at": "Fri, 06 Nov 2026 13:26:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Rocha: iniciativa vai melhorar condições de vida das famílias em maior vulnerabilidade A Comissão de Desenvolvimento Urbano da Câmara dos Deputados aprovou proposta que permite usar recursos do Fundo Social para comprar bens móveis de primeira necessidade e eletrodomésticos da linha branca (voltados principalmente para cozinha, lavanderia e conservação de alimentos) vinculados às operações do Programa Minha Casa, Minha Vida. O texto aprovado é a versão do relator substitutivo , deputado Hildo Rocha (MDB-MA), para o Projeto de Lei 3737/24 , da deputada F..."
-        },
-        {
-          "title": "Comissão debate atendimento educacional dos alunos da educação especial",
-          "url": "https://www.camara.leg.br/noticias/1316333-comissao-debate-atendimento-educacional-dos-alunos-da-educacao-especial",
-          "published_at": "Fri, 06 Nov 2026 13:16:00 GMT",
-          "summary": "Divulgação/Governo do Piauí Deputada quer abordar o aprimoramento do atendimento educacional especializado A Comissão de Educação da Câmara dos Deputados promove, nesta quarta-feira (11), audiência pública para discutir o papel do laudo médico e da avaliação psicopedagógica na identificação das necessidades e no desenvolvimento escolar dos estudantes da educação especial, com foco no Transtorno do Déficit de Atenção e Hiperatividade (TDAH) e outras excepcionalidades. O debate está marcado para as 16 horas, em plenário a ser definido. Veja quem foi convidado A audiência é uma iniciativa da d..."
-        },
-        {
-          "title": "Comissão debate atuação da Rede Nacional de Física de Altas Energias",
-          "url": "https://www.camara.leg.br/noticias/1316238-comissao-debate-atuacao-da-rede-nacional-de-fisica-de-altas-energias",
-          "published_at": "Fri, 06 Nov 2026 12:29:00 GMT",
-          "summary": "GettyImages A Renafae busca fortalecer a pesquisa brasileira em física de partículas A Comissão de Ciência, Tecnologia e Inovação da Câmara dos Deputados realiza, nesta quarta-feira (11), audiência pública para debater a atuação da Rede Nacional de Física de Altas Energias (Renafae). O debate está marcado para as 9h30, no plenário 13. Veja quem foi convidado A audiência atende a pedido do deputado Inácio Arruda (PCdoB-CE). A Renafae é uma articulação nacional para fortalecer a pesquisa brasileira em física de partículas e ampliar a participação do país em grandes projetos científicos intern..."
-        },
-        {
-          "title": "Comissão de Saúde discute proposta que cria cartão de identificação único do usuário do SUS",
-          "url": "https://www.camara.leg.br/noticias/1316523-comissao-de-saude-discute-proposta-que-cria-cartao-de-identificacao-unico-do-usuario-do-sus",
-          "published_at": "Fri, 06 Nov 2026 12:23:00 GMT",
-          "summary": "Marcelo Casal Jr./Agência Brasil Integrar os atuais sistemas de informação é um dos desafios A Comissão de Saúde da Câmara dos Deputados realiza, na próxima quarta-feira (11), às 17 horas, audiência pública para dar continuidade à discussão sobre o cartão de identificação do usuário do Sistema Único de Saúde (SUS), previsto no Projeto de Lei 5875/13 . O debate será realizado no plenário 7, a pedido da deputada Adriana Ventura (Novo-SP), relatora da proposta. Veja quem foi convidado A audiência deverá abordar: os desafios para implementar o cartão, especialmente a integração entre os diferen..."
-        },
-        {
-          "title": "Comissão aprova projeto que prevê apoio a profissionais da educação vítimas de violência",
-          "url": "https://www.camara.leg.br/noticias/1316677-comissao-aprova-projeto-que-preve-apoio-a-profissionais-da-educacao-vitimas-de-violencia",
-          "published_at": "Fri, 06 Nov 2026 12:15:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Tarcísio Motta é o relator da proposta A Comissão de Cultura aprovou o Projeto de Lei 7114/25 , que cria o Programa Nacional de Apoio Jurídico, Psicológico e de Segurança aos Profissionais da Educação. A proposta do deputado Amom Mandel (Republicanos-AM) prevê assistência gratuita e imediata a trabalhadores da área que sejam vítimas de violência física, psicológica ou moral, de perseguição ou de censura em razão de suas funções, dentro ou fora do ambiente escolar. O texto acrescenta um artigo à Lei de Diretrizes e Bases da Educação Nacional (LDB) para e..."
-        },
-        {
-          "title": "Comissão aprova dispensa de custas processuais para medidas protetivas da Lei Maria da Penha",
-          "url": "https://www.camara.leg.br/noticias/1316669-comissao-aprova-dispensa-de-custas-processuais-para-medidas-protetivas-da-lei-maria-da-penha",
-          "published_at": "Fri, 06 Nov 2026 11:22:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos deputados Rogéria Santos é a relatora da proposta A Comissão de Defesa dos Direitos da Mulher aprovou o Projeto de Lei 2863/26 prevê a isenção de custas processuais para solicitação, revisão ou adoção de medidas protetivas com base na Lei Maria da Penha . A dispensa do pagamento será válida independentemente de comprovação de insuficiência financeira. Na justificativa, a autora do projeto, deputada Laura Carneiro (PSD-RJ), afirma que a cobrança de despesas ou a exigência de comprovação de falta de recursos pode dificultar o acesso à proteção. A relatora, deputada..."
         }
       ]
     },
@@ -366,12 +366,6 @@
           "summary": "CAIXA Loterias estende horários das apostas CAIXA Notícias"
         },
         {
-          "title": "CAIXA vai creditar aos trabalhadores R$ 13,04 bilhões do lucro do FGTS - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRjdPLTNLVmlqckI4QTBsSXQxdHZwR1BMRlZKVHBOUVpSQ1QzeHJiQXJGdGJwSFp5YXpEYXBVSWtGckJYWEJfazZ5UlYxWUlkU0x6NnBMa2VGWlFhQWZhRi1WNFFaaVpHZ191ck5UajZGSGJ1YUtHYjhqcm9fV0UtNU1xcHZQamJ6MW8wV3ZMRjVHMGJzajdWODN6aUd6TGVxY0NIS0pyekFhNVBuaHNUeVpDREVsc2hXYW45MXpORjFkR3o3THNYNkNPSHdYLUlJSDZndjBjaG52ZlhCTDRVYw?oc=5",
-          "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
-          "summary": "CAIXA vai creditar aos trabalhadores R$ 13,04 bilhões do lucro do FGTS CAIXA Notícias"
-        },
-        {
           "title": "CAIXA Cultural São Paulo recebe edição 2026 do Festival Palco Brasil - CAIXA Notícias",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOWtPZXBXbm5UcVN6WjJSV25ocVpralI1NDBFd0pqcjNmVVdkSHo5ZG1CRWtDeGp4Z1pHYWUyTEtzck81TWlXNTJmS00xX015Wk5GMUU1aVdTUU9Sb1dnM3pkamFNdjd1UU9Vbll1aWREZDEyV2lRa1pRTXB4cTdXUE0tUV9iTlFQWVFaVG1nR081NUoycHZabGd6TnVHbHk4cTlma2lkRDhlcG9TVTdKbmo0NXM5VEtXN3IwdlctRHNTUjFBcjJxd3kzOXg2dXhsVllTWHc4YnYydmRkNXc?oc=5",
           "published_at": "Fri, 14 Aug 2026 07:00:00 GMT",
@@ -390,12 +384,6 @@
           "summary": "CAIXA Cultural Brasília recebe a peça “Elogio da Loucura”, de Erasmo de Rotterdam CAIXA Notícias"
         },
         {
-          "title": "CAIXA disponibiliza saque calamidade para os moradores de Guaratuba (PR) - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUGlSSnFZVTNFZTVCM2w1MURIX2RmdGUwczhyekxTd2dkZjFUa2RkaGtZOUNHbGctcnRkSHFKT0JYWGVHVHR5aFlaYlg2ZjBXeXhrUDJ1QjdSbENicnlBSmhhWVduaXd5R3dPMTN5LWhldTlqNUNpTW1HRXVVQkFSTmtCQTZ0RHlGb3NHUVBMLXZGS004cEJOUE5XeDdwXy1HdlJDX3BpMUNQakcwNmduZjZGLTBtUWxwZlZMT1hNMmlfWlA5cXB5eWRxWlVfc2E0UlFNX21PN2pvdmJRRElnSA?oc=5",
-          "published_at": "Thu, 13 Aug 2026 07:00:00 GMT",
-          "summary": "CAIXA disponibiliza saque calamidade para os moradores de Guaratuba (PR) CAIXA Notícias"
-        },
-        {
           "title": "CAIXA inicia pagamento do Abono Salarial 2026 na próxima segunda-feira (16) - CAIXA Notícias",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd3NXblZpVmVzbnE1dFFhSHBDZ0JuVDhHcUFQREVRcmxla0NON0Q0UHRSZnR6U2xkeVdiT09Rclo1aHNsM0MxaFlUQlZHVVQ0UjJUQkJkOENvcm5PVjZWSDZ3MU5JSmRGaldIZi1Oa0JPNUxReVR6VnNtbFpYYWRyT3Q0dFZ4T0FObFlTWEZYU0EzN2NWUVZ2ZVRUM3JVWHlBNlo0WVhrV2J1eEJvQzhIR013MldOcjhUcE9EUUMxblBmbmlYWjJvMFlkeXloMFBKYjNOVjNXeUhhUzIzZmc2REVaTjhHczE5?oc=5",
           "published_at": "Fri, 13 Feb 2026 08:00:00 GMT",
@@ -404,7 +392,7 @@
         {
           "title": "Lotofácil da Independência 2026 inicia suas vendas - CAIXA Notícias",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkhPQ21jeFJPOHVrUDlpMC1ZejhJM3FKSGNTWGlJenFSeGNvSGtRcFB3WTJyR1Ztb2IxTjZBNlR5R285UFBISDUtZmJxbkRkV3pnTnUxcG1RY2kwNlZFUS1ieXhhUE52U1RpMHFjR3dEUkJTb2FYcTdSYVd0LWRnTGhCTld5UmNSeE40UlJ1LUZ2QnN3OVZvank0WGU0bXBnU3lsblVXWUk5N2Jtalh2Z0YyVDJBQWZyRHRRTEVkbWw0WHFS?oc=5",
-          "published_at": "Sat, 18 Jul 2026 07:00:00 GMT",
+          "published_at": "Mon, 20 Jul 2026 07:00:00 GMT",
           "summary": "Lotofácil da Independência 2026 inicia suas vendas CAIXA Notícias"
         },
         {
@@ -426,6 +414,12 @@
           "summary": "Roberta Sá comemora 20 anos de carreira com temporada de shows na CAIXA Cultural Salvador CAIXA Notícias"
         },
         {
+          "title": "Exposição na CAIXA Cultural Brasília celebra centenário do artista Antônio Poteiro - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZEI5UzNsWmtZclgtZmJLSExZR2ZwMkFrM1duY24yb0xlNTA5UjczNENZVlZKUUdOcVF5SjRsdUdheFEzaHRWREwtQ0pVeE1DRXVvaDVPV092UW9rYWdpUFdObW1KVjM2U25qRi1XMk11M0N5WVhjRGlVc2ZJaDZIdWNKRGw1bWtDSTZ6RjVfb2ZVcUVaVHJ2YTBxVGp4T0pjSnZLVGVqTzdhbFRNcFUxYTlfdzFSYTBNOWFMdVFBMnRtMERRdHVrYy04UFVKdlV6eDA5YThjNlpTMEJkbC1kTFo0OXpmelVsSUN4SE91UXBoU2xINW5r?oc=5",
+          "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+          "summary": "Exposição na CAIXA Cultural Brasília celebra centenário do artista Antônio Poteiro CAIXA Notícias"
+        },
+        {
           "title": "CAIXA Cultural Brasília apresenta “Escola de Mulheres”, de Moliére - CAIXA Notícias",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUlNjU2tkY09obmtWQmFoajhjbWloUlVUTkw1RnpsdnlsR2NVUXhKTTlfQ1d2X1hlZW1KZFdGYWZ5Z29CYzkwR1FFWjBVbzhldFgwUjl5OE9yQkE0SjdZYXJSLWQyajVXUUMtQm92NUROYTJyT2EyMllLcGJLc1hpa3dSVVRUMGdnVzB1NGdHMjQyUDlYa1o3YlFmUDhPOUE2V0RhTWtGMXhGSzNTeGtYOEZPMTRZdTJMSGk1eUdRSDZocTREWHVRM2QzU0MtUjF1b1FxZ2V3?oc=5",
           "published_at": "Tue, 14 Jul 2026 07:00:00 GMT",
@@ -438,22 +432,28 @@
           "summary": "Desenrola FIES: CAIXA inicia renegociação com condições especiais CAIXA Notícias"
         },
         {
-          "title": "CAIXA Cultural Curitiba recebe espetáculo em homenagem aos 80 anos de Beth Carvalho - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUHBvQzBjRFFDUXNmMjdIX1RGWTlMREFIOENUejI0ek5aaVlEWkJfeWpBc1ROZWs5bDFsYWVVZUV4ZGJpN3ZsWk9yZ3pKUXBhUnlaZHJYQWRrMkNlbmo3ak5qNWh3emFoYmxpbkY0YU9GYlBhRDAxZk1NN2t3M242MnEtOEtoT28xRzlJTjhEZWFYRV96bVViYjVRUzFEMm1tWUE0WHY5cUo2VkZlMVBUUy1sdVB1dUVTZVNJdnVfNkxDR3dHLURsSi1vMnpkWU1QRGpIc3hfeldjX3dSSmJ0M3FDcVlYWFdmM1cxbGJKWjFFWEVD?oc=5",
-          "published_at": "Wed, 30 Sep 2026 07:00:00 GMT",
-          "summary": "CAIXA Cultural Curitiba recebe espetáculo em homenagem aos 80 anos de Beth Carvalho CAIXA Notícias"
-        },
-        {
-          "title": "CAIXA inicia pagamento do Bolsa Família referente ao mês de julho nesta segunda-feira (20) - CAIXA",
+          "title": "CAIXA inicia pagamento do Bolsa Família referente ao mês de julho nesta segunda-feira (20) - CAIXA Notícias",
           "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNTk3dnBZaC1JWDVJT09TYnlRa195X2d3VXZ1RDBFUjdrNFlidVluWkhKVEJ0aE5HSkE4SGY4VFNieEVOSDY2Rmx1TUNMRmNXTEhJcU9ZTGZjdTBEOW5ZUjl0RWdma2NkcHFhak5pRzNTR1hUM3BjWDJFaEdHNHhJNWp4T2NWVDBVRDVCTHQ4TVpBSWVvRjFqNkNUMngyd28tc0RRZmhWUEtYcFFMT09LVlJCWUZkVmJfS29BNkRfME5ScGV2Wk5RSjgyUXJERmpJQzFTbXRacHJ1Szk4YTZsZGZ1LS0zVW1BWGVZWDFVdXBPWUZSX2x1R2MtWlNjd1NkTzQ1MFJYSQ?oc=5",
           "published_at": "Fri, 17 Jul 2026 07:00:00 GMT",
-          "summary": "CAIXA inicia pagamento do Bolsa Família referente ao mês de julho nesta segunda-feira (20) CAIXA"
+          "summary": "CAIXA inicia pagamento do Bolsa Família referente ao mês de julho nesta segunda-feira (20) CAIXA Notícias"
         },
         {
           "title": "Oficinas gratuitas marcam início da programação da Unidade Pelourinho da CAIXA Cultural Salvador - CAIXA Notícias",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWVJpV250Y294YlppTmx5SWx3TXd6akc4OXRDRVRtUG4xaFJsQmUxWTd5bDRCak15VXpUTDhmNHpjZkFwVGpFX0tiNExxaGtyb3UydVVUWWZ1VlowTUJvaUtGU0RKQXVsZl9Qb3d5NVJpWWRDTHJWWVp1SlhYcTdUUmV3RUVfZElXVTl4ejJGMDhSOWxXSGxieVNMZzhMR05WbXYwN1kyZlROTVhfaTNVcTBPMnZUbjlSMDFfMzN0aFJXeXUteHRjMm1RY2JFWVpSaTlndFlBMzFmYllHa05mMEpzdGZ6anpNejVLTEpDY1BQOWQwckI2Q2ZVVjBBVk5sRVE?oc=5",
           "published_at": "Thu, 16 Jul 2026 07:00:00 GMT",
           "summary": "Oficinas gratuitas marcam início da programação da Unidade Pelourinho da CAIXA Cultural Salvador CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Cultural Rio de Janeiro recebe Festival CAIXA Ano Cultural Brasil-China - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQkRIbWhpS3lJbTJfc05tQTNlaDl1bzJYVXNnU2NGVmd6dUV5Mlc1eFo0THlVek95MURmVV9pQ25vZXFuMng0OGdlaGhtVW1Ga20xdWdkQzRPeDNzZ2NWWTBjMnctRGpFNktKODN0R0dVYzlCMFZkNXNIZjNLeHh2OUprcUx1WDhtTC1nQzJXX0ljS2hicmwzUnJpc3lrQUtTZ204VTVkS2t4QXBMbmtYUUxHZS1xTnRVdjBmUGNLOEhVVEREYlhrMFVmcmd5c0dJczd2SjBzZFhzUzlnRVRmR0pmckFYa0Nv?oc=5",
+          "published_at": "Fri, 17 Jul 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Rio de Janeiro recebe Festival CAIXA Ano Cultural Brasil-China CAIXA Notícias"
+        },
+        {
+          "title": "Abono Salarial: CAIXA paga mais de R$ 4,8 bilhões aos trabalhadores nascidos em setembro e outubro - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaHhwZlBMUHVwWVd0MzRHNENGWW9hMVNtN21TRzRmUzJITVhqcDJXcTEyNzJJcDBtcmpzTUtwZE9wMkdHNGhRSWdkdE5HdWJZTGxROFFFWkllT2NfT2w4SmNhd3dVN2ZlQ0UxZW05dkRLel9wdlkyamVmZkpTbngxc0FBb0dKSm9vZldnVXdwaEd3dDBHVnZSZENCRTJrb1BvMGVid1hEUmwySTlRc09zY09jX1QzSkRnUVN0TWNnal9VUVZxd19ON3lEdXpFak9TbF9NQmNfTnU3NzlJS2QxSDVrZWxBMEhDTnYtTnVHSjFXWGhISGM1cFBpbndEYXB0?oc=5",
+          "published_at": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "summary": "Abono Salarial: CAIXA paga mais de R$ 4,8 bilhões aos trabalhadores nascidos em setembro e outubro CAIXA Notícias"
         }
       ],
       "note": "Coletado via endpoint/feed de fallback (https://news.google.com/rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419)"
