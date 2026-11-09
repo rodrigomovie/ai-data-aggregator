@@ -159,6 +159,7 @@ def generate_static_index_html(aggregated_data: Dict[str, Any]) -> str:
         "<head>",
         '  <meta charset="UTF-8" />',
         '  <meta name="viewport" content="width=device-width, initial-scale=1.0" />',
+        '  <meta name="msvalidate.01" content="6A925F11C3FB4F6B637E935E2A0A5CB4" />',
         '  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />',
         f"  <title>{project_name}</title>",
         f'  <meta name="description" content="{description}" />',

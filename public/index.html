@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="msvalidate.01" content="6A925F11C3FB4F6B637E935E2A0A5CB4" />
   <title>AI Data Aggregator — Machine & Human Readable Feed</title>
   <meta name="description" content="Repositório de dados agregados otimizado para leitura por Agentes de IA (JSON & Markdown/LLMs.txt) e visualização humana." />
   <link rel="alternate" type="application/json" href="data/data.json" title="Structured JSON Data Feed" />
@@ -69,12 +70,14 @@
       </div>
     </section>
 
+    <!-- Visão 1: Cards Semânticos -->
     <section id="view-cards" class="view-section" aria-live="polite">
       <div id="sources-container" class="sources-grid">
         <p class="loading-state">Carregando <code>data/data.json</code>...</p>
       </div>
     </section>
 
+    <!-- Visão 2: Texto Puro / Markdown para Agentes de IA -->
     <section id="view-markdown" class="view-section hidden" aria-live="polite">
       <div class="raw-header">
         <span>Formato texto puro estruturado (ideal para janelas de contexto de LLMs)</span>
@@ -83,6 +86,7 @@
       <pre id="markdown-output" class="code-block">Carregando texto puro...</pre>
     </section>
 
+    <!-- Visão 3: JSON Bruto -->
     <section id="view-json" class="view-section hidden" aria-live="polite">
       <div class="raw-header">
         <span>Payload completo de <code>data/data.json</code></span>
@@ -92,6 +96,7 @@
     </section>
   </main>
 
+  <!-- Payload JSON embutido/sincronizado para que crawlers que leem o DOM recebam os dados imediatamente -->
   <script id="ai-agent-structured-data" type="application/json"></script>
   <script src="app.js" defer></script>
 </body>
