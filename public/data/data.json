@@ -3,7 +3,7 @@
   "metadata": {
     "project_name": "AI Data Aggregator — Setor Público & Notícias Governamentais",
     "description": "Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.",
-    "generated_at_utc": "2026-11-08T00:27:34Z",
+    "generated_at_utc": "2026-11-09T00:28:54Z",
     "total_sources": 4,
     "successful_sources": 4,
     "total_items": 90
@@ -336,6 +336,12 @@
       "items_count": 20,
       "items": [
         {
+          "title": "Mega-Sena terá cinco sorteios na última semana de outubro - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0hSS1d0cDRSSVFUV0tCd1FrMFFCa3duRzdhTUxhZnAtR1k1UE9MWnQ1NjRJSHRXaGJhcHpiV2JMdFdFTENUZHhJRWM2ckd6TVhlSDRRVW5wZC15cVpHeEUtdURteUtyQUFQS0lLVGcwYnhOY1NrTnRhQ0Q2ZS1JUGlENmtSZXBUeU5US3MzQWJ5UTdxcEFNQ0p0ZmttOHc3aEY4WTZueXlOeFpqaEZaRzc4dzNyejc2R0FHRG9INngyMlc4bmhzVlE4LVFYejZ5aFE?oc=5",
+          "published_at": "Tue, 29 Sep 2026 07:00:00 GMT",
+          "summary": "Mega-Sena terá cinco sorteios na última semana de outubro CAIXA Notícias"
+        },
+        {
           "title": "CAIXA Cultural Fortaleza recebe o espetáculo A Invenção do Nordeste - CAIXA Notícias",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQejh5SGVfbE5qY2MxbGUxcnJzd1dpelNlY3VpVXZtc3hVeDB0Q21XVmRPenRLMGpoMmxpYmdlRGphS1plaGhEWmtwM3FhR3pWYVBYaGRjUzViMUtpUDM0V3V3alRYXzZwbk1Fd1hZb19Ra2lySEotdkhzU3kwOGRpUExHcGpfNElFczdyT1ZXdXdUbW1zdWs2aWotRkJqT2h2bGxxZXNhRUstLUlrcTkzVThIUmZHQW5QcnVxSU1ibGItVjlta1k4N3VDd3N4SXhWeWcyTEl5cENlMjk3UGt1RnRmY3cxdGtOYmRuTWs1Z1NiQms?oc=5",
           "published_at": "Wed, 09 Sep 2026 07:00:00 GMT",
@@ -364,12 +370,6 @@
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRjdPLTNLVmlqckI4QTBsSXQxdHZwR1BMRlZKVHBOUVpSQ1QzeHJiQXJGdGJwSFp5YXpEYXBVSWtGckJYWEJfazZ5UlYxWUlkU0x6NnBMa2VGWlFhQWZhRi1WNFFaaVpHZ191ck5UajZGSGJ1YUtHYjhqcm9fV0UtNU1xcHZQamJ6MW8wV3ZMRjVHMGJzajdWODN6aUd6TGVxY0NIS0pyekFhNVBuaHNUeVpDREVsc2hXYW45MXpORjFkR3o3THNYNkNPSHdYLUlJSDZndjBjaG52ZlhCTDRVYw?oc=5",
           "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
           "summary": "CAIXA vai creditar aos trabalhadores R$ 13,04 bilhões do lucro do FGTS CAIXA Notícias"
-        },
-        {
-          "title": "CAIXA Notícias CAIXA Cultural Recife apresenta o espetáculo infantil “Da Janela” - CAIXA",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSXlMNUlQSXZ6NllHTGRVamxqNGR0b0dsZTU0S0pKb1ktTkNzRmRtVUd5OVNBOEJoNnNUU1lPSkljeEdabmJ1YnNxYXQtUWFfVmo3bElicFczRFE3enRIZFlKWXNyblhDTXRkU2Zlb3Q3a28wVlRXWFZzMlE1eVJ1bm9SUU5rUTJiZHBoTWY2RGpMVU5LYm5CSUpCaGZoR19QQ3RObHdrV0paaE5CdHhUVkUwdVN5b3RXaXFBb0JNX2dva3FBVFAzZ0pFNjJFX0dxM0dqQnNMOVk?oc=5",
-          "published_at": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "summary": "CAIXA Notícias CAIXA Cultural Recife apresenta o espetáculo infantil “Da Janela” CAIXA"
         },
         {
           "title": "CAIXA Cultural São Paulo recebe edição 2026 do Festival Palco Brasil - CAIXA Notícias",
@@ -438,10 +438,10 @@
           "summary": "Desenrola FIES: CAIXA inicia renegociação com condições especiais CAIXA Notícias"
         },
         {
-          "title": "CAIXA Cultural São Paulo celebra nordeste com música e cordel - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3FpU3JFYUdhdUVaSHU2SWc2ZzY0UDJMVXh6TWhPOHJURHRwWmlIME9iRFdVRmpDRUZ1OXVmTGNabERzOFlYSi1DS3pWSURYY0ZIYmVoeVNoV3BXSlRPb2lNR25UUW1HLU8zZFBnSWppNVdNRExxTWRxWUdtWkVvQ1hLT1pOQXdoY1R4YUlCTW1kb3d6NHk5ZS1SR1JKbW9Qc29fTGNnQ0RDZ2VuU18yQ0Q2Mng0dzVYajBZSFRLMjZoVHJPUWlUWi1yVHlNb2s3WmJLOWtLMA?oc=5",
-          "published_at": "Fri, 25 Sep 2026 07:00:00 GMT",
-          "summary": "CAIXA Cultural São Paulo celebra nordeste com música e cordel CAIXA Notícias"
+          "title": "CAIXA Cultural Curitiba recebe espetáculo em homenagem aos 80 anos de Beth Carvalho - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUHBvQzBjRFFDUXNmMjdIX1RGWTlMREFIOENUejI0ek5aaVlEWkJfeWpBc1ROZWs5bDFsYWVVZUV4ZGJpN3ZsWk9yZ3pKUXBhUnlaZHJYQWRrMkNlbmo3ak5qNWh3emFoYmxpbkY0YU9GYlBhRDAxZk1NN2t3M242MnEtOEtoT28xRzlJTjhEZWFYRV96bVViYjVRUzFEMm1tWUE0WHY5cUo2VkZlMVBUUy1sdVB1dUVTZVNJdnVfNkxDR3dHLURsSi1vMnpkWU1QRGpIc3hfeldjX3dSSmJ0M3FDcVlYWFdmM1cxbGJKWjFFWEVD?oc=5",
+          "published_at": "Wed, 30 Sep 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Curitiba recebe espetáculo em homenagem aos 80 anos de Beth Carvalho CAIXA Notícias"
         },
         {
           "title": "CAIXA inicia pagamento do Bolsa Família referente ao mês de julho nesta segunda-feira (20) - CAIXA",
@@ -456,7 +456,7 @@
           "summary": "Oficinas gratuitas marcam início da programação da Unidade Pelourinho da CAIXA Cultural Salvador CAIXA Notícias"
         }
       ],
-      "note": "Dados preservados da coleta anterior (motivo na execução atual: Bloqueio WAF/Captcha detectado (ShieldSquare / Radware / Cloudflare Challenge). | Fallback error: HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419 (Caused by ResponseError('too many 503 error responses')))"
+      "note": "Coletado via endpoint/feed de fallback (https://news.google.com/rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419)"
     },
     {
       "id": "bb_imprensa_setor_publico",
