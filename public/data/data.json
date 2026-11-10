@@ -3,7 +3,7 @@
   "metadata": {
     "project_name": "AI Data Aggregator — Setor Público & Notícias Governamentais",
     "description": "Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.",
-    "generated_at_utc": "2026-11-09T22:07:11Z",
+    "generated_at_utc": "2026-11-10T00:28:14Z",
     "total_sources": 4,
     "successful_sources": 4,
     "total_items": 90
@@ -205,6 +205,18 @@
       "items_count": 20,
       "items": [
         {
+          "title": "Projeto inclui dislexia na definição de educação especial da LDB",
+          "url": "https://www.camara.leg.br/noticias/1312606-projeto-inclui-dislexia-na-definicao-de-educacao-especial-da-ldb",
+          "published_at": "Mon, 09 Nov 2026 22:56:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Deputado Emanuel Pinheiro Neto, autor da proposta O Projeto de Lei 3293/26 altera a Lei de Diretrizes e Bases da Educação Nacional (LDB) para incluir expressamente a dislexia no conceito de educação especial. A proposta é do deputado Emanuel Pinheiro Neto (PSD-MT) e está em análise na Câmara dos Deputados. Atualmente, a LDB define a educação especial como a modalidade de educação escolar oferecida preferencialmente na rede regular de ensino para alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação. O texto e..."
+        },
+        {
+          "title": "Comissão analisa relatório sobre renegociação de dívidas de produtores rurais nesta terça-feira",
+          "url": "https://www.camara.leg.br/noticias/1317452-comissao-analisa-relatorio-sobre-renegociacao-de-dividas-de-produtores-rurais-nesta-terca-feira",
+          "published_at": "Mon, 09 Nov 2026 22:07:00 GMT",
+          "summary": "Divulgação/Emater Produtores rurais afetados por eventos climáticos são o foco da medida provisória A comissão mista sobre a Medida Provisória (MP) 1376/26 , que autoriza a criação de linhas de crédito para renegociação de dívidas de produtores rurais afetados por eventos climáticos adversos, analisa, nesta terça-feira (10), às 14 horas, o relatório do deputado Paulo Pimenta (PT-RS). A proposta prevê linhas de crédito para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural (CPR). Também autoriza a participação da União em um fundo garantidor para cobrir op..."
+        },
+        {
           "title": "Cancelada votação de parecer sobre política nacional para pessoas com autismo",
           "url": "https://www.camara.leg.br/noticias/1296150-cancelada-votacao-de-parecer-sobre-politica-nacional-para-pessoas-com-autismo",
           "published_at": "Mon, 09 Nov 2026 20:40:00 GMT",
@@ -311,18 +323,6 @@
           "url": "https://www.camara.leg.br/noticias/1316471-conselho-de-comunicacao-debate-educacao-midiatica-e-letramento-digital-participe",
           "published_at": "Mon, 09 Nov 2026 11:40:00 GMT",
           "summary": "Bruno Spada / Câmara dos Deputados Patrícia Blanco destacou importância do tema para proteção de crianças e adolescentes O Conselho de Comunicação Social do Congresso Nacional promove audiência pública nesta segunda-feira (9), às 9h30, para debater educação midiática e letramento digital. A presidente do conselho, Patrícia Blanco, propôs a audiência para aproveitar a 4ª Semana Brasileira de Educação Midiática, que vai de 4 a 11 de novembro e é organizada pela Secretaria de Comunicação da Presidência da República e pelo Ministério da Educação. Na reunião que aprovou o requerimento, Patrícia..."
-        },
-        {
-          "title": "Nova lei condiciona registro de médicos à aprovação em exame",
-          "url": "https://www.camara.leg.br/noticias/1316981-nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame",
-          "published_at": "Fri, 06 Nov 2026 21:42:00 GMT",
-          "summary": "Ricardo Stuckert/Presidência da República Sanção da lei que institui novas regras para o Enamed O presidente Luiz Inácio Lula da Silva sancionou nesta sexta-feira (6), no Palácio do Planalto, a lei que institui novas regras para o Exame Nacional de Avaliação da Formação Médica (Enamed). A legislação condiciona o registro profissional dos médicos à aprovação no exame e amplia a avaliação dos estudantes ao longo da graduação. A prova será aplicada no segundo, no quarto e no sexto ano do curso de Medicina. A nota final será calculada pela média dos três resultados, com peso maior para a avalia..."
-        },
-        {
-          "title": "Comissão aprova proibição de posse em cargo público para condenados por crimes contra vulneráveis",
-          "url": "https://www.camara.leg.br/noticias/1316835-comissao-aprova-proibicao-de-posse-em-cargo-publico-para-condenados-por-crimes-contra-vulneraveis",
-          "published_at": "Fri, 06 Nov 2026 20:40:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Merlong Solano, relator da proposta na comissão A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou proposta que proíbe pessoas condenadas por crimes contra grupos vulneráveis de assumirem cargos, empregos ou funções públicas, além de impedi-las de firmar contratos com a administração pública. A medida afeta condenados com decisão judicial definitiva por crimes de violência doméstica e familiar, racismo e discriminação, ou delitos praticados contra crianças, adolescentes, idosos e pessoas com deficiência. Os parlamentares aprovaram alter..."
         }
       ]
     },

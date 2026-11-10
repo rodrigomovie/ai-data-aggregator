@@ -1,7 +1,7 @@
 # AI Data Aggregator — Setor Público & Notícias Governamentais
 > Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.
 
-- **Última atualização (UTC):** `2026-11-09T22:07:11Z`
+- **Última atualização (UTC):** `2026-11-10T00:28:14Z`
 - **Total de fontes processadas:** `4`
 - **Total de registros extraídos:** `90`
 - **Endpoint JSON Estruturado:** `/public/data/data.json`
@@ -137,85 +137,85 @@
 - **Origem:** https://www.camara.leg.br/noticias/rss/ultimas-noticias
 - **Status:** `success` (20 itens)
 
-### 1. [Cancelada votação de parecer sobre política nacional para pessoas com autismo](https://www.camara.leg.br/noticias/1296150-cancelada-votacao-de-parecer-sobre-politica-nacional-para-pessoas-com-autismo)
+### 1. [Projeto inclui dislexia na definição de educação especial da LDB](https://www.camara.leg.br/noticias/1312606-projeto-inclui-dislexia-na-definicao-de-educacao-especial-da-ldb)
+- **published_at:** Mon, 09 Nov 2026 22:56:00 GMT
+- **summary:** Kayo Magalhães / Câmara dos Deputados Deputado Emanuel Pinheiro Neto, autor da proposta O Projeto de Lei 3293/26 altera a Lei de Diretrizes e Bases da Educação Nacional (LDB) para incluir expressamente a dislexia no conceito de educação especial. A proposta é do deputado Emanuel Pinheiro Neto (PSD-MT) e está em análise na Câmara dos Deputados. Atualmente, a LDB define a educação especial como a modalidade de educação escolar oferecida preferencialmente na rede regular de ensino para alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação. O texto e...
+
+### 2. [Comissão analisa relatório sobre renegociação de dívidas de produtores rurais nesta terça-feira](https://www.camara.leg.br/noticias/1317452-comissao-analisa-relatorio-sobre-renegociacao-de-dividas-de-produtores-rurais-nesta-terca-feira)
+- **published_at:** Mon, 09 Nov 2026 22:07:00 GMT
+- **summary:** Divulgação/Emater Produtores rurais afetados por eventos climáticos são o foco da medida provisória A comissão mista sobre a Medida Provisória (MP) 1376/26 , que autoriza a criação de linhas de crédito para renegociação de dívidas de produtores rurais afetados por eventos climáticos adversos, analisa, nesta terça-feira (10), às 14 horas, o relatório do deputado Paulo Pimenta (PT-RS). A proposta prevê linhas de crédito para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural (CPR). Também autoriza a participação da União em um fundo garantidor para cobrir op...
+
+### 3. [Cancelada votação de parecer sobre política nacional para pessoas com autismo](https://www.camara.leg.br/noticias/1296150-cancelada-votacao-de-parecer-sobre-politica-nacional-para-pessoas-com-autismo)
 - **published_at:** Mon, 09 Nov 2026 20:40:00 GMT
 - **summary:** Depositphotos O quebra-cabeça colorido é o símbolo do autismo Foi cancelada a votação de parecer na comissão especial da Câmara dos Deputados que analisa a criação da política nacional dos direitos das pessoas com transtorno do espectro autista. Não foi definida nova data para a votação. A proposta O Projeto de Lei 3080/20 cria uma política nacional para garantir e ampliar os direitos das pessoas com autismo. De autoria do ex-deputado Alexandre Frota (SP), a proposta prevê ações nas áreas de saúde, educação, assistência social e inclusão, assegurando direitos como diagnóstico precoce, atend...
 
-### 2. [Comissão aprova diretrizes para atendimento integral a mulheres com endometriose no SUS](https://www.camara.leg.br/noticias/1317308-comissao-aprova-diretrizes-para-atendimento-integral-a-mulheres-com-endometriose-no-sus)
+### 4. [Comissão aprova diretrizes para atendimento integral a mulheres com endometriose no SUS](https://www.camara.leg.br/noticias/1317308-comissao-aprova-diretrizes-para-atendimento-integral-a-mulheres-com-endometriose-no-sus)
 - **published_at:** Mon, 09 Nov 2026 20:37:00 GMT
 - **summary:** Renato Araújo / Câmara dos Deputados Erika Hilton: nova política deve estar alinhada ao programa de saúde menstrual A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou proposta que estabelece diretrizes para a atenção integral à saúde de mulheres com endometriose no Sistema Único de Saúde (SUS). O texto também prevê ações nacionais de educação e conscientização sobre saúde menstrual. Endometriose é uma condição inflamatória crônica na qual as células do tecido que reveste o útero (endométrio) crescem fora dele, causando dores intensas e possível infertilidade. Por re...
 
-### 3. [Comissão aprova ampliação da política nacional para pacientes com diabetes tipo 1 no SUS](https://www.camara.leg.br/noticias/1317312-comissao-aprova-ampliacao-da-politica-nacional-para-pacientes-com-diabetes-tipo-1-no-sus)
+### 5. [Comissão aprova ampliação da política nacional para pacientes com diabetes tipo 1 no SUS](https://www.camara.leg.br/noticias/1317312-comissao-aprova-ampliacao-da-politica-nacional-para-pacientes-com-diabetes-tipo-1-no-sus)
 - **published_at:** Mon, 09 Nov 2026 20:19:00 GMT
 - **summary:** Vinicius Loures / Câmara dos Deputados Texto aprovado é o substitutivo do relator, Dr. Zacharias Calil A Comissão de Ciência, Tecnologia e Inovação da Câmara dos Deputados aprovou medidas para aprimorar o cuidado e o acompanhamento de pacientes com diabetes melito tipo 1 (DM1) no Sistema Único de Saúde (SUS). As novas exigências para tratamento dessa doença serão inseridas na lei que criou a Política Nacional de Prevenção do Diabetes e de Assistência Integral à Pessoa Diabética . O DM1 é uma doença autoimune onde o pâncreas para de produzir insulina, exigindo o uso diário e contínuo do horm...
 
-### 4. [Especialistas afirmam que Brasil avança para se tornar referência em educação digital e midiática](https://www.camara.leg.br/noticias/1317402-especialistas-afirmam-que-brasil-avanca-para-se-tornar-referencia-em-educacao-digital-e-midiatica)
+### 6. [Especialistas afirmam que Brasil avança para se tornar referência em educação digital e midiática](https://www.camara.leg.br/noticias/1317402-especialistas-afirmam-que-brasil-avanca-para-se-tornar-referencia-em-educacao-digital-e-midiatica)
 - **published_at:** Mon, 09 Nov 2026 19:49:00 GMT
 - **summary:** Bruno Spada / Câmara dos Deputados Conselho de Comunicação Social durante debate sobre educação digital Participantes de audiência pública do Conselho de Comunicação do Congresso, realizada nesta segunda-feira (9), ressaltaram que o Brasil está se torando um grande líder mundial em educação digital e midiática. O diretor do Departamento de Direitos na Rede e Educação Midiática da Secretaria de Comunicação Social da Presidência da República, David Almansa Bernardo, relatou que, a partir da lei que restringiu o uso do celular nas escolas no ano passado, o governo criou uma série de iniciativa...
 
-### 5. [Comissão discute falta de auditores-fiscais do trabalho nesta quarta-feira](https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira)
+### 7. [Comissão discute falta de auditores-fiscais do trabalho nesta quarta-feira](https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira)
 - **published_at:** Mon, 09 Nov 2026 19:16:00 GMT
 - **summary:** Marcelo Camargo/Agência Brasil Alice Portugal afirma que os auditores fiscais garantem que os direitos dos trabalhadores sejam respeitados A Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara dos Deputados realiza, nesta quarta-feira (11), às 16 horas, audiência pública para discutir o déficit no número de auditores-fiscais do trabalho no Brasil. O debate será realizado no plenário 9, por iniciativa da deputada Alice Portugal (PCdoB-BA). Veja quem foi convidado O objetivo é avaliar os impactos da redução do quadro de profissionais responsáveis pela fiscalização das condiçõe...
 
-### 6. [Comissão aprova regras de prevenção e resposta a emergências em escolas](https://www.camara.leg.br/noticias/1317310-comissao-aprova-regras-de-prevencao-e-resposta-a-emergencias-em-escolas)
+### 8. [Comissão aprova regras de prevenção e resposta a emergências em escolas](https://www.camara.leg.br/noticias/1317310-comissao-aprova-regras-de-prevencao-e-resposta-a-emergencias-em-escolas)
 - **published_at:** Mon, 09 Nov 2026 18:47:00 GMT
 - **summary:** Vinicius Loures / Câmara dos Deputados Nely Aquino sugeriu modelo mais proporcional ao risco ao qual cada unidade está exposta A Comissão de Educação da Câmara dos Deputados aprovou proposta que estabelece normas gerais de segurança preventiva e de resposta a emergências para escolas públicas e privadas de educação básica. O objetivo é proteger a comunidade escolar contra incêndios, desastres naturais, acidentes, emergências médicas e atos de violência. Por recomendação da relatora, deputada Nely Aquino (Pode-MG), os parlamentares aprovaram o substitutivo adotado pela Comissão de Integração...
 
-### 7. [Comissão aprova destinação de recursos da venda de bens militares ao Ministério da Defesa](https://www.camara.leg.br/noticias/1317252-comissao-aprova-destinacao-de-recursos-da-venda-de-bens-militares-ao-ministerio-da-defesa)
+### 9. [Comissão aprova destinação de recursos da venda de bens militares ao Ministério da Defesa](https://www.camara.leg.br/noticias/1317252-comissao-aprova-destinacao-de-recursos-da-venda-de-bens-militares-ao-ministerio-da-defesa)
 - **published_at:** Mon, 09 Nov 2026 18:00:00 GMT
 - **summary:** Kayo Magalhães / Câmara dos Deputados Pazuello destacou a necessidade de modernizar equipamentos e infraestrutura A Comissão de Relações Exteriores e de Defesa Nacional da Câmara dos Deputados aprovou proposta que destina ao Ministério da Defesa as receitas obtidas com a venda de bens móveis e imóveis das Forças Armadas. O texto aprovado é a versão do relator, deputado General Pazuello (PL-RJ), para o Projeto de Lei Complementar (PLP) 118/24 , do deputado Fernando Monteiro (PSD-PE). “A iniciativa não é apenas oportuna, mas necessária para a sobrevivência operacional do setor de defesa no Br...
 
-### 8. [Comissão aprova projeto que inclui trabalho doméstico e de cuidado na redução de pena](https://www.camara.leg.br/noticias/1317305-comissao-aprova-projeto-que-inclui-trabalho-domestico-e-de-cuidado-na-reducao-de-pena)
+### 10. [Comissão aprova projeto que inclui trabalho doméstico e de cuidado na redução de pena](https://www.camara.leg.br/noticias/1317305-comissao-aprova-projeto-que-inclui-trabalho-domestico-e-de-cuidado-na-reducao-de-pena)
 - **published_at:** Mon, 09 Nov 2026 17:44:00 GMT
 - **summary:** Vinicius Loures / Câmara dos Deputados Benedita: sistema carcerário brasileiro foi pensado majoritariamente para os homens A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou proposta que altera a Lei de Execução Penal ( Lei 7.210/84 ) para garantir que o trabalho doméstico e as tarefas de cuidado sejam contabilizados para a redução da pena. Pela lei atual, o condenado no regime fechado ou semiaberto pode reduzir um dia de sua pena a cada três dias de trabalho ou 12 horas de estudo. Os parlamentares aprovaram substitutivo da deputada Benedita da Silva (PT-RJ) ao Proj...
 
-### 9. [Comissão debate exploração sexual de crianças e adolescentes em rodovias e no turismo](https://www.camara.leg.br/noticias/1317272-comissao-debate-exploracao-sexual-de-criancas-e-adolescentes-em-rodovias-e-no-turismo)
+### 11. [Comissão debate exploração sexual de crianças e adolescentes em rodovias e no turismo](https://www.camara.leg.br/noticias/1317272-comissao-debate-exploracao-sexual-de-criancas-e-adolescentes-em-rodovias-e-no-turismo)
 - **published_at:** Mon, 09 Nov 2026 17:16:00 GMT
 - **summary:** GettyImages Combater a exploração sexual em rodovias exige articulação entre órgãos de segurança viária A comissão externa da Câmara dos Deputados sobre Prevenção e Enfrentamento da Violência Sexual Infantojuvenil realiza, nesta terça-feira (10), audiência pública para discutir o turismo sexual, a exploração sexual em rodovias federais e as cadeias de aliciamento de crianças e adolescentes. O debate está marcado para as 14 horas, no plenário 3. Veja quem foi convidado Articulação A audiência atende a pedido do coordenador do colegiado, deputado Fernando Rodolfo (PRD-PE). Segundo o parlament...
 
-### 10. [Comissão aprova programa para ampliar ações de atividade física no SUS](https://www.camara.leg.br/noticias/1317164-comissao-aprova-programa-para-ampliar-acoes-de-atividade-fisica-no-sus)
+### 12. [Comissão aprova programa para ampliar ações de atividade física no SUS](https://www.camara.leg.br/noticias/1317164-comissao-aprova-programa-para-ampliar-acoes-de-atividade-fisica-no-sus)
 - **published_at:** Mon, 09 Nov 2026 16:17:00 GMT
 - **summary:** Kayo Magalhães / Câmara dos Deputados Flávia Morais, relatora da proposta A Comissão de Saúde da Câmara dos Deputados aprovou projeto de lei que cria o Programa Atividade Física é Saúde no âmbito do Sistema Único de Saúde (SUS). O objetivo é promover a saúde, prevenir doenças e contribuir para a reabilitação funcional da população por meio da atuação de profissionais de educação física. O texto aprovado é a versão da relatora, deputada Flávia Morais (MDB-GO), para o Projeto de Lei 5756/25 , do deputado Dr. Daniel Soranz (PSD-RJ). A relatora manteve a essência do projeto original, mas retiro...
 
-### 11. [Comissão aprova criação de programa de incentivo à adoção de animal](https://www.camara.leg.br/noticias/1317189-comissao-aprova-criacao-de-programa-de-incentivo-a-adocao-de-animal)
+### 13. [Comissão aprova criação de programa de incentivo à adoção de animal](https://www.camara.leg.br/noticias/1317189-comissao-aprova-criacao-de-programa-de-incentivo-a-adocao-de-animal)
 - **published_at:** Mon, 09 Nov 2026 15:51:00 GMT
 - **summary:** Bruno Spada/Câmara dos Deputados Fred Costa recomendou a aprovação da proposta, com mudanças A Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara dos Deputados aprovou projeto de lei que cria o Programa Nacional de Incentivo à Adoção e Proteção Animal (PNI-Animal). A proposta estabelece um marco legal para financiar e executar ações voltadas ao bem-estar e à proteção de animais domésticos no país. A medida está prevista no Projeto de Lei 6082/25, do deputado Delegado Matheus Laiola (União-PR), aprovado na forma de uma nova redação ( substitutivo ) elaborada pelo relator, depu...
 
-### 12. [Comissão aprova projeto com diretrizes para atendimento a pessoas com gagueira no SUS](https://www.camara.leg.br/noticias/1317153-comissao-aprova-projeto-com-diretrizes-para-atendimento-a-pessoas-com-gagueira-no-sus)
+### 14. [Comissão aprova projeto com diretrizes para atendimento a pessoas com gagueira no SUS](https://www.camara.leg.br/noticias/1317153-comissao-aprova-projeto-com-diretrizes-para-atendimento-a-pessoas-com-gagueira-no-sus)
 - **published_at:** Mon, 09 Nov 2026 14:56:00 GMT
 - **summary:** Vinicius Loures / Câmara dos Deputados Geraldo Resende: a gagueira deve ser tratada como uma condição que demanda atenção adequada do poder público A Comissão de Saúde da Câmara dos Deputados aprovou um projeto de lei com diretrizes para a assistência a pessoas com gagueira no Sistema Único de Saúde (SUS). A proposta foi aprovada na forma do substitutivo apresentado pelo relator, deputado Geraldo Resende (União-MS), ao Projeto de Lei 4201/24 , que trata do assunto. Veja o texto aprovado A redação aprovada orienta a formulação de ações de saúde destinadas a essa população. Entre as medidas p...
 
-### 13. [Comissão aprova proposta para incluir informações sobre adenomiose na carteira de identidade](https://www.camara.leg.br/noticias/1317130-comissao-aprova-proposta-para-incluir-informacoes-sobre-adenomiose-na-carteira-de-identidade)
+### 15. [Comissão aprova proposta para incluir informações sobre adenomiose na carteira de identidade](https://www.camara.leg.br/noticias/1317130-comissao-aprova-proposta-para-incluir-informacoes-sobre-adenomiose-na-carteira-de-identidade)
 - **published_at:** Mon, 09 Nov 2026 14:23:00 GMT
 - **summary:** Bruno Spada / Câmara dos Deputados Maria Arraes recomendou a aprovação da proposta, com mudanças A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou um projeto de lei que permite o registro da adenomiose no documento de identificação oficial. Adenomiose é quando o tecido do endométrio cresce na parede muscular do útero, provocando dores pélvicas e forte sangramento menstrual. A inclusão dependerá de pedido da pessoa interessada e será preciso apresentar comprovante médico e consentimento expresso, em conformidade com a legislação de proteção de dados. O texto aprovad...
 
-### 14. [Comissão aprova programa para ampliar armazenagem agropecuária](https://www.camara.leg.br/noticias/1317119-comissao-aprova-programa-para-ampliar-armazenagem-agropecuaria)
+### 16. [Comissão aprova programa para ampliar armazenagem agropecuária](https://www.camara.leg.br/noticias/1317119-comissao-aprova-programa-para-ampliar-armazenagem-agropecuaria)
 - **published_at:** Mon, 09 Nov 2026 13:53:00 GMT
 - **summary:** Kayo Magalhães / Câmara dos deputados Dilceu Sperafico, relator da proposta A Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural da Câmara dos Deputados aprovou projeto de lei que cria o Programa Nacional de Armazenagem e Secagem da Produção Agropecuária (PNAS). O objetivo da proposta é ampliar a capacidade de estocagem e reduzir perdas pós-colheita. O texto aprovado é a versão do relator, deputado Dilceu Sperafico (PP-PR), para o Projeto de Lei 1621/26, do deputado Mauricio do Vôlei (PL-MG). O relator incluiu as empresas cerealistas entre os segmentos atendidos pelo p...
 
-### 15. [Comissão aprova incentivo à geração própria de energia para agricultores familiares](https://www.camara.leg.br/noticias/1317104-comissao-aprova-incentivo-a-geracao-propria-de-energia-para-agricultores-familiares)
+### 17. [Comissão aprova incentivo à geração própria de energia para agricultores familiares](https://www.camara.leg.br/noticias/1317104-comissao-aprova-incentivo-a-geracao-propria-de-energia-para-agricultores-familiares)
 - **published_at:** Mon, 09 Nov 2026 13:21:00 GMT
 - **summary:** Kayo Magalhães / Câmara dos Deputados Júnior Ferrari, relator da proposta A Comissão de Minas e Energia da Câmara dos Deputados aprovou projeto de lei que amplia o acesso de agricultores familiares e microempreendedores individuais à micro e minigeração distribuída de energia elétrica. O texto aprovado é a versão do relator, deputado Júnior Ferrari (PSD-PA), para o Projeto de Lei 1228/23 , do deputado João Daniel (PT-SE), e um apensado . O relator manteve os objetivos originais, mas ajustou a iniciativa à legislação atual. Veja o texto aprovado Entre as alterações aprovadas, a iniciativa pe...
 
-### 16. [Comissão aprova diretrizes para ampliar cirurgias bariátricas no SUS](https://www.camara.leg.br/noticias/1317110-comissao-aprova-diretrizes-para-ampliar-cirurgias-bariatricas-no-sus)
+### 18. [Comissão aprova diretrizes para ampliar cirurgias bariátricas no SUS](https://www.camara.leg.br/noticias/1317110-comissao-aprova-diretrizes-para-ampliar-cirurgias-bariatricas-no-sus)
 - **published_at:** Mon, 09 Nov 2026 13:01:00 GMT
 - **summary:** Kayo Magalhães / Câmara dos deputados Rogéria Santos é a relatora da proposta A Comissão de Saúde da Câmara dos Deputados aprovou um projeto de lei com diretrizes para ampliar a oferta de cirurgias bariátricas e metabólicas no Sistema Único de Saúde (SUS) e reduzir o tempo de espera dos pacientes. Pelo texto aprovado – um substitutivo ao PL 6626/25 –, os gestores do SUS poderão contratar serviços privados de forma complementar caso a disponibilidade da rede pública seja insuficiente. Veja o texto aprovado Todo o encaminhamento para as cirurgias será obrigatoriamente realizado pelos mecanism...
 
-### 17. [Comissão aprova ampliação da região de desenvolvimento do DF com a inclusão de 16 municípios goianos](https://www.camara.leg.br/noticias/1316833-comissao-aprova-ampliacao-da-regiao-de-desenvolvimento-do-df-com-a-inclusao-de-16-municipios-goianos)
+### 19. [Comissão aprova ampliação da região de desenvolvimento do DF com a inclusão de 16 municípios goianos](https://www.camara.leg.br/noticias/1316833-comissao-aprova-ampliacao-da-regiao-de-desenvolvimento-do-df-com-a-inclusao-de-16-municipios-goianos)
 - **published_at:** Mon, 09 Nov 2026 11:57:00 GMT
 - **summary:** Renato Araújo / Câmara dos Deputados Josenildo: medida fortalece a governança regional e favorece o planejamento integrado A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou projeto de lei que altera a composição da Região Integrada de Desenvolvimento do Distrito Federal e Entorno (Ride-DF). O texto aprovado incorpora à Ride mais 16 municípios do estado de Goiás, visando fortalecer a articulação regional e o desenvolvimento socioeconômico compartilhado. Por recomendação do relator, deputado Josenildo (PDT-AP), foi aprovado o substitutivo da Comissão de Desenvolvimento Urban...
 
-### 18. [Conselho de Comunicação debate educação midiática e letramento digital; participe](https://www.camara.leg.br/noticias/1316471-conselho-de-comunicacao-debate-educacao-midiatica-e-letramento-digital-participe)
+### 20. [Conselho de Comunicação debate educação midiática e letramento digital; participe](https://www.camara.leg.br/noticias/1316471-conselho-de-comunicacao-debate-educacao-midiatica-e-letramento-digital-participe)
 - **published_at:** Mon, 09 Nov 2026 11:40:00 GMT
 - **summary:** Bruno Spada / Câmara dos Deputados Patrícia Blanco destacou importância do tema para proteção de crianças e adolescentes O Conselho de Comunicação Social do Congresso Nacional promove audiência pública nesta segunda-feira (9), às 9h30, para debater educação midiática e letramento digital. A presidente do conselho, Patrícia Blanco, propôs a audiência para aproveitar a 4ª Semana Brasileira de Educação Midiática, que vai de 4 a 11 de novembro e é organizada pela Secretaria de Comunicação da Presidência da República e pelo Ministério da Educação. Na reunião que aprovou o requerimento, Patrícia...
-
-### 19. [Nova lei condiciona registro de médicos à aprovação em exame](https://www.camara.leg.br/noticias/1316981-nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame)
-- **published_at:** Fri, 06 Nov 2026 21:42:00 GMT
-- **summary:** Ricardo Stuckert/Presidência da República Sanção da lei que institui novas regras para o Enamed O presidente Luiz Inácio Lula da Silva sancionou nesta sexta-feira (6), no Palácio do Planalto, a lei que institui novas regras para o Exame Nacional de Avaliação da Formação Médica (Enamed). A legislação condiciona o registro profissional dos médicos à aprovação no exame e amplia a avaliação dos estudantes ao longo da graduação. A prova será aplicada no segundo, no quarto e no sexto ano do curso de Medicina. A nota final será calculada pela média dos três resultados, com peso maior para a avalia...
-
-### 20. [Comissão aprova proibição de posse em cargo público para condenados por crimes contra vulneráveis](https://www.camara.leg.br/noticias/1316835-comissao-aprova-proibicao-de-posse-em-cargo-publico-para-condenados-por-crimes-contra-vulneraveis)
-- **published_at:** Fri, 06 Nov 2026 20:40:00 GMT
-- **summary:** Kayo Magalhães / Câmara dos Deputados Merlong Solano, relator da proposta na comissão A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou proposta que proíbe pessoas condenadas por crimes contra grupos vulneráveis de assumirem cargos, empregos ou funções públicas, além de impedi-las de firmar contratos com a administração pública. A medida afeta condenados com decisão judicial definitiva por crimes de violência doméstica e familiar, racismo e discriminação, ou delitos praticados contra crianças, adolescentes, idosos e pessoas com deficiência. Os parlamentares aprovaram alter...
 
 ---
 
