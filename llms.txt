@@ -1,7 +1,7 @@
 # AI Data Aggregator — Setor Público & Notícias Governamentais
 > Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.
 
-- **Última atualização (UTC):** `2026-11-14T00:30:23Z`
+- **Última atualização (UTC):** `2026-11-15T00:28:06Z`
 - **Total de fontes processadas:** `4`
 - **Total de registros extraídos:** `90`
 - **Endpoint JSON Estruturado:** `/public/data/data.json`
@@ -251,7 +251,7 @@
 - **summary:** CAIXA Cultural São Paulo recebe o espetáculo “Egoísta” CAIXA Notícias
 
 ### 7. [CAIXA Loterias estende horários das apostas - CAIXA Notícias](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1JVa3R0ZUR5SXpHYU5SdkVpcHc3V3R1N1lRSVZnYjNCbDFtd1d2NXQyUUFMQmR1Ti1HV1BRNVZYMDlXc2lYN0hwQnRhdFNiY2xka0U1T2hja080WnRxSjJuSlhhdEltWl9JMHU2YUtnVlFVN2dqMGlWeXJXZ0t6bzBHTEpkV2xXMjd6R1h1OHQwLVpseGZHREZ4Z2FPYklzd1NWa25vSjZUODZJOGR1M1ZUUjItR05BbGtv?oc=5)
-- **published_at:** Wed, 28 Oct 2026 07:00:00 GMT
+- **published_at:** Tue, 03 Nov 2026 14:07:27 GMT
 - **summary:** CAIXA Loterias estende horários das apostas CAIXA Notícias
 
 ### 8. [Saque-Aniversário do FGTS: CAIXA inicia segunda etapa de liberação de valores - CAIXA Notícias](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSWFVTktCTUt3dEJrMmpGVnZRaGw3VmNyX1RyZEV0SGt6LWYzQXN5MkRLT1hGdFRhLUpONmMwWFF3S0phTWNUV2JRc2hwN2ZhLVR2QmtFT2VSVlZtU1Y3VGJCN2pTZk5XdGZ3VEx0ZkNaYW54bXJhUjJYdnR6eFlrYmpjMFhpemJwTDJGWVFLSnQ2VU1iZUc3Y29GZEdPRnN2VnM4ckE1NldUNGMxVjZiaVl6cEpQUmRHOFkzMTlkRDZKQkdUZFJwTkpFeUVrSks5cFVnN3hGelFGWDBvOFlaZkxZVlBqNDZWX3c?oc=5)
@@ -302,9 +302,9 @@
 - **published_at:** Wed, 13 May 2026 07:00:00 GMT
 - **summary:** Desenrola FIES: CAIXA inicia renegociação com condições especiais CAIXA Notícias
 
-### 20. [CAIXA Cultural São Paulo celebra nordeste com música e cordel - CAIXA Notícias](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3FpU3JFYUdhdUVaSHU2SWc2ZzY0UDJMVXh6TWhPOHJURHRwWmlIME9iRFdVRmpDRUZ1OXVmTGNabERzOFlYSi1DS3pWSURYY0ZIYmVoeVNoV3BXSlRPb2lNR25UUW1HLU8zZFBnSWppNVdNRExxTWRxWUdtWkVvQ1hLT1pOQXdoY1R4YUlCTW1kb3d6NHk5ZS1SR1JKbW9Qc29fTGNnQ0RDZ2VuU18yQ0Q2Mng0dzVYajBZSFRLMjZoVHJPUWlUWi1yVHlNb2s3WmJLOWtLMA?oc=5)
-- **published_at:** Fri, 25 Sep 2026 07:00:00 GMT
-- **summary:** CAIXA Cultural São Paulo celebra nordeste com música e cordel CAIXA Notícias
+### 20. [Oficinas gratuitas marcam início da programação da Unidade Pelourinho da CAIXA Cultural Salvador - CAIXA Notícias](https://news.google.com/rss/articles/CBMiggJBVV95cUxNWVJpV250Y294YlppTmx5SWx3TXd6akc4OXRDRVRtUG4xaFJsQmUxWTd5bDRCak15VXpUTDhmNHpjZkFwVGpFX0tiNExxaGtyb3UydVVUWWZ1VlowTUJvaUtGU0RKQXVsZl9Qb3d5NVJpWWRDTHJWWVp1SlhYcTdUUmV3RUVfZElXVTl4ejJGMDhSOWxXSGxieVNMZzhMR05WbXYwN1kyZlROTVhfaTNVcTBPMnZUbjlSMDFfMzN0aFJXeXUteHRjMm1RY2JFWVpSaTlndFlBMzFmYllHa05mMEpzdGZ6anpNejVLTEpDY1BQOWQwckI2Q2ZVVjBBVk5sRVE?oc=5)
+- **published_at:** Thu, 16 Jul 2026 07:00:00 GMT
+- **summary:** Oficinas gratuitas marcam início da programação da Unidade Pelourinho da CAIXA Cultural Salvador CAIXA Notícias
 
 ---
 
