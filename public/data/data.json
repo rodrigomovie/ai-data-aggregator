@@ -3,7 +3,7 @@
   "metadata": {
     "project_name": "AI Data Aggregator — Setor Público & Notícias Governamentais",
     "description": "Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.",
-    "generated_at_utc": "2026-11-20T00:35:47Z",
+    "generated_at_utc": "2026-11-21T00:38:12Z",
     "total_sources": 4,
     "successful_sources": 4,
     "total_items": 90
@@ -336,124 +336,124 @@
       "items_count": 20,
       "items": [
         {
-          "title": "CAIXA inaugura primeira Agência Singular em Santos (SP) - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPalZuQzFGdFB4OXJVdmF4S1FzX0swYzBYMThnOGtkclhEaXNzWGI1MThsMGdScWpxSThuZGpadnlKbjY0dE5rRzQyblJQWWF5WnBDWWl5U0t2b2hwY0N5TklyX2FhWUEwNjJuMWhxRHpObGhlVTNocGhqeHByYjVnUFh1RGdHYlpzM1M0cmthaHFtMGlQbjUxYmNwRUFCanJRcGFvcXRteEUwbVpnaWxtRHhsYVVzbEJwQ3FqRGVQM1NjT242cTEwd1hKUQ?oc=5",
-          "published_at": "Wed, 28 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA inaugura primeira Agência Singular em Santos (SP) CAIXA Notícias"
+          "title": "Caixa Loterias lança Quina Friday - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeWlITEFNYnNaSmt3OU41LWNTLWVaNldEQ2NEM2hNaGVGZnVGRzZVbXJhQ1lUR2ZjZy0teVpoajZJckhoME5saG8yU1FtdWc5bVFqLTZLZy1MWTlqRVZWbmpDdVpITUVFZFdYZDhTQTNOOXF2M3oybHVibGhLR1Q0dDExTDFEMTVVTDdFQU9RbFllVUVhc1JQd1hOM0dsUjBla1FXNFBQU21ocnp5bTVjOWdURGdjU3VDbXc?oc=5",
+          "published_at": "Wed, 18 Nov 2026 20:49:00 GMT",
+          "summary": "Caixa Loterias lança Quina Friday CAIXA Notícias"
         },
         {
-          "title": "CAIXA paga lote complementar do Abono Salarial nesta quinta-feira (15) - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdkZQdDU0bHF0ZjYzTE9rTnFjMGdPNUFna0dob0NENE1MWXgzb0c5cG9pTWstdkl0MDVSeFhTZDBPXzY0Y0U3S1M4N192OFNOUE5HcmNsUGlmdXhocnBOMmtDa2M2RktpQVlSZXRmMUl0dTNYakU1MGpJVWg2b2p2dDFFWTIyOExGRW5NMVZ6Q0pDZ1R1WUxhNE1rOUtZc3JCelFJSVFMcWwzNUlaR1R2TkItTWRDeU9hamExZ2xTQzFwUzZ4S1N2RGt5bGJ0MnVHdEMwU1RHaUFMbVd5UkdR?oc=5",
-          "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA paga lote complementar do Abono Salarial nesta quinta-feira (15) CAIXA Notícias"
-        },
-        {
-          "title": "CAIXA Cultural Rio de Janeiro celebra Mês da Consciência Negra com programação educativa especial - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObU1KNjlqSmxlUXFwVGlQa3psOXZ5M0FzRHdZdmJlMFRJOXF6UzdLRXNoTmY2NGh6MDJneXJYc1RGWFhyQ3hfNHBaZkYwRVh3R2lzeWdxTUNjcnkwQ21iQ19JYlpXMHJodmJQVW1SaHo1NVc2TkZ5WDNiVmgzQkRMelFyQTlPZXI3V2RsbWRubWZJWmc3c0FCb1d2c24wbkNiUmQxQTVkQ2J0UDlVZXBZaFZqTEZKWlhNZ1pKRm00UDRUX21sNk5OSlZtR21RcnN1bl9BUmlyY2wxZU8wbHRHT1FDcWp0TTJuTUMtNWhSMEpFV1RJbWlfa0JCR1FENG40Mzl1bF84V3B0QmtPbm5Qa0J5cm9KcElUeklNYmJpVnFLZw?oc=5",
-          "published_at": "Wed, 28 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA Cultural Rio de Janeiro celebra Mês da Consciência Negra com programação educativa especial CAIXA Notícias"
-        },
-        {
-          "title": "CAIXA participa de anúncio de fundo social que amplia em R$ 20 bilhões recursos do Minha Casa, Minha Vida - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPUmhSbjd0QU00THp0RTJTMEh3TUhHM2J0OWZkWGphRDBhWjQ2UHlWUDZ2ZHdBa0JrRVR2ZkxnT3Y3VVNZNkZ4WDZHMDZCQ1c3cmxnUHdpTzJFQ1d3V09nSm92X1BSa01ac0JjUnJFZVU5bk1feENqYkRIT2YzUXY2bERNc0N0cnROcjRkQ0dfUVlDYTJ6OFlQenY5eVJUd1EyVHA1ZE5reUpmOTljTlN1U08tRGJaXy1pc3R4LXpXLUhkMTdVWUViMXprWHpKemRuTTZpLTVWYVo0UTlQRlJYdEc4dWFucm1TSWppZG5zbk1HM1EyWnZxeHdaQklLSHFiRjVESzBQX3ExOTA4OTFMSWhzMnpjM1Z6a3JlTTQtQkU4VzRfMnozZ1BIMnBfQmU5cmJDLXlESzFjdw?oc=5",
-          "published_at": "Wed, 15 Apr 2026 07:00:00 GMT",
-          "summary": "CAIXA participa de anúncio de fundo social que amplia em R$ 20 bilhões recursos do Minha Casa, Minha Vida CAIXA Notícias"
-        },
-        {
-          "title": "Aberto cadastro para empreendedores do Maranhão prestarem serviços à CAIXA - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTi1qb1c4d2h6T0JMNElibllCYkxUVUtva2FRVzVlbnloN1lCaWVoMEs2OTMwdUZkVF9ZSVJ5R0R2WWl2eE9hQmxsdG5qMlNrWkhiRDVDVWZUQzhjMHRkbDJJajNBNElISk9IbWxpUWkwUXZnUlliemY0bHdJamtsOXRkd2kwUTVxRDV4TjRBdkJPVkt5R3JXS3JtbC1MVmRmZWNXRWpJa2hQNDVrTks4emp4YnZUTjhoV25SVVlEd0V5dlJldUpDamtoZG5PaXhaNUw3cDFuMzRjUU9TRXM0V2htNVhvN2s?oc=5",
-          "published_at": "Thu, 08 Oct 2026 07:00:00 GMT",
-          "summary": "Aberto cadastro para empreendedores do Maranhão prestarem serviços à CAIXA CAIXA Notícias"
-        },
-        {
-          "title": "CAIXA reconhece o município de Britânia (GO) com selo de gestão sustentável - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTVRTZHlLYWx3RmI1bWRBak5XYUo2V1F1TGpDYl9QVU1vT2dGRFp3Q045NkxXVlNfbW1pOHlNMU5LWTJrS1VlUGxrQks5SUtpSjJwQTRJczBpZnZicUo0bmtyTVVYV0Z6QmE2T0xZMmVSRUlmeUw2V2VzVFV4cVlfc2tqbnBVRG5iRmJGaFJ1UmFNNVlmdkxvNDJYci1tUGRmbU13RVJOY2xRbTRrdExlWWRuVWxrMU9ST0dYYVpzdkZZelAwT1JpX3hXVUJaWDlfY2ZyNFZmUjNKaGNKN09rTkZ4SzlRZTNsU2FjQ0tkNjZ0eVFzdVJCRU5rYXNyZDZjRHpBaA?oc=5",
-          "published_at": "Thu, 05 Nov 2026 08:00:00 GMT",
-          "summary": "CAIXA reconhece o município de Britânia (GO) com selo de gestão sustentável CAIXA Notícias"
-        },
-        {
-          "title": "CAIXA oferece condições em produtos e serviços para servidores públicos - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObHo3RUFlOHE5c1VrdEZnQjZZUFVHaVM4Z01iUlRKbGh5eml3QWZ2UlIzc054N01aZWNZQ3Y2QTBZZlV6eXZsQUl5NmZfVk1MbjBIano1dVpRVXVYZ2o5S0pUYzNMWGJNSWt5Ni1fRDZNdFBMaFdzLXhSYTlUNERKb3JwNmstempxV2JHbktGdFFfT2NzNlI5eVkybnR4c3J4RkR2MXg3aTctWTZBNDd0NHVZclk3TTM2REt0cmVDWHY1ZDBGTl9fbDhIWmlSRGhXVW94bmlCNVpOd1l5T3VjX3RubEJTaUF6a0E?oc=5",
-          "published_at": "Tue, 27 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA oferece condições em produtos e serviços para servidores públicos CAIXA Notícias"
+          "title": "CAIXA Cultural Fortaleza recebe o espetáculo A Invenção do Nordeste - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQejh5SGVfbE5qY2MxbGUxcnJzd1dpelNlY3VpVXZtc3hVeDB0Q21XVmRPenRLMGpoMmxpYmdlRGphS1plaGhEWmtwM3FhR3pWYVBYaGRjUzViMUtpUDM0V3V3alRYXzZwbk1Fd1hZb19Ra2lySEotdkhzU3kwOGRpUExHcGpfNElFczdyT1ZXdXdUbW1zdWs2aWotRkJqT2h2bGxxZXNhRUstLUlrcTkzVThIUmZHQW5QcnVxSU1ibGItVjlta1k4N3VDd3N4SXhWeWcyTEl5cENlMjk3UGt1RnRmY3cxdGtOYmRuTWs1Z1NiQms?oc=5",
+          "published_at": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Fortaleza recebe o espetáculo A Invenção do Nordeste CAIXA Notícias"
         },
         {
           "title": "CAIXA Cultural Curitiba apresenta o grupo Barbatuques - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkJwSmJaLVpFaF9fMnIxZS04bkY2UVVrM3ZPNFZNcWdYeHhhcGZQSzJGeWZaRXc0SFlNVVZnUFN6UEdKS191TTJtVmpRRklJeXh1eU9JZ0g5blVLRWxOMEhHN0RJb1hfWDRQeXcxbHp4cDRPdnBmVENJT1JMWFdHMUttVFc0UXhQQ1piWU5CWGhWZEVYeVdmMTN1VG9sMnhmdkFOT0V0VFgxUFhKeWFTbzlEREFZWEgya3FBbmVNUW9Za2dOWm9YV2FxdGc?oc=5",
-          "published_at": "Mon, 05 Oct 2026 07:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2FJUC1CUkxmUVlYUlVpTWV6ZWpVTlFZcXl3MWJTWXhPM3F2RWE4bE5aODlTX1YzajI2Ti1mT1NXOGtBUjZzMGdoSkxaWEgzNzZiVms0WFVUXzZCcElxWjVmVFFDMzh2N1dSU2ctaVFnY1MxcnY3X0RDODRfYVYyTVZjYTBsalBrYU9nWmdFMWFZRFF1cDNWaVNlR0ZueS1FalJ1QmNKQVpTc0l6V3BnVklnajR4eVVyLWhldWNQb3NkbzYyU3VMaF9fNA?oc=5",
+          "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
           "summary": "CAIXA Cultural Curitiba apresenta o grupo Barbatuques CAIXA Notícias"
         },
         {
-          "title": "CAIXA Cultural Brasília recebe César Camargo Mariano, Sandra de Sá e Metá Metá no Cerrado Jazz - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNb1B0OGlNSl9ETUtzVWF0WnBuZ2lxWEFLMzJEc2MtRUZxdVlaTGNaTFEwSV9KZ2lidTI1ei1qY3NEMGoxMzBTQjdKM1RIYUQ1SHZyZWVjakNyOWo1RmtzcDA3ZkZicVhMZGtuNXZYMjZObG9KVUQwZXZnbjVSMjNwWjFNTmlzM3lSZXp3eHlzZWhHNXRGenVCMjlpY3JHZFJwZF9XQXlyUDdsWVMzbjBhTnRlTHdKZUI3SFk4eWRWb3oxQ3JRRmFvejhrdThyVm9KcjFLNGNvMHZtaFVRQl9HUlBwbGtoTmg5U216ajN6eGtzb2kzWUIzcG01ZklOYmZ2b2dDOTNYVGt1c01kWXNyRHRPYlZwa2E5aXA2VkJiOFF1U2M?oc=5",
-          "published_at": "Fri, 09 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA Cultural Brasília recebe César Camargo Mariano, Sandra de Sá e Metá Metá no Cerrado Jazz CAIXA Notícias"
+          "title": "Como se organizar para comprar um imóvel em 2026 - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUDZMTnRMYVVGUmt6aDZDRjhWMkJkZjRzaGJWUmFIVG1xdEFDb2pEVGdCUFBGQ3BaTUtSRlU3YnJLdFFpTTNhUWctcE5mdW44eWR2dmltTE85M2lac0RldnZlVlFjQWxXTFVkM3FRUjhhcy0xbndCTnNtWmdzRC1uNU5namNfM1c4YlFSZVluVDNlOWF0REtNX0FENHBscFlnVGhfeXdUQzBoSU5EWW43Q3pIUl9RWEpEaFNIeU9vcUJyRWNFeGxKTFVVTjdLUQ?oc=5",
+          "published_at": "Tue, 03 Feb 2026 08:00:00 GMT",
+          "summary": "Como se organizar para comprar um imóvel em 2026 CAIXA Notícias"
         },
         {
-          "title": "CAIXA Cultural Salvador apresenta a exposição “O Reinado do Riso” - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTGgzSGxwUk5fMGp3Ykl6MjJaNGp6djN4aXR6VXc1UW5Obm5BbGNGVDRXUmh4aXhvOE1kRXlaeDVSQTdBS3d2eUZyM24xQVd2NWx4OXczSTllVGFnSlR2dms4T0Z5bFF6WFkwWTktTFZqcDdHNUtLWndjWmphMEk3T3dCN1ZObVJsXzNSTEtQa0NSb0I4OXl4eFBpQkljWkVhbVhHVFRQbEpha0k4QlNfWUloYjVLR2NKdnJRQURpLWxKT0pKNDFvT3RPUGN0VXpYbUVQczU3RlhGWVJ0bmt3OUN2R3RRUFk?oc=5",
-          "published_at": "Thu, 29 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA Cultural Salvador apresenta a exposição “O Reinado do Riso” CAIXA Notícias"
+          "title": "CAIXA Cultural São Paulo recebe o espetáculo “Egoísta” - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQk8wZkFLbHhiQWJ1NjFrV2s3UkVxTUhYRWlYNUVPb0kzc3BCR0VHTlA5bFZvcV80eG9ndm02V2V5SGRZREU0ZG5LYmxINEZXRmN1dTh4RkxIU1NITXdnSThMRVlKX0VNS25Ec3IxZGp5REJqYjMzSllrU1ZrYU93SWhGSkVtNy1FcGNaUTRjSmlDOXdTalNzaDZjNFhRYm9HTFVxMFZOUlFJZGFjVFJjR044ckxGSVQzLTYzMmYyTHhLWERJenQ3TUEzanM1QUk?oc=5",
+          "published_at": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural São Paulo recebe o espetáculo “Egoísta” CAIXA Notícias"
         },
         {
-          "title": "CAIXA Cultural Belém recebe “Bertoldo”, fábula musical inspirada em Bertolt Brecht - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcXM4ci1nNk5aRU5yaGh1ZTQycFQ0WjU3WHJwdzZ5UmpjOE1JdWQyY1d2QVhWMTZFRzlWUXY2TzBCYUhCRS1uOE43azR4QVlDM2U3dkVidS0ycW8teTBFay1ab3lVSVJndnJqV3NRcElNMHo3MldYcXpucFQ3U1Q1ZVIzeU5PaGYwWUpmUm9MTzBtWXpGTmpDSzhpM2VqUGNERUEwSmk5MVpmUHUzRmNxWFRJZmhheWpIb0VtV1FFbmVFekdOcFM3RHk3MjZSYWg1NHluaU1yZFpUR1owcFI5OHdIOTRyMDRTallGU1F3?oc=5",
-          "published_at": "Mon, 05 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA Cultural Belém recebe “Bertoldo”, fábula musical inspirada em Bertolt Brecht CAIXA Notícias"
+          "title": "CAIXA Loterias estende horários das apostas - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1JVa3R0ZUR5SXpHYU5SdkVpcHc3V3R1N1lRSVZnYjNCbDFtd1d2NXQyUUFMQmR1Ti1HV1BRNVZYMDlXc2lYN0hwQnRhdFNiY2xka0U1T2hja080WnRxSjJuSlhhdEltWl9JMHU2YUtnVlFVN2dqMGlWeXJXZ0t6bzBHTEpkV2xXMjd6R1h1OHQwLVpseGZHREZ4Z2FPYklzd1NWa25vSjZUODZJOGR1M1ZUUjItR05BbGtv?oc=5",
+          "published_at": "Tue, 03 Nov 2026 14:07:27 GMT",
+          "summary": "CAIXA Loterias estende horários das apostas CAIXA Notícias"
         },
         {
-          "title": "CAIXA presta atendimento na 23ª Feira Casa Pronta, em Criciúma (SC) - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVVYZ3NFSUhjTmdUYzFtV25PYTV2Y29aNWRuR0I5MFpqZFJuTm1EcjZVNk5tOTR3N2VqYlU4bUdPbmpvQmJVcFJyZlJwWktRaXBhX042X0p4NWdmTDN0SWFjMEduMTVkOFJxeG44ODE0MkpfZm1GQkNPbUgxV2drZ3BiV1loYXk4LTRDc3hfZ1dqd2hUbF9hamN0WTkxbFRyWUpxb0IyVDZSQ0J6dTVFbmkwRFYxZzVtaktDUkVyMzRaUWdxRk1QWlY0TXBHVHpucVlhNzU3Zk0?oc=5",
-          "published_at": "Wed, 14 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA presta atendimento na 23ª Feira Casa Pronta, em Criciúma (SC) CAIXA Notícias"
+          "title": "Saque-Aniversário do FGTS: CAIXA inicia segunda etapa de liberação de valores - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSWFVTktCTUt3dEJrMmpGVnZRaGw3VmNyX1RyZEV0SGt6LWYzQXN5MkRLT1hGdFRhLUpONmMwWFF3S0phTWNUV2JRc2hwN2ZhLVR2QmtFT2VSVlZtU1Y3VGJCN2pTZk5XdGZ3VEx0ZkNaYW54bXJhUjJYdnR6eFlrYmpjMFhpemJwTDJGWVFLSnQ2VU1iZUc3Y29GZEdPRnN2VnM4ckE1NldUNGMxVjZiaVl6cEpQUmRHOFkzMTlkRDZKQkdUZFJwTkpFeUVrSks5cFVnN3hGelFGWDBvOFlaZkxZVlBqNDZWX3c?oc=5",
+          "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
+          "summary": "Saque-Aniversário do FGTS: CAIXA inicia segunda etapa de liberação de valores CAIXA Notícias"
         },
         {
-          "title": "CAIXA disponibiliza Saque Calamidade para os moradores de União da Vitória (PR) - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc2Z1MHNmSU1EV3J6djluODF4WlFLcGpweWFGNFp1RGNwX216cmxrLXVzUWtWeTVRUmNKYlpub1JWcEs3b2xNMkRLTHdMTXhjZnZSbUdnZW43eXUtV0pxOW5lM285TDhwenVUMFFINGpJR2ZBQ2Y3bkVzVHZRSE0wSWdBNVRxc1VuVVNHd2Q4c1V5Mi1BUXRpRnR6ZzhMX2dtaW52TGF4MXVnSTVlVERBNUFINnlXdzBhMjhqUkhhaHI1clZhSU40UHE1MVBkbUpvWFFUOGJsOTBuMHJtVzlsazk0NV82Um1GSGxCNlpJNnJZcURrcWJsWDJOak0?oc=5",
-          "published_at": "Wed, 04 Nov 2026 08:00:00 GMT",
-          "summary": "CAIXA disponibiliza Saque Calamidade para os moradores de União da Vitória (PR) CAIXA Notícias"
+          "title": "CAIXA volta a permitir mais de um financiamento imobiliário pelo SBPE - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPajNhbFNVUnFfNmR0OFY2bFo3YXRsc3RZWlY0VGZsdWdvNFhjRnZpNks3SXdCTmh3RjNwMExWLXZTRkhnR3VkaThXZDhQb25qV2NrZ2ZtSGJSakVqbllsR2NVZ3Vka0t2azNzQmZDeTBCYWY4N19QNTA1QkdOa09EUldiVXV6cmppUkZJd3JIenFUcWNwRERKUHZTSUoyYUFHZjVSU2tmM0VMSGlpWm5TQndVRHlOempPamwyVlNmQ0lWOFJ0NlpXdGYzWGhaMVR1ZHprWHNXVEhzaEh4Q2ppOC1Uaw?oc=5",
+          "published_at": "Tue, 09 Dec 2025 08:00:00 GMT",
+          "summary": "CAIXA volta a permitir mais de um financiamento imobiliário pelo SBPE CAIXA Notícias"
         },
         {
-          "title": "CAIXA Cultural Belém apresenta Marco Nanini no espetáculo Fim de Partida - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcTh0ejdOTkRNSjNHOUVGWjdwekZOODJ0XzNhQ0tzRGpZa2paR1owaFhDakQzVFFFM196SHlmTG83aGQwOTVuSWE1c3pLUlhHMHp2YWVIMVhUSnMxQlFuWGM4N3lmb0lMYW5GTGotS25NMGU4N09CSjRmQlBrQnBobk0yYy1MY3pOWGtaVnVleVhOdVVOVlJrT0R0dmVnUmZQU05rUUR2Z2N4eFFZU1h1MjVzS09HeGtzdklJOVA0UnZCNnQ1VFduNzZNSXVqdVZBbnY1bGFoREZHSktpVEh0SjM4S0tIOFNJZkZNNEhudVc4dw?oc=5",
-          "published_at": "Fri, 30 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA Cultural Belém apresenta Marco Nanini no espetáculo Fim de Partida CAIXA Notícias"
+          "title": "Mega-Sena terá cinco sorteios na última semana de outubro - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0hSS1d0cDRSSVFUV0tCd1FrMFFCa3duRzdhTUxhZnAtR1k1UE9MWnQ1NjRJSHRXaGJhcHpiV2JMdFdFTENUZHhJRWM2ckd6TVhlSDRRVW5wZC15cVpHeEUtdURteUtyQUFQS0lLVGcwYnhOY1NrTnRhQ0Q2ZS1JUGlENmtSZXBUeU5US3MzQWJ5UTdxcEFNQ0p0ZmttOHc3aEY4WTZueXlOeFpqaEZaRzc4dzNyejc2R0FHRG9INngyMlc4bmhzVlE4LVFYejZ5aFE?oc=5",
+          "published_at": "Tue, 29 Sep 2026 07:00:00 GMT",
+          "summary": "Mega-Sena terá cinco sorteios na última semana de outubro CAIXA Notícias"
         },
         {
-          "title": "Caminhão CAIXA realiza atendimento durante a I Expo Negócios em São Luís de Montes Belos (GO) - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcjdmYVFNQXF6WFE4YXI2djdUNG9KMTZ2OVo3NTBiWEZwbU9NbXRWd0t2Ql85cm9BUllMOExFXzVYa1ZqOGIybFYxQVg3bVJLSVdmUEs0dnFsbU92OVg0U1E3eTdaNWVRVC1DNlk4dUVHbWJrMm9GVENzWlhxTDB5M05MNWowTEdoYmQ1cF9nSjZuZFI3TVNka3JpUFl2SF8yT19kSVcyWkJvNFpJT0lnM0NRNlRqOWJhSGk4ekR2OVA5V0tHcFVnSDF4aUpLazA1a1ItVGtB?oc=5",
-          "published_at": "Thu, 15 Oct 2026 07:00:00 GMT",
-          "summary": "Caminhão CAIXA realiza atendimento durante a I Expo Negócios em São Luís de Montes Belos (GO) CAIXA Notícias"
+          "title": "CAIXA Cultural São Paulo recebe edição 2026 do Festival Palco Brasil - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOWtPZXBXbm5UcVN6WjJSV25ocVpralI1NDBFd0pqcjNmVVdkSHo5ZG1CRWtDeGp4Z1pHYWUyTEtzck81TWlXNTJmS00xX015Wk5GMUU1aVdTUU9Sb1dnM3pkamFNdjd1UU9Vbll1aWREZDEyV2lRa1pRTXB4cTdXUE0tUV9iTlFQWVFaVG1nR081NUoycHZabGd6TnVHbHk4cTlma2lkRDhlcG9TVTdKbmo0NXM5VEtXN3IwdlctRHNTUjFBcjJxd3kzOXg2dXhsVllTWHc4YnYydmRkNXc?oc=5",
+          "published_at": "Fri, 14 Aug 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural São Paulo recebe edição 2026 do Festival Palco Brasil CAIXA Notícias"
         },
         {
-          "title": "CAIXA loterias antecipa sorteios no segundo turno das eleições 2026 - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSmdfMU1aTkNyV20yWUh4Z1V2QUVsNGw2aF9yOHFLV2lzbGVKdVkzY0R4YnI2MkdqRXAxR0VnZWpLNUZMbVN5YnJ1UmtSclNNajZZOE8yaFhNenBDeGRrdldzYy1TdzZOaEZUU294Y3V1RlhNXy1nRHc5bmNkM3h0Z3Z6Q2xQMGpMRnE4cTg3dnlwN2liMW1kaEJtTkotZWVfQWtZV21IR3hWT2JFTDlKWkVBaGpnWUVGV3VzdF94TXlWWFJZRGxiY3JPNGJRdTYyd2JCTVVOV0xseTVCQWc?oc=5",
-          "published_at": "Wed, 21 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA loterias antecipa sorteios no segundo turno das eleições 2026 CAIXA Notícias"
+          "title": "Exposição “Rembrandt – O Mestre da Luz e da Sombra” chega à CAIXA Cultural São Paulo - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNVWxZQWlIUHowNWtqUzdCcWNxZUdaQ3dfUmlaZW96Zkx0QWZqUTd6ZDJQRm5PRWNDWkFmZ3Y0XzF3ckM5aGQ2RE1Ed095UEcxNWRoT25mT01HU3JNcnJjb3NBLU1URUh4Vl9JUHFRaGdTTmNpcUxtMFBLcVhpZzJrS0FGYlgtaElxRnRiVzZQc1FqbFlRVjNzWmxGYzlheTVraFR6aHdEdjRBN3N3M0QyQTViTXdzZlV3NVh6YnVIWS13UUFFWlJDaVJ5UW5oV3RmRnlJTWdoYTduc1FWZUpiQ1pjRU10dHlDcDFFQm1ZQ3hmZlFCR1VWZUNMRjNxeE8tWFd5SnB1TXAxU1lFeGdXSHpoS2JSTUt5dFc5QkZUWUxQX0FHallueVZKWjU?oc=5",
+          "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "summary": "Exposição “Rembrandt – O Mestre da Luz e da Sombra” chega à CAIXA Cultural São Paulo CAIXA Notícias"
         },
         {
-          "title": "CAIXA Cultural Fortaleza divulga programação de novembro - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRDI0QWQ5S0lOc0FqV041YTlOZkJRUy1meF81bVUtNVhGaXVGaUt5eEhuMDk4b29fX3hkclp5cEsxamduYkh0cVhHd3BHbEZETWl6c21yZWdRY2NBNUE3ZlQ3YkRqU1JaUjhCNS1kZnNZUlBZVFpsYU5HMEZnV1E0N3NmWmVhdnJvT284UFpxLWJTVUpLMDRjSjdfLXQwRGtwLTYzZmgySFQtU25hT2xjRlcyRTF4YkdnQUxDblJWRGhkbk5ZM29XX29hZnRIaXlTRVNpelBCY19tM3JN?oc=5",
-          "published_at": "Wed, 28 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA Cultural Fortaleza divulga programação de novembro CAIXA Notícias"
+          "title": "CAIXA Cultural Brasília recebe a peça “Elogio da Loucura”, de Erasmo de Rotterdam - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS1hEN1hTbzBucVdod0J4a1lYdTVuZEhnMEkwVWQwY3dMRXBhM0tEU0M1MTBZd3VTWXNOQVZFekRCZG1fZjEyRUE5OGNTRnk0czVUYS1TUzR2d3lPUjF4ME83azY5aGZvZ29XcmsxWVpka3VwSDc1NHVQMUdOUGRvVzYxVldIVi03bWpfbUY4TlcybG5XaEdJb1U2clhUTHJoazlzNUFKbW9mTXJiSWUzXzJ2bmc0SmVQelJVUWdkd0ZGckp2X25uZUJobnNIMHpnNy1ZcllocVFTVTFrdWZJZlJrZnRkU3JsaDN3?oc=5",
+          "published_at": "Tue, 18 Aug 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Brasília recebe a peça “Elogio da Loucura”, de Erasmo de Rotterdam CAIXA Notícias"
         },
         {
-          "title": "CAIXA inaugura agência exclusiva para atendimento empresarial na Paraíba - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQXgtdmlFLWl6cnVRa3JYYkswS0hOc0NwLThJblg5eVV6OExqNXpjb0dqeDFBbTJtN2dQVENnX3NlT21STTFzNWtGSFVndWhGUm5kT183a3BvNEFhMDRyTVN2ejNJdndFb0h4RFpIRDZrOVJhOVpPWGEyemRGOG13cWdJUmVDRDBFdXNKR2xuYUFJSkljbERZX1p5WXR4dmotWHNmS3JvZ2owMTFKbEhYN1JaY25YTEtkZV9HMHpGdzYwLXhMb01tY1ktNGJwdXJwMzFnZFBudjJuU1V6NHJOM0pxZzY0MUdXNHAxT2RTcENrQQ?oc=5",
-          "published_at": "Mon, 05 Oct 2026 07:00:00 GMT",
-          "summary": "CAIXA inaugura agência exclusiva para atendimento empresarial na Paraíba CAIXA Notícias"
+          "title": "CAIXA inicia pagamento do Abono Salarial 2026 na próxima segunda-feira (16) - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd3NXblZpVmVzbnE1dFFhSHBDZ0JuVDhHcUFQREVRcmxla0NON0Q0UHRSZnR6U2xkeVdiT09Rclo1aHNsM0MxaFlUQlZHVVQ0UjJUQkJkOENvcm5PVjZWSDZ3MU5JSmRGaldIZi1Oa0JPNUxReVR6VnNtbFpYYWRyT3Q0dFZ4T0FObFlTWEZYU0EzN2NWUVZ2ZVRUM3JVWHlBNlo0WVhrV2J1eEJvQzhIR013MldOcjhUcE9EUUMxblBmbmlYWjJvMFlkeXloMFBKYjNOVjNXeUhhUzIzZmc2REVaTjhHczE5?oc=5",
+          "published_at": "Fri, 13 Feb 2026 08:00:00 GMT",
+          "summary": "CAIXA inicia pagamento do Abono Salarial 2026 na próxima segunda-feira (16) CAIXA Notícias"
         },
         {
-          "title": "Caminhão CAIXA chega a Santo Antônio de Jesus (BA) para regularização de dívidas - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjNYMFg4Z3NCRHZiMHZDazQ3V2c1Y1Zpak1FYVpTdlhzd3FwdDZ4SFdsZnA2UWlQR3Z4ZEVLVldjeVB4ZjBTV1gwU2ctZUJvYU5wS1gta0pSd05TdTNrUXhUN1hUTWw4TjBHczFNUVFIVzBUdXpEMDhxSzZ1UXllUzAzR2ZvYVRzS1JPS1BZNzhlVmY1Rk1iUkNMUFpWN0NiUDk4RVZ3UWo4LWxWdlJBZ2doMl9vR3NkRzRHSTFsRFdMZEFScmkxdXg5ZjZfaFVlV0FKbV8zY19RRXhkSHFXUUprbTdjSjd2elhKOE5BYjlVb1NOQjNmS2ZmM2tjRVZUZS03eHR4bHpTcnJpRVQ4cw?oc=5",
-          "published_at": "Wed, 07 Oct 2026 07:00:00 GMT",
-          "summary": "Caminhão CAIXA chega a Santo Antônio de Jesus (BA) para regularização de dívidas CAIXA Notícias"
+          "title": "Lotofácil da Independência 2026 inicia suas vendas - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkhPQ21jeFJPOHVrUDlpMC1ZejhJM3FKSGNTWGlJenFSeGNvSGtRcFB3WTJyR1Ztb2IxTjZBNlR5R285UFBISDUtZmJxbkRkV3pnTnUxcG1RY2kwNlZFUS1ieXhhUE52U1RpMHFjR3dEUkJTb2FYcTdSYVd0LWRnTGhCTld5UmNSeE40UlJ1LUZ2QnN3OVZvank0WGU0bXBnU3lsblVXWUk5N2Jtalh2Z0YyVDJBQWZyRHRRTEVkbWw0WHFS?oc=5",
+          "published_at": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "summary": "Lotofácil da Independência 2026 inicia suas vendas CAIXA Notícias"
         },
         {
-          "title": "Caixa disponibiliza Saque Calamidade para mais cinco cidades gaúchas - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPejdrek83UHo5d1duaUJZUEhwWnpLTEo0Tnlra0R1MzYxYVlEUUk3UjV2OTBSQm51Ym15eVdBamF6ZjdodGtLVXM3UFJiNTdSMjRCaGlvamlTNXlzZExzN2c2TExuMjhmUF9kY1FMdjNjcW1aSVpVbnFES0JKNTA0U2VjYmNOOHlpTHloaGdmTUN5bDk3VEF1VXRxX3lkWUdyMWszNFV4YXFqNklzTDZob2h1d0NiQkNlMFdnOUc3clplSUktM2RRekdsNzNUYXU4LWJOTnB3VWcycVN3eUczckRLa3pPY3c?oc=5",
-          "published_at": "Wed, 11 Nov 2026 21:47:00 GMT",
-          "summary": "Caixa disponibiliza Saque Calamidade para mais cinco cidades gaúchas CAIXA Notícias"
+          "title": "CAIXA Cultural Brasília apresenta monólogo de Othon Bastos - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOGpHdWtvaUVOM0Zmdmh4QzlJYWFEbDVuSGxiX0puanlBeEhvenlaYW1UdGMzUXNWaDVCZENYMVdfYW1NVm5QWDNtaDc0THlxaDNiTVE0Umo1M3IyVE5EdEk0UHhQWHBFVjd0ejl6RUtQblQyVzRpU3JDaGpOa3hwLTJrMkNJZFhhX1FUYTlwSHVGb2tpNVExbXc5SHFZUEMtNDNRd0ZaZXVWeEdKZTI1eE15NkRJTG9HMkpNTDVkdXA2MmQybTdGclVnLW1MaFVRaWJ0TjJEV0NtdDIwZnc?oc=5",
+          "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Brasília apresenta monólogo de Othon Bastos CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Cultural Salvador recebe “Grandes Pequeninos” para celebrar mês das crianças com “Cantabrincando” - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOclNVRHJpOUVMNXE3R1VpRUxMdlhhT1E3OHZZSGdOd09kaERzb2sxbEdkdzhkTm9XTmx1R0NhUU9URHhwNmt2ZHFNVkN5SDhQQXRwS1VQRnoyanRFbTZXVGRISmFOc1pBdk03Uy1lQ2Fhcmp3NXVsNEkzMGNlMXpMazdhb0N2MWRJZXpwdFM2X21nZ04wZkJlUjFBeEw1LUNVcUhLZlhNX0dmV2IzQVNWNFZEa1pXSTdqRFpQMmNXTFhNWC1Id3pOTm1WODg0d3pHMlUzZW16bnhPMnF3czZ3RGZEZzZZVVpBZUhMWG4tcHdVTlpJQmR1SXZoZWVMQzRXMHhGaDFUajI4dw?oc=5",
+          "published_at": "Tue, 29 Sep 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Salvador recebe “Grandes Pequeninos” para celebrar mês das crianças com “Cantabrincando” CAIXA Notícias"
+        },
+        {
+          "title": "Exposição na CAIXA Cultural Brasília celebra centenário do artista Antônio Poteiro - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZEI5UzNsWmtZclgtZmJLSExZR2ZwMkFrM1duY24yb0xlNTA5UjczNENZVlZKUUdOcVF5SjRsdUdheFEzaHRWREwtQ0pVeE1DRXVvaDVPV092UW9rYWdpUFdObW1KVjM2U25qRi1XMk11M0N5WVhjRGlVc2ZJaDZIdWNKRGw1bWtDSTZ6RjVfb2ZVcUVaVHJ2YTBxVGp4T0pjSnZLVGVqTzdhbFRNcFUxYTlfdzFSYTBNOWFMdVFBMnRtMERRdHVrYy04UFVKdlV6eDA5YThjNlpTMEJkbC1kTFo0OXpmelVsSUN4SE91UXBoU2xINW5r?oc=5",
+          "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+          "summary": "Exposição na CAIXA Cultural Brasília celebra centenário do artista Antônio Poteiro CAIXA Notícias"
+        },
+        {
+          "title": "CAIXA Cultural Brasília apresenta “Escola de Mulheres”, de Moliére - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUlNjU2tkY09obmtWQmFoajhjbWloUlVUTkw1RnpsdnlsR2NVUXhKTTlfQ1d2X1hlZW1KZFdGYWZ5Z29CYzkwR1FFWjBVbzhldFgwUjl5OE9yQkE0SjdZYXJSLWQyajVXUUMtQm92NUROYTJyT2EyMllLcGJLc1hpa3dSVVRUMGdnVzB1NGdHMjQyUDlYa1o3YlFmUDhPOUE2V0RhTWtGMXhGSzNTeGtYOEZPMTRZdTJMSGk1eUdRSDZocTREWHVRM2QzU0MtUjF1b1FxZ2V3?oc=5",
+          "published_at": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "summary": "CAIXA Cultural Brasília apresenta “Escola de Mulheres”, de Moliére CAIXA Notícias"
+        },
+        {
+          "title": "Desenrola FIES: CAIXA inicia renegociação com condições especiais - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQlkwUmtGQmhVLTZCYkRDTjZnbEhYdWhDSmtYS1VvWDRZUkt1UXNYbFkzNTVoZFNaU0s1SlRhUllGSVNidDFmRjRjX2kyVDJROUtXd1JkR2dNQTIzOEZuWXkwX3ZkcnZfcVM4dV91YXZ4c1BJU1dHWjlEOVZTV0hQWTk5Q2RmOXpnUEVHVnN6dmNmeFlScmVkMUhNNkNQV2JsSm12S3E0dlN2Y3lwVUlaQzlMR2V5aVFKMVNPQnlYNlI4VWhBSWtwdUhxbDZ6X3lIcGlwdTN3?oc=5",
+          "published_at": "Wed, 13 May 2026 07:00:00 GMT",
+          "summary": "Desenrola FIES: CAIXA inicia renegociação com condições especiais CAIXA Notícias"
+        },
+        {
+          "title": "Oficinas gratuitas marcam início da programação da Unidade Pelourinho da CAIXA Cultural Salvador - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWVJpV250Y294YlppTmx5SWx3TXd6akc4OXRDRVRtUG4xaFJsQmUxWTd5bDRCak15VXpUTDhmNHpjZkFwVGpFX0tiNExxaGtyb3UydVVUWWZ1VlowTUJvaUtGU0RKQXVsZl9Qb3d5NVJpWWRDTHJWWVp1SlhYcTdUUmV3RUVfZElXVTl4ejJGMDhSOWxXSGxieVNMZzhMR05WbXYwN1kyZlROTVhfaTNVcTBPMnZUbjlSMDFfMzN0aFJXeXUteHRjMm1RY2JFWVpSaTlndFlBMzFmYllHa05mMEpzdGZ6anpNejVLTEpDY1BQOWQwckI2Q2ZVVjBBVk5sRVE?oc=5",
+          "published_at": "Thu, 16 Jul 2026 07:00:00 GMT",
+          "summary": "Oficinas gratuitas marcam início da programação da Unidade Pelourinho da CAIXA Cultural Salvador CAIXA Notícias"
         }
       ],
       "note": "Coletado via endpoint/feed de fallback (https://news.google.com/rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419)"
