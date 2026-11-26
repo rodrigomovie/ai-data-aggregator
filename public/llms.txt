@@ -1,7 +1,7 @@
 # AI Data Aggregator — Setor Público & Notícias Governamentais
 > Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.
 
-- **Última atualização (UTC):** `2026-11-25T00:42:49Z`
+- **Última atualização (UTC):** `2026-11-26T00:42:58Z`
 - **Total de fontes processadas:** `4`
 - **Total de registros extraídos:** `90`
 - **Endpoint JSON Estruturado:** `/public/data/data.json`
@@ -137,85 +137,85 @@
 - **Origem:** https://www.camara.leg.br/noticias/rss/ultimas-noticias
 - **Status:** `success` (20 itens)
 
-### 1. [Comissão aprova recomendações de fiscalização dos crimes de Mariana e Brumadinho](https://www.camara.leg.br/noticias/1322628-comissao-aprova-recomendacoes-de-fiscalizacao-dos-crimes-de-mariana-e-brumadinho)
-- **published_at:** Tue, 24 Nov 2026 23:26:00 GMT
-- **summary:** Vinicius Loures / Câmara dos Deputados Deputados da Comissão Externa se reúnem nesta quarta com ministros do STJ para apresentar o relatório A Comissão Externa da Câmara dos Deputados sobre Fiscalização de Rompimentos de Barragens aprovou, nesta terça-feira (24), o relatório final que consolida quase quatro anos de acompanhamento dos crimes socioambientais de Mariana e Brumadinho, em Minas Gerais. O texto de 130 páginas do coordenador, deputado Rogério Correia (PT-MG), traz uma série de recomendações divididas em oito eixos temáticos, entre eles prevenção de desastres, participação social n...
+### 1. [Brasil tem déficit de 110 mil cisternas e de mais de 1,3 milhão de banheiros, diz Funasa](https://www.camara.leg.br/noticias/1323123-brasil-tem-deficit-de-110-mil-cisternas-e-de-mais-de-13-milhao-de-banheiros-diz-funasa)
+- **published_at:** Wed, 25 Nov 2026 23:14:00 GMT
+- **summary:** Renato Araújo / Câmara dos Deputados Lenildo de Morais (E) garantiu que a Funasa vai trabalhar com agilidade Em audiência pública nesta quarta-feira (25), o presidente da Fundação Nacional de Saúde (Funasa) informou à Comissão de Saúde da Câmara que faltam no Brasil 110 mil cisternas e mais de 1,3 milhão de banheiros residenciais. Para reduzir o déficit, o presidente da fundação, Lenildo Dias de Morais, aposta em tecnologias desenvolvidas pela Funasa, por empresas e por organizações da sociedade civil. Uma delas é o sistema Salta Z, criado pela fundação, que pode abastecer comunidades de at...
 
-### 2. [Deputados retomam nesta quarta-feira votação de projetos em defesa da população negra](https://www.camara.leg.br/noticias/1322627-deputados-retomam-nesta-quarta-feira-votacao-de-projetos-em-defesa-da-populacao-negra)
-- **published_at:** Tue, 24 Nov 2026 23:10:00 GMT
-- **summary:** Thiago Cristino / Câmara dos Deputados A coordenadora da Bancada Negra, deputada Benedita da Silva, presidiu a sessão desta terça-feira (24) A coordenadora da Bancada Negra, deputada Benedita da Silva (PT-RJ), comemorou a aprovação, nesta terça-feira (24), das três propostas consideradas prioritárias pelo colegiado. A deputada convocou nova sessão para esta quarta-feira (25) para votar os demais projetos da pauta em defesa da população negra. Veja a pauta completa De acordo com a deputada, a inclusão dos projetos na pauta faz parte de um compromisso assumido no Colégio de Líderes em razão d...
+### 2. [Criação da Comissão Nacional Indígena da Verdade recebe apoio unânime em audiência na Câmara](https://www.camara.leg.br/noticias/1323062-criacao-da-comissao-nacional-indigena-da-verdade-recebe-apoio-unanime-em-audiencia-na-camara)
+- **published_at:** Wed, 25 Nov 2026 22:42:00 GMT
+- **summary:** Vinicius Loures / Câmara dos Deputados Audiência discutiu como aprofundar apurações da Comissão Nacional da Verdade A criação da Comissão Nacional Indígena da Verdade (CNIV) recebeu apoio unânime de parlamentares, juristas e representantes do governo, de universidades e de organizações sociais reunidos em audiência da Comissão da Amazônia e dos Povos Originários da Câmara dos Deputados nesta terça-feira (24). A intenção é aprofundar as apurações da Comissão Nacional da Verdade (CNV), que, em 2014, identificou 8.350 indígenas mortos durante a ditadura militar e recomendou investigações espec...
 
-### 3. [Comissão aprova projeto que autoriza parlamentares a exercer advocacia com restrições](https://www.camara.leg.br/noticias/1322507-comissao-aprova-projeto-que-autoriza-parlamentares-a-exercer-advocacia-com-restricoes)
-- **published_at:** Tue, 24 Nov 2026 22:27:00 GMT
-- **summary:** Vinicius Loures / Câmara dos Deputados Hildo Rocha, relator na comissão A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta terça-feira (24), por 32 votos a 7, o Projeto de Lei 344/26 , que autoriza membros do Poder Legislativo a exercer a advocacia, desde que não atuem contra o ente federativo que os remunera. O relator, deputado Hildo Rocha (MDB-MA), apresentou parecer favorável à proposta do deputado Baleia Rossi (MDB-SP). “A proposição concentra a restrição na hipótese em que efetivamente se verifica potencial conflito de interesses, qual sej...
+### 3. [Especialistas divergem sobre proposta de redução da maioridade penal durante debate na Câmara](https://www.camara.leg.br/noticias/1323059-especialistas-divergem-sobre-proposta-de-reducao-da-maioridade-penal-durante-debate-na-camara)
+- **published_at:** Wed, 25 Nov 2026 22:37:00 GMT
+- **summary:** Vinicius Loures / Câmara dos Deputados Cardoso (D): Brasil tem 727 mil presos adultos e um déficit de 222.034 vagas no sistema carcerário Especialistas divergiram sobre a proposta de reduzir a maioridade penal, em debate na Câmara dos Deputados (PEC 32/15). O ex-ministro da Justiça José Eduardo Cardoso e o conselheiro de Direitos Humanos Renato Roseno afirmaram que a proposta não reduz a violência e é inviável. Já o ex-capitão do Bope do Rio de Janeiro Rodrigo Pimentel sustentou que a medida representa uma resposta aos anseios da sociedade por justiça. José Eduardo Cardoso afirmou que, no B...
 
-### 4. [Comissões debatem futuro do esporte na era da inteligência artificial](https://www.camara.leg.br/noticias/1322597-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial)
-- **published_at:** Tue, 24 Nov 2026 22:24:00 GMT
-- **summary:** Depositphotos Atletas de alto rendimento podem se beneficiar da inteligência artificial para melhorar a performance As comissões de Ciência, Tecnologia e Inovação e do Esporte da Câmara dos Deputados dão continuidade, nesta quarta-feira (25), ao 4º Fórum Legislativo do Esporte, com três atividades ao longo do dia. A programação inclui debates sobre o futuro do esporte e os impactos da inteligência artificial no setor. O segundo dia do fórum começa às 9h30, no Plenário 13. Às 14h, no Plenário 4, haverá uma mesa-redonda sobre o tema “O Esporte na Era da Inteligência Artificial: desafios e opo...
+### 4. [Câmara aprova marco regulatório da educação em tempo integral](https://www.camara.leg.br/noticias/1322878-camara-aprova-marco-regulatorio-da-educacao-em-tempo-integral)
+- **published_at:** Wed, 25 Nov 2026 22:11:00 GMT
+- **summary:** Thiago Cristino / Câmara dos Deputados João Daniel: "É fundamental, no mínimo, sete horas por dia de escola" A Câmara dos Deputados aprovou projeto de lei que institui um marco regulatório para a educação em tempo integral. O texto define parâmetros mínimos para a modalidade e estabelece as obrigações dos entes federativos conforme a Constituição. A matéria será enviada ao Senado. De autoria do deputado João Daniel (PT-SE), o Projeto de Lei 479/15 foi aprovado na forma do substitutivo do relator, deputado Thiago de Joaldo (Republicanos-SE). O texto adota a expressão “educação integral em te...
 
-### 5. [Cancelada audiência sobre violência sexual facilitada por tecnologia](https://www.camara.leg.br/noticias/1321180-cancelada-audiencia-sobre-violencia-sexual-facilitada-por-tecnologia)
-- **published_at:** Tue, 24 Nov 2026 22:23:00 GMT
-- **summary:** GettyImages Estudo mostra que tecnologia facilita violência sexual Foi cancelado o debate que a Comissão Externa de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil promoveria para discutir a violência sexual facilitada pela tecnologia e a produção de material de abuso sexual infantil por inteligência artificial (IA). O debate foi proposto pelo deputado Fernando Rodolfo (PRD-PE). O parlamentar destaca dados do relatório Disrupting Harm in Brazil , elaborado pelo Fundo das Nações Unidas para a Infância (Unicef), em parceria com a ECPAT e a Interpol. Segundo o estudo, uma em cada...
+### 5. [Câmara aprova projeto que proíbe acordo de não persecução penal em crimes de racismo](https://www.camara.leg.br/noticias/1323068-camara-aprova-projeto-que-proibe-acordo-de-nao-persecucao-penal-em-crimes-de-racismo)
+- **published_at:** Wed, 25 Nov 2026 21:50:00 GMT
+- **summary:** Thiago Cristino / Câmara dos Deputados Benedita da Silva: "Vamos prestar mais atenção nos projetos da população negra" A Câmara dos Deputados aprovou projeto de lei que incorpora ao Código de Processo Penal (CPP) o entendimento de tribunais superiores de que não cabem acordos de não persecução penal em crimes de racismo. A matéria será enviada ao Senado. De autoria da deputada Benedita da Silva (PT-RJ), o Projeto de Lei 2559/22 foi aprovado na forma de substitutivo da deputada Dandara (PT-MG). Segundo o substitutivo, o crime de racismo, tipificado na Lei 7.716/89, consiste em injuriar algué...
 
-### 6. [Especialistas defendem aumento do número de mulheres em cargos de direção do sistema de previdência](https://www.camara.leg.br/noticias/1322513-especialistas-defendem-aumento-do-numero-de-mulheres-em-cargos-de-direcao-do-sistema-de-previdencia)
-- **published_at:** Tue, 24 Nov 2026 21:59:00 GMT
-- **summary:** Renato Araújo / Câmara dos Deputados Kokay: "É necessário assegurar condições para as mulheres participarem dos processos decisórios que podem afetar suas vidas" As mulheres são maioria entre os beneficiários dos sistemas de previdência, mas ainda são minoria nos cargos de liderança das entidades do setor. O tema foi discutido em audiência pública na Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara dos Deputados. Os representantes das entidades convidadas concordaram que é preciso ampliar a participação das mulheres nas instâncias de decisão da previdência complementar, p...
+### 6. [Câmara aprova protocolo contra discriminação racial nas escolas](https://www.camara.leg.br/noticias/1323029-camara-aprova-protocolo-contra-discriminacao-racial-nas-escolas)
+- **published_at:** Wed, 25 Nov 2026 21:44:00 GMT
+- **summary:** Thiago Cristino / Câmara dos Deputados Benedita: São asseguradas à vítima atendimento psicológico e proteção A Câmara dos Deputados aprovou projeto de lei que cria um protocolo de acolhimento de vítimas e de resposta a atos de racismo em escolas públicas e privadas. A matéria será enviada ao Senado. De autoria da deputada Carol Dartora (PT-PR), o Projeto de Lei 4887/23 foi aprovado com um substitutivo da deputada Benedita da Silva (PT-RJ), segundo o qual um profissional designado pela direção da escola será responsável por aplicar o protocolo, que prevê ações tais como o recebimento ou cons...
 
-### 7. [Lei do ajuste fiscal é sancionada sem vetos e já está em vigor](https://www.camara.leg.br/noticias/1322586-lei-do-ajuste-fiscal-e-sancionada-sem-vetos-e-ja-esta-em-vigor)
-- **published_at:** Tue, 24 Nov 2026 21:58:00 GMT
-- **summary:** Vinicius Loures / Câmara dos Deputados Votação do projeto do ajuste fiscal no Plenário da Câmara O Projeto de Lei Complementar (PLP) 299/26, aprovado na madrugada desta terça-feira (24) pela Câmara, foi sancionado sem vetos pelo presidente Luiz Inácio Lula da Silva e publicado em edição extra do Diário Oficial da União. A Lei Complementar 239/26 muda as regras fiscais para permitir ao Poder Executivo limitar a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027. A meta de 2027 é de um superávit (sobra de dinheiro) de R$ 18,7 bilhões após deduções da ordem...
+### 7. [Câmara aprova alerta automático para mulher monitorar aproximação de agressor](https://www.camara.leg.br/noticias/1322986-camara-aprova-alerta-automatico-para-mulher-monitorar-aproximacao-de-agressor)
+- **published_at:** Wed, 25 Nov 2026 20:35:00 GMT
+- **summary:** Thiago Cristino / Câmara dos Deputados Iza Arruda, relatora: "Projeto fortalece os mecanismos de proteção à vida" A Câmara dos Deputados aprovou projeto de lei que aperfeiçoa o monitoramento eletrônico de agressores de mulheres em casos de violência doméstica ou familiar. O texto exige o envio de um alerta automático à vítima se o agressor se aproximar e prevê a compilação de dados do monitoramento. A matéria será enviada ao Senado. De autoria do deputado Yury Bruno (MDB-CE), o Projeto de Lei 5542/26 foi aprovado na versão da relatora, deputada Iza Arruda (MDB-PE), que retirou a previsão de...
 
-### 8. [Câmara aprova pensão especial para parentes das vítimas da chacina de Acari](https://www.camara.leg.br/noticias/1322494-camara-aprova-pensao-especial-para-parentes-das-vitimas-da-chacina-de-acari)
-- **published_at:** Tue, 24 Nov 2026 21:16:00 GMT
-- **summary:** Vinicius Loures / Câmara dos Deputados Orlando Silva, relator A Câmara dos Deputados aprovou projeto de lei que concede pensão especial de um salário mínimo a parentes das onze vítimas da chamada chacina de Acari, no município de Magé (RJ). A matéria será enviada ao Senado. De autoria da deputada Talíria Petrone (Psol-RJ), o Projeto de Lei 1969/22 foi aprovado na forma de um substitutivo da Comissão de Direitos Humanos, Minorias e Igualdade Racial, de autoria do deputado Reimont (PT-RJ). O texto foi relatado em plenário também pelo deputado Orlando Silva (PCdoB-SP), pelas comissões de Const...
+### 8. [Comissão aprova projeto que proíbe a reutilização de embalagens de tintas imobiliárias](https://www.camara.leg.br/noticias/1322939-comissao-aprova-projeto-que-proibe-a-reutilizacao-de-embalagens-de-tintas-imobiliarias)
+- **published_at:** Wed, 25 Nov 2026 20:11:00 GMT
+- **summary:** Kayo Magalhães / Câmara dos Deputados Sâmia Bomfim, sobre a proposta: "Proteção da saúde, de defesa do consumidor e de proteção ao meio ambiente" A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta quarta-feira (25), proposta que proíbe a reutilização de embalagens plásticas ou metálicas de tintas imobiliárias e produtos similares e determina que sejam encaminhadas a sistemas de logística reversa. A relatora, deputada Sâmia Bomfim (Psol-SP), apresentou parecer favorável ao substitutivo da Comissão de Defesa do Consumidor ao Projeto de Lei 5124/23...
 
-### 9. [Câmara aprova medidas para garantir igualdade à população negra em emergências de saúde](https://www.camara.leg.br/noticias/1322489-camara-aprova-medidas-para-garantir-igualdade-a-populacao-negra-em-emergencias-de-saude)
-- **published_at:** Tue, 24 Nov 2026 20:27:00 GMT
-- **summary:** Vinicius Loures / Câmara dos Deputados Carol Dartora, relatora: a pandemia de Covid-19 evidenciou o racismo estrutural e as desigualdades étnico-raciais A Câmara dos Deputados aprovou projeto de lei que estabelece medidas para assegurar a equidade na atenção integral à saúde da população negra em todo o território nacional durante epidemias, pandemias, surtos de doenças contagiosas ou em caso de decretação de estado de calamidade pública com repercussão na saúde. De autoria das deputadas Benedita da Silva (PT-RJ) e Talíria Petrone (Psol-RJ), o Projeto de Lei 2819/20 será enviado ao Senado....
+### 9. [Comissão aprova proposta que inclui Síndrome do Intestino Curto em rol de doenças graves e raras](https://www.camara.leg.br/noticias/1322928-comissao-aprova-proposta-que-inclui-sindrome-do-intestino-curto-em-rol-de-doencas-graves-e-raras)
+- **published_at:** Wed, 25 Nov 2026 19:58:00 GMT
+- **summary:** Kayo Magalhães / Câmara dos Deputados Diego Garcia, relator da proposta na CCJ A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta quarta-feira (25), proposta que inclui a síndrome do intestino curto com falência intestinal no rol de doenças graves e raras do Sistema Único de Saúde (SUS). O relator, deputado Diego Garcia (União-PR), apresentou parecer favorável ao substitutivo da Comissão de Saúde para o Projeto de Lei 2900/22, do deputado Dr. Zacharias Calil (MDB-GO). Garcia também foi favorável à emenda da Comissão de Finanças e Tributação que...
 
-### 10. [Câmara aprova inclusão de dados sobre raça ou cor nos prontuários do SUS](https://www.camara.leg.br/noticias/1322481-camara-aprova-inclusao-de-dados-sobre-raca-ou-cor-nos-prontuarios-do-sus)
-- **published_at:** Tue, 24 Nov 2026 20:04:00 GMT
-- **summary:** Thiago Cristino / Câmara dos Deputados Benedita da Silva, autora da proposta, preside a sessão A Câmara dos Deputados aprovou projeto de lei que determina a inclusão de dados sobre raça ou cor nos prontuários do Sistema Único de Saúde (SUS). A matéria será enviada ao Senado. De autoria da deputada Benedita da Silva (PT-RJ), o Projeto de Lei 7103/14 foi aprovado na forma de um substitutivo da Comissão de Seguridade Social e Família, da deputada Erika Kokay (PT-DF). Segundo o texto, o quesito cor, raça ou etnia será incluído nos prontuários, registros e cadastramentos individuais do sistema d...
+### 10. [Câmara analisa projeto sobre contenção remota de agressores de mulheres; acompanhe](https://www.camara.leg.br/noticias/1322539-camara-analisa-projeto-sobre-contencao-remota-de-agressores-de-mulheres-acompanhe)
+- **published_at:** Wed, 25 Nov 2026 19:49:00 GMT
+- **summary:** Thiago Cristino / Câmara dos Deputados Sessão deliberativa do Plenário A Câmara dos Deputados iniciou a Ordem do Dia e analisa agora o Projeto de Lei 5542/26 , do deputado Yury Bruno (MDB-CE), que permite o uso de tecnologias em tornozeleiras eletrônicas destinadas a conter fisicamente agressores de mulheres em caso de aproximação da vítima de violência doméstica ou familiar. Assista à sessão ao vivo Mais informações a seguir
 
-### 11. [Comissão aprova projeto que permite abertura de igrejas em períodos de calamidade pública](https://www.camara.leg.br/noticias/1322460-comissao-aprova-projeto-que-permite-abertura-de-igrejas-em-periodos-de-calamidade-publica)
-- **published_at:** Tue, 24 Nov 2026 19:54:00 GMT
-- **summary:** Vinicius Loures / Câmara dos Deputados Bia Kicis lembrou o período da pandemia de Covid-19: "Pessoas carentes ansiando por uma palavra amiga" A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta terça-feira (24), proposta que reconhece como essenciais, nos períodos de calamidade pública, as atividades religiosas realizadas em igrejas, santuários, comunidades missionárias, centros religiosos e templos de qualquer natureza. A proposta proíbe o fechamento desses locais. A relatora na CCJ, deputada Bia Kicis (PL-DF), apresentou parecer pela aprovação...
+### 11. [Comissão aprova ampliação de recursos de acessibilidade no âmbito da Justiça](https://www.camara.leg.br/noticias/1322910-comissao-aprova-ampliacao-de-recursos-de-acessibilidade-no-ambito-da-justica)
+- **published_at:** Wed, 25 Nov 2026 19:37:00 GMT
+- **summary:** Kayo Magalhães / Câmara dos Deputados Deputado Diego Garcia, relator da proposta A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta quarta-feira (25), o Projeto de Lei 3277/21 , do Senado, que amplia os recursos de acessibilidade no âmbito da Justiça. O texto prevê uma série de medidas, que são incluídas no Estatuto da Pessoa com Deficiência , no Código Civil e na Lei dos Juizados Especiais . O relator, deputado Diego Garcia (União-PR), apresentou parecer favorável ao projeto e à emenda da Comissão de Defesa dos Direitos das Pessoas com Deficiên...
 
-### 12. [Adiada votação de parecer da comissão especial sobre política nacional para pessoas com autismo](https://www.camara.leg.br/noticias/1321696-adiada-votacao-de-parecer-da-comissao-especial-sobre-politica-nacional-para-pessoas-com-autismo)
-- **published_at:** Tue, 24 Nov 2026 19:20:00 GMT
-- **summary:** GettyImages Mais de 2 milhões de pessoas têm autismo no Brasil A comissão especial da Câmara dos Deputados que analisa a criação da política nacional dos direitos das pessoas com transtorno do espectro autista (TEA) adiou para o dia 8 de dezembro a votação do parecer do relator, deputado Marangoni (Pode-SP). Por falta de quórum, o relatório não chegou a ser analisado. A reunião está marcada para as 14 horas, no plenário 9. A proposta O Projeto de Lei 3080/20 cria uma política nacional para garantir e ampliar os direitos das pessoas com autismo. De autoria do ex-deputado Alexandre Frota (SP)...
+### 12. [Comissão aprova diretrizes de segurança alimentar climática para povos tradicionais da Amazônia](https://www.camara.leg.br/noticias/1322848-comissao-aprova-diretrizes-de-seguranca-alimentar-climatica-para-povos-tradicionais-da-amazonia)
+- **published_at:** Wed, 25 Nov 2026 18:52:00 GMT
+- **summary:** Renato Araújo/Câmara dos Deputados Alexandre Lindenmeyer: direito à alimentação adequada e proteção dos recursos hídricos A Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara dos Deputados aprovou projeto de lei que define diretrizes de segurança alimentar e nutricional climática para povos e comunidades tradicionais da Amazônia Legal. O texto aprovado é a versão do relator, deputado Alexandre Lindenmeyer (PT-RS), para o Projeto de Lei 623/26 , da deputada Ana Paula Lima (PT-SC). O relator ampliou os mecanismos de proteção previstos na proposta original. “A iniciativa bus...
 
-### 13. [Especialistas pedem mais recursos de emendas parlamentares coletivas para mulheres e igualdade racial](https://www.camara.leg.br/noticias/1322458-especialistas-pedem-mais-recursos-de-emendas-parlamentares-coletivas-para-mulheres-e-igualdade-racial)
-- **published_at:** Tue, 24 Nov 2026 19:12:00 GMT
-- **summary:** Vinicius Loures / Câmara dos Deputados Jack Rocha: "Propomos que cada bancada estadual apresente pelo menos uma emenda para mulheres para 2027" Especialistas em orçamento público nas áreas de gênero e igualdade racial sugeriram em audiência pública na Comissão Mista de Orçamento, nesta terça-feira (24), que os parlamentares defendam mais emendas coletivas para o setor no Orçamento de 2027 ( PLN 24/26 ). As emendas coletivas são as de bancadas estaduais e de comissões permanentes. A deputada Jack Rocha (PT-ES), coordenadora-geral da Secretaria da Mulher, apontou que foram apresentadas apenas...
+### 13. [Denúncias de violência virtual no Ligue 180 crescem 36,5%, diz ministra das Mulheres](https://www.camara.leg.br/noticias/1322865-denuncias-de-violencia-virtual-no-ligue-180-crescem-365-diz-ministra-das-mulheres)
+- **published_at:** Wed, 25 Nov 2026 18:50:00 GMT
+- **summary:** Thiago Cristino / Câmara dos Deputados Sessão solene fez parte da campanha '21 Dias de Ativismo pelo Fim da Violência contra as Mulheres' Em sessão solene na Câmara dos Deputados nesta quarta-feira (25), a ministra das Mulheres, Márcia Lopes, alertou que o Ligue 180 recebeu 36,5% mais denúncias de violência virtual até outubro de 2026 do que em todo o ano de 2025. Segundo ela, nos dez primeiros meses deste ano, o canal registrou 6.245 casos desse tipo. Do total de vítimas, 49% eram mulheres negras. Em 27,6% dos casos, o agressor era um ex-companheiro. A cerimônia marcou o Dia Internacional...
 
-### 14. [Relator defende proibição de atividade exclusiva de formulação de combustíveis](https://www.camara.leg.br/noticias/1322388-relator-defende-proibicao-de-atividade-exclusiva-de-formulacao-de-combustiveis)
-- **published_at:** Tue, 24 Nov 2026 18:29:00 GMT
-- **summary:** Renato Araújo / Câmara dos Deputados Hugo Leal: proibição deverá reforçar a confiabilidade do Sistema Nacional de Abastecimento de Combustíveis O deputado Hugo Leal (PSD-RJ), relator do Projeto de Lei 4257/24 na Comissão de Minas e Energia da Câmara dos Deputados, defendeu nesta terça-feira (24) a proibição da atividade exclusiva de formulação de combustíveis – que consiste na mistura mecânica de hidrocarbonetos para a produção de gasolina e óleo diesel. Conforme parecer elaborado pelo parlamentar , apenas refinarias e centrais petroquímicas poderão obter autorização excepcional para comerc...
+### 14. [Comissão aprova projeto que permite desfiliação partidária pela internet](https://www.camara.leg.br/noticias/1322899-comissao-aprova-projeto-que-permite-desfiliacao-partidaria-pela-internet)
+- **published_at:** Wed, 25 Nov 2026 18:36:00 GMT
+- **summary:** Vinicius Loures/Câmara dos Deputados Deputado José Medeiros, relator da proposta na CCJ A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta quarta-feira (25), proposta que simplifica o processo de desfiliação partidária. O texto permite que o filiado comunique seu desligamento do partido por meio eletrônico. O relator, deputado José Medeiros (PL-MT), apresentou um substitutivo ao Projeto de Lei 193/23 , do deputado Kim Kataguiri (Missão-SP). No substitutivo, Medeiros trocou a palavra “solicitação” por “comunicação” ao tratar do desligamento do pa...
 
-### 15. [TV Câmara recebe prêmio internacional com programa que promove participação e cidadania](https://www.camara.leg.br/noticias/1322385-tv-camara-recebe-premio-internacional-com-programa-que-promove-participacao-e-cidadania)
-- **published_at:** Tue, 24 Nov 2026 17:57:00 GMT
-- **summary:** Bruno Spada/Câmara dos Deputados Deputados Túlio Gadêlha e Kim Kataguiri conversam com estudantes no programa Ocupação, nesta terça-feira (24) A TV Câmara venceu o prêmio TAL – ALCAP Parlamentar e Judicial na categoria Participação Cidadã com o programa Ocupação sobre o tema Transformações no Mercado de Trabalho. A TAL reúne canais públicos e culturais da América Latina, e a ALCAP é a Associação Latino-Americana de Canais Parlamentares e Judiciais. A premiação anual reconhece produções de emissoras legislativas e judiciais latino-americanas em categorias como jornalismo, documentário e part...
+### 15. [Comissão de Orçamento aprova relatório que eleva em R$ 37,1 bilhões a previsão de receita para 2027](https://www.camara.leg.br/noticias/1322856-comissao-de-orcamento-aprova-relatorio-que-eleva-em-r-371-bilhoes-a-previsao-de-receita-para-2027)
+- **published_at:** Wed, 25 Nov 2026 18:27:00 GMT
+- **summary:** Vinicius Loures / Câmara dos Deputados Deputado Neto Carletto, relator da Receita do Orçamento de 2027 A Comissão Mista de Orçamento aprovou o Relatório da Receita do Orçamento de 2027 ( PLN 24/26 ) com um acréscimo de R$ 37,1 bilhões em relação ao projeto enviado em agosto pelo Poder Executivo. O relator, deputado Neto Carletto (Avante-BA), explicou que levou em consideração mudanças na legislação e revisões de parâmetros econômicos, como a redução de 2,5% para 1,8% na projeção de crescimento do Produto Interno Bruto (PIB) em 2027, além de outros fatores. “A aplicação dos parâmetros sobre...
 
-### 16. [Adiada votação de parecer sobre ampliação do limite de faturamento para o MEI](https://www.camara.leg.br/noticias/1321031-adiada-votacao-de-parecer-sobre-ampliacao-do-limite-de-faturamento-para-o-mei)
-- **published_at:** Tue, 24 Nov 2026 17:46:00 GMT
-- **summary:** Vinicius Loures / Câmara dos Deputados Audiência pública da comissão especial A comissão especial da Câmara dos Deputados que analisa o projeto sobre o aumento do limite anual de faturamento do Microempreendedor Individual ( MEI ) adiou para esta quarta-feira (25) a discussão e a votação do parecer do relator, deputado Jorge Goetten (Republicanos-SC). A reunião está marcada para as 14h30, em plenário a ser definido. Veja a pauta O Projeto de Lei Complementar (PLP) 108/21 , já aprovado pelo Senado, eleva para R$ 130 mil a receita bruta anual permitida para enquadramento como microempreendedo...
+### 16. [Comissão aprova projeto que esclarece crime de corrupção de criança e adolescente](https://www.camara.leg.br/noticias/1322841-comissao-aprova-projeto-que-esclarece-crime-de-corrupcao-de-crianca-e-adolescente)
+- **published_at:** Wed, 25 Nov 2026 17:11:00 GMT
+- **summary:** Kayo Magalhães / Câmara dos Deputados Maria Arraes: a proposta busca adequar o ECA ao entendimento consolidado dos tribunais A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou o Projeto de Lei 142/26, para deixar expresso na legislação que a configuração do crime de corrupção de criança e adolescente independe da comprovação da efetiva corrupção da criança ou do adolescente. A relatora, deputada Maria Arraes (PSB-PE), recomendou a aprovação do texto, apresentado pela deputada Laura Carneiro (PSD-RJ). A relatora promoveu ajuste na redação, que altera o...
 
-### 17. [Venda ilegal de canetas emagrecedoras pressiona saúde e segurança, alertam debatedores](https://www.camara.leg.br/noticias/1322349-venda-ilegal-de-canetas-emagrecedoras-pressiona-saude-e-seguranca-alertam-debatedores)
-- **published_at:** Tue, 24 Nov 2026 17:45:00 GMT
-- **summary:** Vinicius Loures / Câmara dos Deputados Giovani Cherini defendeu a revisão no Código Penal para conter a expansão do mercado clandestino Representantes do setor farmacêutico e do governo alertaram nesta terça-feira (24) que a venda irregular de canetas emagrecedoras em marketplaces e plataformas digitais virou um dos principais caminhos para o escoamento de produtos roubados, falsificados ou contrabandeados no país. O tema foi debatido em audiência pública na Comissão de Saúde da Câmara dos Deputados. Os debatedores destacaram que a comercialização fora das farmácias rompe a cadeia de contro...
+### 17. [Comissão debate formas de ampliar o alcance da rede de proteção à infância](https://www.camara.leg.br/noticias/1322704-comissao-debate-formas-de-ampliar-o-alcance-da-rede-de-protecao-a-infancia)
+- **published_at:** Wed, 25 Nov 2026 16:41:00 GMT
+- **summary:** Vinicius Loures / Câmara dos Deputados Reunião da comissão externa A Comissão Externa sobre Prevenção e Enfrentamento da Violência Sexual Infantojuvenil da Câmara dos Deputados realiza audiência pública, nesta quinta-feira (26), para discutir a capilarização da rede de proteção à infância. O debate foi proposto pelo coordenador do colegiado, deputado Fernando Rodolfo (PRD-PE), e está marcado para as 9 horas, no plenário 10. Veja quem foi convidado O parlamentar destaca que, para proteger crianças e adolescentes, os órgãos que os atendem diretamente precisam funcionar bem e estar presentes n...
 
-### 18. [Participantes de sessão na Câmara apontam sobrecarga sobre mulheres e defendem ampliação de políticas de cuidado](https://www.camara.leg.br/noticias/1322381-participantes-de-sessao-na-camara-apontam-sobrecarga-sobre-mulheres-e-defendem-ampliacao-de-politicas-de-cuidado)
-- **published_at:** Tue, 24 Nov 2026 17:39:00 GMT
-- **summary:** Thiago Cristino / Câmara dos Deputados Sessão solene no Plenário da Câmara Os dois anos da Política Nacional de Cuidados foram tema de uma sessão solene na Câmara dos Deputados nesta terça-feira (24). Durante a comemoração, os participantes destacaram que o ato de cuidar ainda recai sobre grupos específicos da população. Segundo a Lei 15.069/24 , o cuidado é um direito universal e a responsabilidade deve ser dividida entre o Estado, as famílias, o setor privado, a sociedade civil e, de forma equilibrada, entre homens e mulheres. A secretária Nacional de Cuidados do Ministério do Desenvolvim...
+### 18. [Comissão aprova proposta que concede gratuidade em ingressos para crianças menores de 3 anos](https://www.camara.leg.br/noticias/1322791-comissao-aprova-proposta-que-concede-gratuidade-em-ingressos-para-criancas-menores-de-3-anos)
+- **published_at:** Wed, 25 Nov 2026 16:09:00 GMT
+- **summary:** Vinicius Loures / Câmara dos Deputados Nely Aquino é a relatora da proposta A Comissão de Previdência, Assistência Social, Infância, Adolescência e Família aprovou o Projeto de Lei 4567/24 , do deputado Pinheirinho (PP-MG), que estabelece a gratuidade de ingressos para crianças menores de 3 anos em espetáculos artístico-culturais e esportivos, desde que permaneçam no colo dos pais ou responsáveis. A proposta altera a Lei 12.933/13 , que regulamenta o pagamento de meia-entrada, e busca padronizar os critérios para que crianças de colo sejam dispensadas de pagamento. A gratuidade prevista no...
 
-### 19. [Projeto proíbe propaganda eleitoral em perfis de candidatos com mais de 100 mil seguidores](https://www.camara.leg.br/noticias/1321660-projeto-proibe-propaganda-eleitoral-em-perfis-de-candidatos-com-mais-de-100-mil-seguidores)
-- **published_at:** Tue, 24 Nov 2026 17:23:00 GMT
-- **summary:** Kayo Magalhães / Câmara dos Deputados Paulo Guedes é o autor da proposta O Projeto de Lei 5374/26, do deputado Paulo Guedes (PT-MG), proíbe pré-candidatos ou candidatos de usarem suas contas em redes sociais com mais de 100 mil seguidores ou inscritos para fazer propaganda eleitoral. A restrição se aplica a perfis, páginas, canais e contas que eles possuam, administrem ou controlem. A vedação começa três meses antes da data prevista para o primeiro turno das eleições e segue até o encerramento do segundo turno, quando houver. Durante o período, pré-candidatos e candidatos não devem usar a c...
+### 19. [Seminário debate papel da educação ambiental no enfrentamento de emergências climáticas; participe](https://www.camara.leg.br/noticias/1322747-seminario-debate-papel-da-educacao-ambiental-no-enfrentamento-de-emergencias-climaticas-participe)
+- **published_at:** Wed, 25 Nov 2026 15:47:00 GMT
+- **summary:** Guga Marques/Grupo CEEE Brasil tem enfrentado catástrofes potencializadas pelas mudanças climáticas A Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara dos Deputados promove nesta quinta-feira (26) seminário sobre o papel da educação ambiental na prevenção e no enfrentamento das emergências climáticas. O debate será realizado no plenário 2, às 14 horas. Veja quem foi convidado e envie suas perguntas O seminário foi solicitado pelo deputado Nilto Tatto (PT-SP). Segundo ele, o objetivo é transformar conhecimentos e experiências de educadores e organizações da sociedade civil e...
 
-### 20. [Projeto fixa regras de transparência para gastos do governo com publicidade digital](https://www.camara.leg.br/noticias/1313444-projeto-fixa-regras-de-transparencia-para-gastos-do-governo-com-publicidade-digital)
-- **published_at:** Tue, 24 Nov 2026 17:11:00 GMT
-- **summary:** Kayo Magalhães / Câmara dos Deputados Deputado José Medeiros, autor do projeto de lei O Projeto de Lei 3598/26 estabelece critérios de transparência, qualificação e rastreabilidade para a contratação de serviços de publicidade institucional e comunicação digital pela Administração Pública Federal. A proposta, do deputado José Medeiros (PL-MT), abrange órgãos diretos, autarquias, fundações, empresas públicas e sociedades de economia mista da União, e está em análise na Câmara dos Deputados. Pelo texto, a contratação direta ou indireta de veículos de comunicação digital, portais de notícias,...
+### 20. [Comissão de Constituição e Justiça aprova prazo de validade para autorização de viagem internacional de crianças](https://www.camara.leg.br/noticias/1322775-comissao-de-constituicao-e-justica-aprova-prazo-de-validade-para-autorizacao-de-viagem-internacional-de-criancas)
+- **published_at:** Wed, 25 Nov 2026 15:46:00 GMT
+- **summary:** Renato Araújo / Câmara dos Deputados Laura Carneiro: proposta aumenta a segurança jurídica das autorizações e reduz riscos A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, em caráter conclusivo , o Projeto de Lei 2977/24, que estabelece prazo de validade para a autorização que um dos pais concede para a viagem de criança ou adolescente ao exterior na companhia apenas do outro genitor. A proposta poderá seguir diretamente para o Senado, a menos que haja recurso para votação pelo Plenário da Câmara. A proposta altera o Estatuto da Criança e do Adolesc...
 
 ---
 
@@ -226,85 +226,85 @@
 - **Status:** `success` (20 itens)
 - **Nota:** Coletado via endpoint/feed de fallback (https://news.google.com/rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419)
 
-### 1. [Blue Friday Caixa traz condições promocionais para clientes do banco - CAIXA Notícias](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZFJzNHdVVjQ3R0VTb3Y2QTVtMDVfeFgtV0x5cXk5a3hsXzhTQW9Hbk95NTFiNnhKT0YwOTFJZWo4MVppb0dYY09TZllkTzlYSHN4QlF4eTlzV1A2cjRXWFpXWFQ5TTFOWVhqWTd0UWI1QjFDUFdNYTkyYWpING9RLW5kZFowSnlPX01SWXhUSjVYWFdQN21Wa2MyMDlRR0w0SlFHSmV2ak5EX2d4THRYekFQcXhLTHVsY3YwS2QzbHZxUm1DRV85NmVtRjZwMUdBVEJQVE5Ya0p3THZ6YkMtMnZ0V2pDZlZyREpZVVN3?oc=5)
-- **published_at:** Thu, 19 Nov 2026 17:45:00 GMT
-- **summary:** Blue Friday Caixa traz condições promocionais para clientes do banco CAIXA Notícias
-
-### 2. [CAIXA loterias antecipa sorteios no segundo turno das eleições 2026 - CAIXA Notícias](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSmdfMU1aTkNyV20yWUh4Z1V2QUVsNGw2aF9yOHFLV2lzbGVKdVkzY0R4YnI2MkdqRXAxR0VnZWpLNUZMbVN5YnJ1UmtSclNNajZZOE8yaFhNenBDeGRrdldzYy1TdzZOaEZUU294Y3V1RlhNXy1nRHc5bmNkM3h0Z3Z6Q2xQMGpMRnE4cTg3dnlwN2liMW1kaEJtTkotZWVfQWtZV21IR3hWT2JFTDlKWkVBaGpnWUVGV3VzdF94TXlWWFJZRGxiY3JPNGJRdTYyd2JCTVVOV0xseTVCQWc?oc=5)
-- **published_at:** Mon, 26 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA loterias antecipa sorteios no segundo turno das eleições 2026 CAIXA Notícias
-
-### 3. [CAIXA paga lote complementar do Abono Salarial nesta quinta-feira (15) - CAIXA Notícias](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdkZQdDU0bHF0ZjYzTE9rTnFjMGdPNUFna0dob0NENE1MWXgzb0c5cG9pTWstdkl0MDVSeFhTZDBPXzY0Y0U3S1M4N192OFNOUE5HcmNsUGlmdXhocnBOMmtDa2M2RktpQVlSZXRmMUl0dTNYakU1MGpJVWg2b2p2dDFFWTIyOExGRW5NMVZ6Q0pDZ1R1WUxhNE1rOUtZc3JCelFJSVFMcWwzNUlaR1R2TkItTWRDeU9hamExZ2xTQzFwUzZ4S1N2RGt5bGJ0MnVHdEMwU1RHaUFMbVd5UkdR?oc=5)
-- **published_at:** Wed, 14 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA paga lote complementar do Abono Salarial nesta quinta-feira (15) CAIXA Notícias
-
-### 4. [CAIXA inaugura primeira Agência Singular em Santos (SP) - CAIXA Notícias](https://news.google.com/rss/articles/CBMiywFBVV95cUxPalZuQzFGdFB4OXJVdmF4S1FzX0swYzBYMThnOGtkclhEaXNzWGI1MThsMGdScWpxSThuZGpadnlKbjY0dE5rRzQyblJQWWF5WnBDWWl5U0t2b2hwY0N5TklyX2FhWUEwNjJuMWhxRHpObGhlVTNocGhqeHByYjVnUFh1RGdHYlpzM1M0cmthaHFtMGlQbjUxYmNwRUFCanJRcGFvcXRteEUwbVpnaWxtRHhsYVVzbEJwQ3FqRGVQM1NjT242cTEwd1hKUQ?oc=5)
-- **published_at:** Wed, 28 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA inaugura primeira Agência Singular em Santos (SP) CAIXA Notícias
-
-### 5. [CAIXA Cultural Rio de Janeiro celebra Mês da Consciência Negra com programação educativa especial - CAIXA Notícias](https://news.google.com/rss/articles/CBMiogJBVV95cUxObU1KNjlqSmxlUXFwVGlQa3psOXZ5M0FzRHdZdmJlMFRJOXF6UzdLRXNoTmY2NGh6MDJneXJYc1RGWFhyQ3hfNHBaZkYwRVh3R2lzeWdxTUNjcnkwQ21iQ19JYlpXMHJodmJQVW1SaHo1NVc2TkZ5WDNiVmgzQkRMelFyQTlPZXI3V2RsbWRubWZJWmc3c0FCb1d2c24wbkNiUmQxQTVkQ2J0UDlVZXBZaFZqTEZKWlhNZ1pKRm00UDRUX21sNk5OSlZtR21RcnN1bl9BUmlyY2wxZU8wbHRHT1FDcWp0TTJuTUMtNWhSMEpFV1RJbWlfa0JCR1FENG40Mzl1bF84V3B0QmtPbm5Qa0J5cm9KcElUeklNYmJpVnFLZw?oc=5)
-- **published_at:** Wed, 28 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA Cultural Rio de Janeiro celebra Mês da Consciência Negra com programação educativa especial CAIXA Notícias
-
-### 6. [CAIXA participa de anúncio de fundo social que amplia em R$ 20 bilhões recursos do Minha Casa, Minha Vida - CAIXA Notícias](https://news.google.com/rss/articles/CBMiugJBVV95cUxPUmhSbjd0QU00THp0RTJTMEh3TUhHM2J0OWZkWGphRDBhWjQ2UHlWUDZ2ZHdBa0JrRVR2ZkxnT3Y3VVNZNkZ4WDZHMDZCQ1c3cmxnUHdpTzJFQ1d3V09nSm92X1BSa01ac0JjUnJFZVU5bk1feENqYkRIT2YzUXY2bERNc0N0cnROcjRkQ0dfUVlDYTJ6OFlQenY5eVJUd1EyVHA1ZE5reUpmOTljTlN1U08tRGJaXy1pc3R4LXpXLUhkMTdVWUViMXprWHpKemRuTTZpLTVWYVo0UTlQRlJYdEc4dWFucm1TSWppZG5zbk1HM1EyWnZxeHdaQklLSHFiRjVESzBQX3ExOTA4OTFMSWhzMnpjM1Z6a3JlTTQtQkU4VzRfMnozZ1BIMnBfQmU5cmJDLXlESzFjdw?oc=5)
-- **published_at:** Wed, 15 Apr 2026 07:00:00 GMT
-- **summary:** CAIXA participa de anúncio de fundo social que amplia em R$ 20 bilhões recursos do Minha Casa, Minha Vida CAIXA Notícias
-
-### 7. [CAIXA reconhece o município de Britânia (GO) com selo de gestão sustentável - CAIXA Notícias](https://news.google.com/rss/articles/CBMihAJBVV95cUxOTVRTZHlLYWx3RmI1bWRBak5XYUo2V1F1TGpDYl9QVU1vT2dGRFp3Q045NkxXVlNfbW1pOHlNMU5LWTJrS1VlUGxrQks5SUtpSjJwQTRJczBpZnZicUo0bmtyTVVYV0Z6QmE2T0xZMmVSRUlmeUw2V2VzVFV4cVlfc2tqbnBVRG5iRmJGaFJ1UmFNNVlmdkxvNDJYci1tUGRmbU13RVJOY2xRbTRrdExlWWRuVWxrMU9ST0dYYVpzdkZZelAwT1JpX3hXVUJaWDlfY2ZyNFZmUjNKaGNKN09rTkZ4SzlRZTNsU2FjQ0tkNjZ0eVFzdVJCRU5rYXNyZDZjRHpBaA?oc=5)
-- **published_at:** Thu, 05 Nov 2026 08:00:00 GMT
-- **summary:** CAIXA reconhece o município de Britânia (GO) com selo de gestão sustentável CAIXA Notícias
-
-### 8. [CAIXA oferece condições em produtos e serviços para servidores públicos - CAIXA Notícias](https://news.google.com/rss/articles/CBMi6gFBVV95cUxObHo3RUFlOHE5c1VrdEZnQjZZUFVHaVM4Z01iUlRKbGh5eml3QWZ2UlIzc054N01aZWNZQ3Y2QTBZZlV6eXZsQUl5NmZfVk1MbjBIano1dVpRVXVYZ2o5S0pUYzNMWGJNSWt5Ni1fRDZNdFBMaFdzLXhSYTlUNERKb3JwNmstempxV2JHbktGdFFfT2NzNlI5eVkybnR4c3J4RkR2MXg3aTctWTZBNDd0NHVZclk3TTM2REt0cmVDWHY1ZDBGTl9fbDhIWmlSRGhXVW94bmlCNVpOd1l5T3VjX3RubEJTaUF6a0E?oc=5)
-- **published_at:** Tue, 27 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA oferece condições em produtos e serviços para servidores públicos CAIXA Notícias
-
-### 9. [CAIXA Cultural Curitiba apresenta o grupo Barbatuques - CAIXA Notícias](https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkJwSmJaLVpFaF9fMnIxZS04bkY2UVVrM3ZPNFZNcWdYeHhhcGZQSzJGeWZaRXc0SFlNVVZnUFN6UEdKS191TTJtVmpRRklJeXh1eU9JZ0g5blVLRWxOMEhHN0RJb1hfWDRQeXcxbHp4cDRPdnBmVENJT1JMWFdHMUttVFc0UXhQQ1piWU5CWGhWZEVYeVdmMTN1VG9sMnhmdkFOT0V0VFgxUFhKeWFTbzlEREFZWEgya3FBbmVNUW9Za2dOWm9YV2FxdGc?oc=5)
-- **published_at:** Mon, 05 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA Cultural Curitiba apresenta o grupo Barbatuques CAIXA Notícias
-
-### 10. [CAIXA Cultural Brasília recebe César Camargo Mariano, Sandra de Sá e Metá Metá no Cerrado Jazz - CAIXA Notícias](https://news.google.com/rss/articles/CBMiowJBVV95cUxNb1B0OGlNSl9ETUtzVWF0WnBuZ2lxWEFLMzJEc2MtRUZxdVlaTGNaTFEwSV9KZ2lidTI1ei1qY3NEMGoxMzBTQjdKM1RIYUQ1SHZyZWVjakNyOWo1RmtzcDA3ZkZicVhMZGtuNXZYMjZObG9KVUQwZXZnbjVSMjNwWjFNTmlzM3lSZXp3eHlzZWhHNXRGenVCMjlpY3JHZFJwZF9XQXlyUDdsWVMzbjBhTnRlTHdKZUI3SFk4eWRWb3oxQ3JRRmFvejhrdThyVm9KcjFLNGNvMHZtaFVRQl9HUlBwbGtoTmg5U216ajN6eGtzb2kzWUIzcG01ZklOYmZ2b2dDOTNYVGt1c01kWXNyRHRPYlZwa2E5aXA2VkJiOFF1U2M?oc=5)
-- **published_at:** Fri, 09 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA Cultural Brasília recebe César Camargo Mariano, Sandra de Sá e Metá Metá no Cerrado Jazz CAIXA Notícias
-
-### 11. [CAIXA Cultural Salvador apresenta a exposição “O Reinado do Riso” - CAIXA Notícias](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTGgzSGxwUk5fMGp3Ykl6MjJaNGp6djN4aXR6VXc1UW5Obm5BbGNGVDRXUmh4aXhvOE1kRXlaeDVSQTdBS3d2eUZyM24xQVd2NWx4OXczSTllVGFnSlR2dms4T0Z5bFF6WFkwWTktTFZqcDdHNUtLWndjWmphMEk3T3dCN1ZObVJsXzNSTEtQa0NSb0I4OXl4eFBpQkljWkVhbVhHVFRQbEpha0k4QlNfWUloYjVLR2NKdnJRQURpLWxKT0pKNDFvT3RPUGN0VXpYbUVQczU3RlhGWVJ0bmt3OUN2R3RRUFk?oc=5)
-- **published_at:** Thu, 29 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA Cultural Salvador apresenta a exposição “O Reinado do Riso” CAIXA Notícias
-
-### 12. [CAIXA Cultural Belém recebe “Bertoldo”, fábula musical inspirada em Bertolt Brecht - CAIXA Notícias](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcXM4ci1nNk5aRU5yaGh1ZTQycFQ0WjU3WHJwdzZ5UmpjOE1JdWQyY1d2QVhWMTZFRzlWUXY2TzBCYUhCRS1uOE43azR4QVlDM2U3dkVidS0ycW8teTBFay1ab3lVSVJndnJqV3NRcElNMHo3MldYcXpucFQ3U1Q1ZVIzeU5PaGYwWUpmUm9MTzBtWXpGTmpDSzhpM2VqUGNERUEwSmk5MVpmUHUzRmNxWFRJZmhheWpIb0VtV1FFbmVFekdOcFM3RHk3MjZSYWg1NHluaU1yZFpUR1owcFI5OHdIOTRyMDRTallGU1F3?oc=5)
-- **published_at:** Mon, 05 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA Cultural Belém recebe “Bertoldo”, fábula musical inspirada em Bertolt Brecht CAIXA Notícias
-
-### 13. [CAIXA presta atendimento na 23ª Feira Casa Pronta, em Criciúma (SC) - CAIXA Notícias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTVVYZ3NFSUhjTmdUYzFtV25PYTV2Y29aNWRuR0I5MFpqZFJuTm1EcjZVNk5tOTR3N2VqYlU4bUdPbmpvQmJVcFJyZlJwWktRaXBhX042X0p4NWdmTDN0SWFjMEduMTVkOFJxeG44ODE0MkpfZm1GQkNPbUgxV2drZ3BiV1loYXk4LTRDc3hfZ1dqd2hUbF9hamN0WTkxbFRyWUpxb0IyVDZSQ0J6dTVFbmkwRFYxZzVtaktDUkVyMzRaUWdxRk1QWlY0TXBHVHpucVlhNzU3Zk0?oc=5)
-- **published_at:** Wed, 14 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA presta atendimento na 23ª Feira Casa Pronta, em Criciúma (SC) CAIXA Notícias
-
-### 14. [CAIXA Cultural Belém apresenta Marco Nanini no espetáculo Fim de Partida - CAIXA Notícias](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcTh0ejdOTkRNSjNHOUVGWjdwekZOODJ0XzNhQ0tzRGpZa2paR1owaFhDakQzVFFFM196SHlmTG83aGQwOTVuSWE1c3pLUlhHMHp2YWVIMVhUSnMxQlFuWGM4N3lmb0lMYW5GTGotS25NMGU4N09CSjRmQlBrQnBobk0yYy1MY3pOWGtaVnVleVhOdVVOVlJrT0R0dmVnUmZQU05rUUR2Z2N4eFFZU1h1MjVzS09HeGtzdklJOVA0UnZCNnQ1VFduNzZNSXVqdVZBbnY1bGFoREZHSktpVEh0SjM4S0tIOFNJZkZNNEhudVc4dw?oc=5)
-- **published_at:** Fri, 30 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA Cultural Belém apresenta Marco Nanini no espetáculo Fim de Partida CAIXA Notícias
-
-### 15. [Caminhão CAIXA realiza atendimento durante a I Expo Negócios em São Luís de Montes Belos (GO) - CAIXA Notícias](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcjdmYVFNQXF6WFE4YXI2djdUNG9KMTZ2OVo3NTBiWEZwbU9NbXRWd0t2Ql85cm9BUllMOExFXzVYa1ZqOGIybFYxQVg3bVJLSVdmUEs0dnFsbU92OVg0U1E3eTdaNWVRVC1DNlk4dUVHbWJrMm9GVENzWlhxTDB5M05MNWowTEdoYmQ1cF9nSjZuZFI3TVNka3JpUFl2SF8yT19kSVcyWkJvNFpJT0lnM0NRNlRqOWJhSGk4ekR2OVA5V0tHcFVnSDF4aUpLazA1a1ItVGtB?oc=5)
-- **published_at:** Thu, 15 Oct 2026 07:00:00 GMT
-- **summary:** Caminhão CAIXA realiza atendimento durante a I Expo Negócios em São Luís de Montes Belos (GO) CAIXA Notícias
-
-### 16. [CAIXA inaugura agência exclusiva para atendimento empresarial na Paraíba - CAIXA Notícias](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQXgtdmlFLWl6cnVRa3JYYkswS0hOc0NwLThJblg5eVV6OExqNXpjb0dqeDFBbTJtN2dQVENnX3NlT21STTFzNWtGSFVndWhGUm5kT183a3BvNEFhMDRyTVN2ejNJdndFb0h4RFpIRDZrOVJhOVpPWGEyemRGOG13cWdJUmVDRDBFdXNKR2xuYUFJSkljbERZX1p5WXR4dmotWHNmS3JvZ2owMTFKbEhYN1JaY25YTEtkZV9HMHpGdzYwLXhMb01tY1ktNGJwdXJwMzFnZFBudjJuU1V6NHJOM0pxZzY0MUdXNHAxT2RTcENrQQ?oc=5)
-- **published_at:** Mon, 05 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA inaugura agência exclusiva para atendimento empresarial na Paraíba CAIXA Notícias
-
-### 17. [Caminhão CAIXA chega a Santo Antônio de Jesus (BA) para regularização de dívidas - CAIXA Notícias](https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjNYMFg4Z3NCRHZiMHZDazQ3V2c1Y1Zpak1FYVpTdlhzd3FwdDZ4SFdsZnA2UWlQR3Z4ZEVLVldjeVB4ZjBTV1gwU2ctZUJvYU5wS1gta0pSd05TdTNrUXhUN1hUTWw4TjBHczFNUVFIVzBUdXpEMDhxSzZ1UXllUzAzR2ZvYVRzS1JPS1BZNzhlVmY1Rk1iUkNMUFpWN0NiUDk4RVZ3UWo4LWxWdlJBZ2doMl9vR3NkRzRHSTFsRFdMZEFScmkxdXg5ZjZfaFVlV0FKbV8zY19RRXhkSHFXUUprbTdjSjd2elhKOE5BYjlVb1NOQjNmS2ZmM2tjRVZUZS03eHR4bHpTcnJpRVQ4cw?oc=5)
-- **published_at:** Wed, 07 Oct 2026 07:00:00 GMT
-- **summary:** Caminhão CAIXA chega a Santo Antônio de Jesus (BA) para regularização de dívidas CAIXA Notícias
-
-### 18. [Caixa disponibiliza Saque Calamidade para mais cinco cidades gaúchas - CAIXA Notícias](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPejdrek83UHo5d1duaUJZUEhwWnpLTEo0Tnlra0R1MzYxYVlEUUk3UjV2OTBSQm51Ym15eVdBamF6ZjdodGtLVXM3UFJiNTdSMjRCaGlvamlTNXlzZExzN2c2TExuMjhmUF9kY1FMdjNjcW1aSVpVbnFES0JKNTA0U2VjYmNOOHlpTHloaGdmTUN5bDk3VEF1VXRxX3lkWUdyMWszNFV4YXFqNklzTDZob2h1d0NiQkNlMFdnOUc3clplSUktM2RRekdsNzNUYXU4LWJOTnB3VWcycVN3eUczckRLa3pPY3c?oc=5)
-- **published_at:** Wed, 11 Nov 2026 08:00:00 GMT
-- **summary:** Caixa disponibiliza Saque Calamidade para mais cinco cidades gaúchas CAIXA Notícias
-
-### 19. [Caixa Loterias lança Quina Friday - CAIXA Notícias](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeWlITEFNYnNaSmt3OU41LWNTLWVaNldEQ2NEM2hNaGVGZnVGRzZVbXJhQ1lUR2ZjZy0teVpoajZJckhoME5saG8yU1FtdWc5bVFqLTZLZy1MWTlqRVZWbmpDdVpITUVFZFdYZDhTQTNOOXF2M3oybHVibGhLR1Q0dDExTDFEMTVVTDdFQU9RbFllVUVhc1JQd1hOM0dsUjBla1FXNFBQU21ocnp5bTVjOWdURGdjU3VDbXc?oc=5)
-- **published_at:** Wed, 18 Nov 2026 20:49:00 GMT
+### 1. [Caixa Loterias lança Quina Friday - CAIXA Notícias](https://news.google.com/rss/articles/CBMiugFBVV95cUxOeWlITEFNYnNaSmt3OU41LWNTLWVaNldEQ2NEM2hNaGVGZnVGRzZVbXJhQ1lUR2ZjZy0teVpoajZJckhoME5saG8yU1FtdWc5bVFqLTZLZy1MWTlqRVZWbmpDdVpITUVFZFdYZDhTQTNOOXF2M3oybHVibGhLR1Q0dDExTDFEMTVVTDdFQU9RbFllVUVhc1JQd1hOM0dsUjBla1FXNFBQU21ocnp5bTVjOWdURGdjU3VDbXc?oc=5)
+- **published_at:** Wed, 18 Nov 2026 20:39:00 GMT
 - **summary:** Caixa Loterias lança Quina Friday CAIXA Notícias
 
-### 20. [CAIXA disponibiliza Saque Calamidade para os moradores de Parobé (RS) - CAIXA Notícias](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQajZ4dUVDcnhxSXRuQ1dYOWZ0dXF1Tk9wREZHNXRWTVQtcHFEczEzcmFiazQzOXBhaWw0bFVjak0wYy1uN0F4cVk0bHdmNDNyUDgwNVZkWS1RZkt4US04dVItNHFKWWx5ZzJkWjZDdTA3TXpISXFZUkhFTzVWTmtlZVBfeHBZbTRVcExXQmhReDNQTE54SDYtTFdYWnc0S2ZFczFNQmZ6NDFsU2xYbi1aQzFac1NHYkpDRnl1bjlaNUdST2d4S2dXeFl5MExGOW1NZE1jT1kzaDFKZlN2ZmJzVW9UaFU?oc=5)
-- **published_at:** Wed, 28 Oct 2026 07:00:00 GMT
-- **summary:** CAIXA disponibiliza Saque Calamidade para os moradores de Parobé (RS) CAIXA Notícias
+### 2. [Blue Friday Caixa traz condições promocionais para clientes do banco - CAIXA Notícias](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZFJzNHdVVjQ3R0VTb3Y2QTVtMDVfeFgtV0x5cXk5a3hsXzhTQW9Hbk95NTFiNnhKT0YwOTFJZWo4MVppb0dYY09TZllkTzlYSHN4QlF4eTlzV1A2cjRXWFpXWFQ5TTFOWVhqWTd0UWI1QjFDUFdNYTkyYWpING9RLW5kZFowSnlPX01SWXhUSjVYWFdQN21Wa2MyMDlRR0w0SlFHSmV2ak5EX2d4THRYekFQcXhLTHVsY3YwS2QzbHZxUm1DRV85NmVtRjZwMUdBVEJQVE5Ya0p3THZ6YkMtMnZ0V2pDZlZyREpZVVN3?oc=5)
+- **published_at:** Mon, 23 Nov 2026 08:00:00 GMT
+- **summary:** Blue Friday Caixa traz condições promocionais para clientes do banco CAIXA Notícias
+
+### 3. [CAIXA Cultural Fortaleza recebe o espetáculo A Invenção do Nordeste - CAIXA Notícias](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQejh5SGVfbE5qY2MxbGUxcnJzd1dpelNlY3VpVXZtc3hVeDB0Q21XVmRPenRLMGpoMmxpYmdlRGphS1plaGhEWmtwM3FhR3pWYVBYaGRjUzViMUtpUDM0V3V3alRYXzZwbk1Fd1hZb19Ra2lySEotdkhzU3kwOGRpUExHcGpfNElFczdyT1ZXdXdUbW1zdWs2aWotRkJqT2h2bGxxZXNhRUstLUlrcTkzVThIUmZHQW5QcnVxSU1ibGItVjlta1k4N3VDd3N4SXhWeWcyTEl5cENlMjk3UGt1RnRmY3cxdGtOYmRuTWs1Z1NiQms?oc=5)
+- **published_at:** Wed, 09 Sep 2026 07:00:00 GMT
+- **summary:** CAIXA Cultural Fortaleza recebe o espetáculo A Invenção do Nordeste CAIXA Notícias
+
+### 4. [CAIXA Cultural Curitiba apresenta o grupo Barbatuques - CAIXA Notícias](https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2FJUC1CUkxmUVlYUlVpTWV6ZWpVTlFZcXl3MWJTWXhPM3F2RWE4bE5aODlTX1YzajI2Ti1mT1NXOGtBUjZzMGdoSkxaWEgzNzZiVms0WFVUXzZCcElxWjVmVFFDMzh2N1dSU2ctaVFnY1MxcnY3X0RDODRfYVYyTVZjYTBsalBrYU9nWmdFMWFZRFF1cDNWaVNlR0ZueS1FalJ1QmNKQVpTc0l6V3BnVklnajR4eVVyLWhldWNQb3NkbzYyU3VMaF9fNA?oc=5)
+- **published_at:** Thu, 01 Oct 2026 07:00:00 GMT
+- **summary:** CAIXA Cultural Curitiba apresenta o grupo Barbatuques CAIXA Notícias
+
+### 5. [Como se organizar para comprar um imóvel em 2026 - CAIXA Notícias](https://news.google.com/rss/articles/CBMizgFBVV95cUxNUDZMTnRMYVVGUmt6aDZDRjhWMkJkZjRzaGJWUmFIVG1xdEFDb2pEVGdCUFBGQ3BaTUtSRlU3YnJLdFFpTTNhUWctcE5mdW44eWR2dmltTE85M2lac0RldnZlVlFjQWxXTFVkM3FRUjhhcy0xbndCTnNtWmdzRC1uNU5namNfM1c4YlFSZVluVDNlOWF0REtNX0FENHBscFlnVGhfeXdUQzBoSU5EWW43Q3pIUl9RWEpEaFNIeU9vcUJyRWNFeGxKTFVVTjdLUQ?oc=5)
+- **published_at:** Tue, 03 Feb 2026 08:00:00 GMT
+- **summary:** Como se organizar para comprar um imóvel em 2026 CAIXA Notícias
+
+### 6. [CAIXA Cultural São Paulo recebe o espetáculo “Egoísta” - CAIXA Notícias](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQk8wZkFLbHhiQWJ1NjFrV2s3UkVxTUhYRWlYNUVPb0kzc3BCR0VHTlA5bFZvcV80eG9ndm02V2V5SGRZREU0ZG5LYmxINEZXRmN1dTh4RkxIU1NITXdnSThMRVlKX0VNS25Ec3IxZGp5REJqYjMzSllrU1ZrYU93SWhGSkVtNy1FcGNaUTRjSmlDOXdTalNzaDZjNFhRYm9HTFVxMFZOUlFJZGFjVFJjR044ckxGSVQzLTYzMmYyTHhLWERJenQ3TUEzanM1QUk?oc=5)
+- **published_at:** Wed, 26 Aug 2026 07:00:00 GMT
+- **summary:** CAIXA Cultural São Paulo recebe o espetáculo “Egoísta” CAIXA Notícias
+
+### 7. [CAIXA Loterias estende horários das apostas - CAIXA Notícias](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1JVa3R0ZUR5SXpHYU5SdkVpcHc3V3R1N1lRSVZnYjNCbDFtd1d2NXQyUUFMQmR1Ti1HV1BRNVZYMDlXc2lYN0hwQnRhdFNiY2xka0U1T2hja080WnRxSjJuSlhhdEltWl9JMHU2YUtnVlFVN2dqMGlWeXJXZ0t6bzBHTEpkV2xXMjd6R1h1OHQwLVpseGZHREZ4Z2FPYklzd1NWa25vSjZUODZJOGR1M1ZUUjItR05BbGtv?oc=5)
+- **published_at:** Tue, 03 Nov 2026 14:07:27 GMT
+- **summary:** CAIXA Loterias estende horários das apostas CAIXA Notícias
+
+### 8. [Saque-Aniversário do FGTS: CAIXA inicia segunda etapa de liberação de valores - CAIXA Notícias](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSWFVTktCTUt3dEJrMmpGVnZRaGw3VmNyX1RyZEV0SGt6LWYzQXN5MkRLT1hGdFRhLUpONmMwWFF3S0phTWNUV2JRc2hwN2ZhLVR2QmtFT2VSVlZtU1Y3VGJCN2pTZk5XdGZ3VEx0ZkNaYW54bXJhUjJYdnR6eFlrYmpjMFhpemJwTDJGWVFLSnQ2VU1iZUc3Y29GZEdPRnN2VnM4ckE1NldUNGMxVjZiaVl6cEpQUmRHOFkzMTlkRDZKQkdUZFJwTkpFeUVrSks5cFVnN3hGelFGWDBvOFlaZkxZVlBqNDZWX3c?oc=5)
+- **published_at:** Fri, 30 Jan 2026 08:00:00 GMT
+- **summary:** Saque-Aniversário do FGTS: CAIXA inicia segunda etapa de liberação de valores CAIXA Notícias
+
+### 9. [CAIXA volta a permitir mais de um financiamento imobiliário pelo SBPE - CAIXA Notícias](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPajNhbFNVUnFfNmR0OFY2bFo3YXRsc3RZWlY0VGZsdWdvNFhjRnZpNks3SXdCTmh3RjNwMExWLXZTRkhnR3VkaThXZDhQb25qV2NrZ2ZtSGJSakVqbllsR2NVZ3Vka0t2azNzQmZDeTBCYWY4N19QNTA1QkdOa09EUldiVXV6cmppUkZJd3JIenFUcWNwRERKUHZTSUoyYUFHZjVSU2tmM0VMSGlpWm5TQndVRHlOempPamwyVlNmQ0lWOFJ0NlpXdGYzWGhaMVR1ZHprWHNXVEhzaEh4Q2ppOC1Uaw?oc=5)
+- **published_at:** Tue, 09 Dec 2025 08:00:00 GMT
+- **summary:** CAIXA volta a permitir mais de um financiamento imobiliário pelo SBPE CAIXA Notícias
+
+### 10. [Mega-Sena terá cinco sorteios na última semana de outubro - CAIXA Notícias](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0hSS1d0cDRSSVFUV0tCd1FrMFFCa3duRzdhTUxhZnAtR1k1UE9MWnQ1NjRJSHRXaGJhcHpiV2JMdFdFTENUZHhJRWM2ckd6TVhlSDRRVW5wZC15cVpHeEUtdURteUtyQUFQS0lLVGcwYnhOY1NrTnRhQ0Q2ZS1JUGlENmtSZXBUeU5US3MzQWJ5UTdxcEFNQ0p0ZmttOHc3aEY4WTZueXlOeFpqaEZaRzc4dzNyejc2R0FHRG9INngyMlc4bmhzVlE4LVFYejZ5aFE?oc=5)
+- **published_at:** Tue, 29 Sep 2026 07:00:00 GMT
+- **summary:** Mega-Sena terá cinco sorteios na última semana de outubro CAIXA Notícias
+
+### 11. [CAIXA Cultural São Paulo recebe edição 2026 do Festival Palco Brasil - CAIXA Notícias](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOWtPZXBXbm5UcVN6WjJSV25ocVpralI1NDBFd0pqcjNmVVdkSHo5ZG1CRWtDeGp4Z1pHYWUyTEtzck81TWlXNTJmS00xX015Wk5GMUU1aVdTUU9Sb1dnM3pkamFNdjd1UU9Vbll1aWREZDEyV2lRa1pRTXB4cTdXUE0tUV9iTlFQWVFaVG1nR081NUoycHZabGd6TnVHbHk4cTlma2lkRDhlcG9TVTdKbmo0NXM5VEtXN3IwdlctRHNTUjFBcjJxd3kzOXg2dXhsVllTWHc4YnYydmRkNXc?oc=5)
+- **published_at:** Fri, 14 Aug 2026 07:00:00 GMT
+- **summary:** CAIXA Cultural São Paulo recebe edição 2026 do Festival Palco Brasil CAIXA Notícias
+
+### 12. [Exposição “Rembrandt – O Mestre da Luz e da Sombra” chega à CAIXA Cultural São Paulo - CAIXA Notícias](https://news.google.com/rss/articles/CBMirAJBVV95cUxNVWxZQWlIUHowNWtqUzdCcWNxZUdaQ3dfUmlaZW96Zkx0QWZqUTd6ZDJQRm5PRWNDWkFmZ3Y0XzF3ckM5aGQ2RE1Ed095UEcxNWRoT25mT01HU3JNcnJjb3NBLU1URUh4Vl9JUHFRaGdTTmNpcUxtMFBLcVhpZzJrS0FGYlgtaElxRnRiVzZQc1FqbFlRVjNzWmxGYzlheTVraFR6aHdEdjRBN3N3M0QyQTViTXdzZlV3NVh6YnVIWS13UUFFWlJDaVJ5UW5oV3RmRnlJTWdoYTduc1FWZUpiQ1pjRU10dHlDcDFFQm1ZQ3hmZlFCR1VWZUNMRjNxeE8tWFd5SnB1TXAxU1lFeGdXSHpoS2JSTUt5dFc5QkZUWUxQX0FHallueVZKWjU?oc=5)
+- **published_at:** Tue, 21 Jul 2026 07:00:00 GMT
+- **summary:** Exposição “Rembrandt – O Mestre da Luz e da Sombra” chega à CAIXA Cultural São Paulo CAIXA Notícias
+
+### 13. [CAIXA Cultural Brasília recebe a peça “Elogio da Loucura”, de Erasmo de Rotterdam - CAIXA Notícias](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS1hEN1hTbzBucVdod0J4a1lYdTVuZEhnMEkwVWQwY3dMRXBhM0tEU0M1MTBZd3VTWXNOQVZFekRCZG1fZjEyRUE5OGNTRnk0czVUYS1TUzR2d3lPUjF4ME83azY5aGZvZ29XcmsxWVpka3VwSDc1NHVQMUdOUGRvVzYxVldIVi03bWpfbUY4TlcybG5XaEdJb1U2clhUTHJoazlzNUFKbW9mTXJiSWUzXzJ2bmc0SmVQelJVUWdkd0ZGckp2X25uZUJobnNIMHpnNy1ZcllocVFTVTFrdWZJZlJrZnRkU3JsaDN3?oc=5)
+- **published_at:** Tue, 18 Aug 2026 07:00:00 GMT
+- **summary:** CAIXA Cultural Brasília recebe a peça “Elogio da Loucura”, de Erasmo de Rotterdam CAIXA Notícias
+
+### 14. [CAIXA inicia pagamento do Abono Salarial 2026 na próxima segunda-feira (16) - CAIXA Notícias](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPd3NXblZpVmVzbnE1dFFhSHBDZ0JuVDhHcUFQREVRcmxla0NON0Q0UHRSZnR6U2xkeVdiT09Rclo1aHNsM0MxaFlUQlZHVVQ0UjJUQkJkOENvcm5PVjZWSDZ3MU5JSmRGaldIZi1Oa0JPNUxReVR6VnNtbFpYYWRyT3Q0dFZ4T0FObFlTWEZYU0EzN2NWUVZ2ZVRUM3JVWHlBNlo0WVhrV2J1eEJvQzhIR013MldOcjhUcE9EUUMxblBmbmlYWjJvMFlkeXloMFBKYjNOVjNXeUhhUzIzZmc2REVaTjhHczE5?oc=5)
+- **published_at:** Fri, 13 Feb 2026 08:00:00 GMT
+- **summary:** CAIXA inicia pagamento do Abono Salarial 2026 na próxima segunda-feira (16) CAIXA Notícias
+
+### 15. [Lotofácil da Independência 2026 inicia suas vendas - CAIXA Notícias](https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkhPQ21jeFJPOHVrUDlpMC1ZejhJM3FKSGNTWGlJenFSeGNvSGtRcFB3WTJyR1Ztb2IxTjZBNlR5R285UFBISDUtZmJxbkRkV3pnTnUxcG1RY2kwNlZFUS1ieXhhUE52U1RpMHFjR3dEUkJTb2FYcTdSYVd0LWRnTGhCTld5UmNSeE40UlJ1LUZ2QnN3OVZvank0WGU0bXBnU3lsblVXWUk5N2Jtalh2Z0YyVDJBQWZyRHRRTEVkbWw0WHFS?oc=5)
+- **published_at:** Mon, 20 Jul 2026 07:00:00 GMT
+- **summary:** Lotofácil da Independência 2026 inicia suas vendas CAIXA Notícias
+
+### 16. [CAIXA Cultural Brasília apresenta monólogo de Othon Bastos - CAIXA Notícias](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOGpHdWtvaUVOM0Zmdmh4QzlJYWFEbDVuSGxiX0puanlBeEhvenlaYW1UdGMzUXNWaDVCZENYMVdfYW1NVm5QWDNtaDc0THlxaDNiTVE0Umo1M3IyVE5EdEk0UHhQWHBFVjd0ejl6RUtQblQyVzRpU3JDaGpOa3hwLTJrMkNJZFhhX1FUYTlwSHVGb2tpNVExbXc5SHFZUEMtNDNRd0ZaZXVWeEdKZTI1eE15NkRJTG9HMkpNTDVkdXA2MmQybTdGclVnLW1MaFVRaWJ0TjJEV0NtdDIwZnc?oc=5)
+- **published_at:** Wed, 29 Jul 2026 07:00:00 GMT
+- **summary:** CAIXA Cultural Brasília apresenta monólogo de Othon Bastos CAIXA Notícias
+
+### 17. [CAIXA Cultural Salvador recebe “Grandes Pequeninos” para celebrar mês das crianças com “Cantabrincando” - CAIXA Notícias](https://news.google.com/rss/articles/CBMiigJBVV95cUxOclNVRHJpOUVMNXE3R1VpRUxMdlhhT1E3OHZZSGdOd09kaERzb2sxbEdkdzhkTm9XTmx1R0NhUU9URHhwNmt2ZHFNVkN5SDhQQXRwS1VQRnoyanRFbTZXVGRISmFOc1pBdk03Uy1lQ2Fhcmp3NXVsNEkzMGNlMXpMazdhb0N2MWRJZXpwdFM2X21nZ04wZkJlUjFBeEw1LUNVcUhLZlhNX0dmV2IzQVNWNFZEa1pXSTdqRFpQMmNXTFhNWC1Id3pOTm1WODg0d3pHMlUzZW16bnhPMnF3czZ3RGZEZzZZVVpBZUhMWG4tcHdVTlpJQmR1SXZoZWVMQzRXMHhGaDFUajI4dw?oc=5)
+- **published_at:** Tue, 29 Sep 2026 07:00:00 GMT
+- **summary:** CAIXA Cultural Salvador recebe “Grandes Pequeninos” para celebrar mês das crianças com “Cantabrincando” CAIXA Notícias
+
+### 18. [Exposição na CAIXA Cultural Brasília celebra centenário do artista Antônio Poteiro - CAIXA Notícias](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZEI5UzNsWmtZclgtZmJLSExZR2ZwMkFrM1duY24yb0xlNTA5UjczNENZVlZKUUdOcVF5SjRsdUdheFEzaHRWREwtQ0pVeE1DRXVvaDVPV092UW9rYWdpUFdObW1KVjM2U25qRi1XMk11M0N5WVhjRGlVc2ZJaDZIdWNKRGw1bWtDSTZ6RjVfb2ZVcUVaVHJ2YTBxVGp4T0pjSnZLVGVqTzdhbFRNcFUxYTlfdzFSYTBNOWFMdVFBMnRtMERRdHVrYy04UFVKdlV6eDA5YThjNlpTMEJkbC1kTFo0OXpmelVsSUN4SE91UXBoU2xINW5r?oc=5)
+- **published_at:** Mon, 16 Mar 2026 07:00:00 GMT
+- **summary:** Exposição na CAIXA Cultural Brasília celebra centenário do artista Antônio Poteiro CAIXA Notícias
+
+### 19. [CAIXA Cultural Brasília apresenta “Escola de Mulheres”, de Moliére - CAIXA Notícias](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUlNjU2tkY09obmtWQmFoajhjbWloUlVUTkw1RnpsdnlsR2NVUXhKTTlfQ1d2X1hlZW1KZFdGYWZ5Z29CYzkwR1FFWjBVbzhldFgwUjl5OE9yQkE0SjdZYXJSLWQyajVXUUMtQm92NUROYTJyT2EyMllLcGJLc1hpa3dSVVRUMGdnVzB1NGdHMjQyUDlYa1o3YlFmUDhPOUE2V0RhTWtGMXhGSzNTeGtYOEZPMTRZdTJMSGk1eUdRSDZocTREWHVRM2QzU0MtUjF1b1FxZ2V3?oc=5)
+- **published_at:** Tue, 14 Jul 2026 07:00:00 GMT
+- **summary:** CAIXA Cultural Brasília apresenta “Escola de Mulheres”, de Moliére CAIXA Notícias
+
+### 20. [Desenrola FIES: CAIXA inicia renegociação com condições especiais - CAIXA Notícias](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQlkwUmtGQmhVLTZCYkRDTjZnbEhYdWhDSmtYS1VvWDRZUkt1UXNYbFkzNTVoZFNaU0s1SlRhUllGSVNidDFmRjRjX2kyVDJROUtXd1JkR2dNQTIzOEZuWXkwX3ZkcnZfcVM4dV91YXZ4c1BJU1dHWjlEOVZTV0hQWTk5Q2RmOXpnUEVHVnN6dmNmeFlScmVkMUhNNkNQV2JsSm12S3E0dlN2Y3lwVUlaQzlMR2V5aVFKMVNPQnlYNlI4VWhBSWtwdUhxbDZ6X3lIcGlwdTN3?oc=5)
+- **published_at:** Wed, 13 May 2026 07:00:00 GMT
+- **summary:** Desenrola FIES: CAIXA inicia renegociação com condições especiais CAIXA Notícias
 
 ---
 
