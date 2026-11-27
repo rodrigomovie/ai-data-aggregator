@@ -3,7 +3,7 @@
   "metadata": {
     "project_name": "AI Data Aggregator — Setor Público & Notícias Governamentais",
     "description": "Feed consolidado de soluções e notícias do Setor Público (Banco do Brasil, Câmara dos Deputados e CAIXA) otimizado para consumo por Agentes de IA.",
-    "generated_at_utc": "2026-11-26T00:42:58Z",
+    "generated_at_utc": "2026-11-27T00:47:16Z",
     "total_sources": 4,
     "successful_sources": 4,
     "total_items": 90
@@ -205,124 +205,124 @@
       "items_count": 20,
       "items": [
         {
-          "title": "Brasil tem déficit de 110 mil cisternas e de mais de 1,3 milhão de banheiros, diz Funasa",
-          "url": "https://www.camara.leg.br/noticias/1323123-brasil-tem-deficit-de-110-mil-cisternas-e-de-mais-de-13-milhao-de-banheiros-diz-funasa",
-          "published_at": "Wed, 25 Nov 2026 23:14:00 GMT",
-          "summary": "Renato Araújo / Câmara dos Deputados Lenildo de Morais (E) garantiu que a Funasa vai trabalhar com agilidade Em audiência pública nesta quarta-feira (25), o presidente da Fundação Nacional de Saúde (Funasa) informou à Comissão de Saúde da Câmara que faltam no Brasil 110 mil cisternas e mais de 1,3 milhão de banheiros residenciais. Para reduzir o déficit, o presidente da fundação, Lenildo Dias de Morais, aposta em tecnologias desenvolvidas pela Funasa, por empresas e por organizações da sociedade civil. Uma delas é o sistema Salta Z, criado pela fundação, que pode abastecer comunidades de at..."
+          "title": "Educadores ambientais pedem reforço de orçamento e políticas públicas",
+          "url": "https://www.camara.leg.br/noticias/1323540-educadores-ambientais-pedem-reforco-de-orcamento-e-politicas-publicas",
+          "published_at": "Thu, 26 Nov 2026 22:37:00 GMT",
+          "summary": "Vinicius Loures / Câmara dos Deputados Educadores e estudantes lotaram o plenário da Comissão de Meio Ambiente Em seminário na Câmara dos Deputados nesta quinta-feira (26), educadores ambientais pediram ao Executivo e ao Parlamento o reforço do orçamento e das políticas públicas do setor diante do agravamento das emergências climáticas. Do governo, cobraram, por exemplo, uma secretaria nacional, em vez da atual estrutura que deixa a educação ambiental apenas como um departamento do Ministério do Meio Ambiente e uma pasta de coordenação do Ministério da Educação. Integrante da Rede Brasileir..."
         },
         {
-          "title": "Criação da Comissão Nacional Indígena da Verdade recebe apoio unânime em audiência na Câmara",
-          "url": "https://www.camara.leg.br/noticias/1323062-criacao-da-comissao-nacional-indigena-da-verdade-recebe-apoio-unanime-em-audiencia-na-camara",
-          "published_at": "Wed, 25 Nov 2026 22:42:00 GMT",
-          "summary": "Vinicius Loures / Câmara dos Deputados Audiência discutiu como aprofundar apurações da Comissão Nacional da Verdade A criação da Comissão Nacional Indígena da Verdade (CNIV) recebeu apoio unânime de parlamentares, juristas e representantes do governo, de universidades e de organizações sociais reunidos em audiência da Comissão da Amazônia e dos Povos Originários da Câmara dos Deputados nesta terça-feira (24). A intenção é aprofundar as apurações da Comissão Nacional da Verdade (CNV), que, em 2014, identificou 8.350 indígenas mortos durante a ditadura militar e recomendou investigações espec..."
+          "title": "Comissão aprova projeto que obriga concessionárias de energia a orientar sobre riscos em eventos climáticos",
+          "url": "https://www.camara.leg.br/noticias/1323271-comissao-aprova-projeto-que-obriga-concessionarias-de-energia-a-orientar-sobre-riscos-em-eventos-climaticos",
+          "published_at": "Thu, 26 Nov 2026 22:14:00 GMT",
+          "summary": "kayo Magalhães/Câmara dos Deputados Mersinho Lucena, relator na comissão A Comissão de Cultura aprovou o Projeto de Lei 3547/2024 , do deputado Marx Beltrão (União-AL), que obriga concessionárias de energia elétrica a desenvolver campanhas e materiais de conscientização sobre medidas de segurança e prevenção de acidentes envolvendo a rede elétrica durante eventos climáticos. A proposta prevê que a política de conscientização tenha como objetivos: orientar a população sobre prevenção de acidentes com a rede elétrica durante eventos climáticos como tempestades, inundações e ventos fortes; inf..."
         },
         {
-          "title": "Especialistas divergem sobre proposta de redução da maioridade penal durante debate na Câmara",
-          "url": "https://www.camara.leg.br/noticias/1323059-especialistas-divergem-sobre-proposta-de-reducao-da-maioridade-penal-durante-debate-na-camara",
-          "published_at": "Wed, 25 Nov 2026 22:37:00 GMT",
-          "summary": "Vinicius Loures / Câmara dos Deputados Cardoso (D): Brasil tem 727 mil presos adultos e um déficit de 222.034 vagas no sistema carcerário Especialistas divergiram sobre a proposta de reduzir a maioridade penal, em debate na Câmara dos Deputados (PEC 32/15). O ex-ministro da Justiça José Eduardo Cardoso e o conselheiro de Direitos Humanos Renato Roseno afirmaram que a proposta não reduz a violência e é inviável. Já o ex-capitão do Bope do Rio de Janeiro Rodrigo Pimentel sustentou que a medida representa uma resposta aos anseios da sociedade por justiça. José Eduardo Cardoso afirmou que, no B..."
+          "title": "Comissão aprova prazo de 24 horas para medidas protetivas após tentativa de feminicídio",
+          "url": "https://www.camara.leg.br/noticias/1323417-comissao-aprova-prazo-de-24-horas-para-medidas-protetivas-apos-tentativa-de-feminicidio",
+          "published_at": "Thu, 26 Nov 2026 22:05:00 GMT",
+          "summary": "Vinicius Loures / Câmara dos Deputados Texto aprovado é o substitutivo da relatora, Fernanda Melchionna A Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados aprovou proposta que limita a 24 horas o prazo para o juiz analisar pedidos de medidas protetivas quando for relatada tentativa de feminicídio. A Lei Maria da Penha ( Lei 11.340/06 ) prevê prazo de 48 horas para o juiz decidir sobre esses pedidos. Pelo texto aprovado, o prazo reduz para 24 horas quando há anotação de risco de feminicídio no documento oficial. O texto também prevê que o Formulário Nacional de Avaliação de..."
         },
         {
-          "title": "Câmara aprova marco regulatório da educação em tempo integral",
-          "url": "https://www.camara.leg.br/noticias/1322878-camara-aprova-marco-regulatorio-da-educacao-em-tempo-integral",
-          "published_at": "Wed, 25 Nov 2026 22:11:00 GMT",
-          "summary": "Thiago Cristino / Câmara dos Deputados João Daniel: \"É fundamental, no mínimo, sete horas por dia de escola\" A Câmara dos Deputados aprovou projeto de lei que institui um marco regulatório para a educação em tempo integral. O texto define parâmetros mínimos para a modalidade e estabelece as obrigações dos entes federativos conforme a Constituição. A matéria será enviada ao Senado. De autoria do deputado João Daniel (PT-SE), o Projeto de Lei 479/15 foi aprovado na forma do substitutivo do relator, deputado Thiago de Joaldo (Republicanos-SE). O texto adota a expressão “educação integral em te..."
+          "title": "Comissão aprova divulgação de benefícios e pagamentos de empresas a profissionais de saúde",
+          "url": "https://www.camara.leg.br/noticias/1323448-comissao-aprova-divulgacao-de-beneficios-e-pagamentos-de-empresas-a-profissionais-de-saude",
+          "published_at": "Thu, 26 Nov 2026 21:46:00 GMT",
+          "summary": "Vinicius Loures/Câmara dos Deputados Deputado Dr. Luiz Ovando: texto atribuí transparência na relação entre empresas e profissionais de saúde A Comissão de Saúde da Câmara dos Deputados aprovou proposta que obriga empresas que vendem produtos ou prestam serviços de saúde a divulgar pagamentos e benefícios concedidos a profissionais da área. A medida busca permitir que pacientes, cuidadores e outros interessados conheçam relações financeiras que possam influenciar indicações de tratamentos, produtos ou serviços. O texto aprovado é um substitutivo do deputado Dr. Luiz Ovando (PP-MS) ao Projet..."
         },
         {
-          "title": "Câmara aprova projeto que proíbe acordo de não persecução penal em crimes de racismo",
-          "url": "https://www.camara.leg.br/noticias/1323068-camara-aprova-projeto-que-proibe-acordo-de-nao-persecucao-penal-em-crimes-de-racismo",
-          "published_at": "Wed, 25 Nov 2026 21:50:00 GMT",
-          "summary": "Thiago Cristino / Câmara dos Deputados Benedita da Silva: \"Vamos prestar mais atenção nos projetos da população negra\" A Câmara dos Deputados aprovou projeto de lei que incorpora ao Código de Processo Penal (CPP) o entendimento de tribunais superiores de que não cabem acordos de não persecução penal em crimes de racismo. A matéria será enviada ao Senado. De autoria da deputada Benedita da Silva (PT-RJ), o Projeto de Lei 2559/22 foi aprovado na forma de substitutivo da deputada Dandara (PT-MG). Segundo o substitutivo, o crime de racismo, tipificado na Lei 7.716/89, consiste em injuriar algué..."
+          "title": "LDO de 2027 recebe 1.504 emendas de parlamentares",
+          "url": "https://www.camara.leg.br/noticias/1323481-ldo-de-2027-recebe-1-504-emendas-de-parlamentares",
+          "published_at": "Thu, 26 Nov 2026 21:03:00 GMT",
+          "summary": "Depositphotos Congresso Nacional deve votar a LDO de 2027 até 17 de dezembro O projeto da Lei de Diretrizes Orçamentárias ( LDO ) de 2027 recebeu 1.504 emendas de deputados e senadores, sendo 246 ao chamado Anexo de Metas e Prioridades. A LDO define as regras para a elaboração do Orçamento e o anexo define as ações prioritárias para o ano seguinte com metas de execução, tudo baseado no Plano Plurianual 2024-2027. Muitas emendas apresentadas buscam resguardar programas específicos de cortes orçamentários. O governo faz bloqueios de despesas quando o teto de gastos está sob risco e também pod..."
         },
         {
-          "title": "Câmara aprova protocolo contra discriminação racial nas escolas",
-          "url": "https://www.camara.leg.br/noticias/1323029-camara-aprova-protocolo-contra-discriminacao-racial-nas-escolas",
-          "published_at": "Wed, 25 Nov 2026 21:44:00 GMT",
-          "summary": "Thiago Cristino / Câmara dos Deputados Benedita: São asseguradas à vítima atendimento psicológico e proteção A Câmara dos Deputados aprovou projeto de lei que cria um protocolo de acolhimento de vítimas e de resposta a atos de racismo em escolas públicas e privadas. A matéria será enviada ao Senado. De autoria da deputada Carol Dartora (PT-PR), o Projeto de Lei 4887/23 foi aprovado com um substitutivo da deputada Benedita da Silva (PT-RJ), segundo o qual um profissional designado pela direção da escola será responsável por aplicar o protocolo, que prevê ações tais como o recebimento ou cons..."
+          "title": "Comissão aprova projeto que destina à PF e ao Exército recursos arrecadados com taxas e multas",
+          "url": "https://www.camara.leg.br/noticias/1323397-comissao-aprova-projeto-que-destina-a-pf-e-ao-exercito-recursos-arrecadados-com-taxas-e-multas",
+          "published_at": "Thu, 26 Nov 2026 20:03:00 GMT",
+          "summary": "Thiago Cristino / Câmara dos Deputados Merlong Solano, relator da proposta na comissão A Comissão de Finanças e Tributação da Câmara dos Deputados aprovou o Projeto de Lei 6033/25, do deputado Delegado Fabio Costa (PP-AL), que destina ao Exército e à Polícia Federal (PF) os valores arrecadados com taxas e multas pela fiscalização de produtos controlados, como armas de fogo e explosivos. Esses órgãos são os responsáveis por fiscalizar a compra e venda desse tipo de produto. O texto permite que eles atualizem anualmente os valores dessas taxas, com base na variação do Índice Nacional de Preço..."
         },
         {
-          "title": "Câmara aprova alerta automático para mulher monitorar aproximação de agressor",
-          "url": "https://www.camara.leg.br/noticias/1322986-camara-aprova-alerta-automatico-para-mulher-monitorar-aproximacao-de-agressor",
-          "published_at": "Wed, 25 Nov 2026 20:35:00 GMT",
-          "summary": "Thiago Cristino / Câmara dos Deputados Iza Arruda, relatora: \"Projeto fortalece os mecanismos de proteção à vida\" A Câmara dos Deputados aprovou projeto de lei que aperfeiçoa o monitoramento eletrônico de agressores de mulheres em casos de violência doméstica ou familiar. O texto exige o envio de um alerta automático à vítima se o agressor se aproximar e prevê a compilação de dados do monitoramento. A matéria será enviada ao Senado. De autoria do deputado Yury Bruno (MDB-CE), o Projeto de Lei 5542/26 foi aprovado na versão da relatora, deputada Iza Arruda (MDB-PE), que retirou a previsão de..."
+          "title": "Comissão Mista aprova relatório preliminar do Orçamento de 2027",
+          "url": "https://www.camara.leg.br/noticias/1323430-comissao-mista-aprova-relatorio-preliminar-do-orcamento-de-2027",
+          "published_at": "Thu, 26 Nov 2026 19:44:00 GMT",
+          "summary": "Vinicius Loures / Câmara dos Deputados Orçamento foi aprovado com um corte linear de R$ 2 bi A Comissão Mista de Orçamento (CMO) aprovou o relatório preliminar do Orçamento de 2027 ( PLN 24/26 ) com um corte linear de R$ 2 bilhões. Esse corte é feito para que os 16 relatores setoriais possam atender pedidos de emendas coletivas que não vieram com reservas no projeto original. Foram apresentadas 8.212 emendas às despesas do Orçamento de 2027, num total de R$ 286,3 bilhões. As áreas mais demandadas são a de Saúde e a de Integração, Desenvolvimento Regional e Minas e Energia. Do valor total da..."
         },
         {
-          "title": "Comissão aprova projeto que proíbe a reutilização de embalagens de tintas imobiliárias",
-          "url": "https://www.camara.leg.br/noticias/1322939-comissao-aprova-projeto-que-proibe-a-reutilizacao-de-embalagens-de-tintas-imobiliarias",
-          "published_at": "Wed, 25 Nov 2026 20:11:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Sâmia Bomfim, sobre a proposta: \"Proteção da saúde, de defesa do consumidor e de proteção ao meio ambiente\" A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta quarta-feira (25), proposta que proíbe a reutilização de embalagens plásticas ou metálicas de tintas imobiliárias e produtos similares e determina que sejam encaminhadas a sistemas de logística reversa. A relatora, deputada Sâmia Bomfim (Psol-SP), apresentou parecer favorável ao substitutivo da Comissão de Defesa do Consumidor ao Projeto de Lei 5124/23..."
+          "title": "Comissão aprova projeto que cria programa de aprendizagem profissional voltado a jovens indígenas",
+          "url": "https://www.camara.leg.br/noticias/1323293-comissao-aprova-projeto-que-cria-programa-de-aprendizagem-profissional-voltado-a-jovens-indigenas",
+          "published_at": "Thu, 26 Nov 2026 19:29:00 GMT",
+          "summary": "Kayo Magalhães/Câmara dos Deputados Deputado Duda Ramos, relator do projeto de lei A Comissão de Educação aprovou o Projeto de Lei 3957/2025, que cria o Programa Nacional de Aprendizagem para Povos Indígenas (PNAPI), vinculado à Lei da Aprendizagem Profissional. O objetivo é ampliar o acesso de adolescentes e jovens indígenas, de 14 a 24 anos, à formação técnico-profissional, considerando suas realidades sociais, culturais e territoriais. A proposta é de autoria do deputado Defensor Stélio Dener (União-RR). O programa será destinado prioritariamente a jovens que vivem em terras indígenas ho..."
         },
         {
-          "title": "Comissão aprova proposta que inclui Síndrome do Intestino Curto em rol de doenças graves e raras",
-          "url": "https://www.camara.leg.br/noticias/1322928-comissao-aprova-proposta-que-inclui-sindrome-do-intestino-curto-em-rol-de-doencas-graves-e-raras",
-          "published_at": "Wed, 25 Nov 2026 19:58:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Diego Garcia, relator da proposta na CCJ A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta quarta-feira (25), proposta que inclui a síndrome do intestino curto com falência intestinal no rol de doenças graves e raras do Sistema Único de Saúde (SUS). O relator, deputado Diego Garcia (União-PR), apresentou parecer favorável ao substitutivo da Comissão de Saúde para o Projeto de Lei 2900/22, do deputado Dr. Zacharias Calil (MDB-GO). Garcia também foi favorável à emenda da Comissão de Finanças e Tributação que..."
+          "title": "Comissão aprova estímulo a conteúdos sobre acessibilidade na comunicação pública",
+          "url": "https://www.camara.leg.br/noticias/1323334-comissao-aprova-estimulo-a-conteudos-sobre-acessibilidade-na-comunicacao-publica",
+          "published_at": "Thu, 26 Nov 2026 19:19:00 GMT",
+          "summary": "Bruno Spada / Câmara dos Deputados Deputado Cezinha de Madureira, relator do projeto de lei A Comissão de Comunicação da Câmara dos Deputados aprovou o Projeto de Lei 11261/18 , que altera a Lei da Empresa Brasil de Comunicação (EBC) para incluir entre os objetivos da radiodifusão pública o estímulo à produção e a garantia de veiculação, inclusive na internet, de conteúdos socioeducativos sobre acessibilidade, tecnologias assistivas, audiodescrição e sistema Braille para pessoas com deficiência ou com mobilidade reduzida. Por recomendação do relator, deputado Cezinha de Madureira (PL-SP), o..."
         },
         {
-          "title": "Câmara analisa projeto sobre contenção remota de agressores de mulheres; acompanhe",
-          "url": "https://www.camara.leg.br/noticias/1322539-camara-analisa-projeto-sobre-contencao-remota-de-agressores-de-mulheres-acompanhe",
-          "published_at": "Wed, 25 Nov 2026 19:49:00 GMT",
-          "summary": "Thiago Cristino / Câmara dos Deputados Sessão deliberativa do Plenário A Câmara dos Deputados iniciou a Ordem do Dia e analisa agora o Projeto de Lei 5542/26 , do deputado Yury Bruno (MDB-CE), que permite o uso de tecnologias em tornozeleiras eletrônicas destinadas a conter fisicamente agressores de mulheres em caso de aproximação da vítima de violência doméstica ou familiar. Assista à sessão ao vivo Mais informações a seguir"
+          "title": "Comissão aprova punição para divulgação de deepfakes em campanha eleitoral",
+          "url": "https://www.camara.leg.br/noticias/1323330-comissao-aprova-punicao-para-divulgacao-de-deepfakes-em-campanha-eleitoral",
+          "published_at": "Thu, 26 Nov 2026 19:17:00 GMT",
+          "summary": "Renato Araújo / Câmara dos Deputados Deputado Julio Cesar Ribeiro, relator do projeto de lei A Comissão de Comunicação da Câmara dos Deputados aprovou proposta que tipifica o crime de divulgação de conteúdo adulterado por inteligência artificial ( deepfake ) em campanha ou propaganda eleitoral e atualiza o Marco Civil da Internet para incluir montagens feitas por IA na regra de responsabilização das plataformas por divulgação não autorizada de material íntimo. Os parlamentares aprovaram o substitutivo do relator, deputado Julio Cesar Ribeiro (Republicanos-DF), ao Projeto de Lei 212/26 , do..."
         },
         {
-          "title": "Comissão aprova ampliação de recursos de acessibilidade no âmbito da Justiça",
-          "url": "https://www.camara.leg.br/noticias/1322910-comissao-aprova-ampliacao-de-recursos-de-acessibilidade-no-ambito-da-justica",
-          "published_at": "Wed, 25 Nov 2026 19:37:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Deputado Diego Garcia, relator da proposta A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta quarta-feira (25), o Projeto de Lei 3277/21 , do Senado, que amplia os recursos de acessibilidade no âmbito da Justiça. O texto prevê uma série de medidas, que são incluídas no Estatuto da Pessoa com Deficiência , no Código Civil e na Lei dos Juizados Especiais . O relator, deputado Diego Garcia (União-PR), apresentou parecer favorável ao projeto e à emenda da Comissão de Defesa dos Direitos das Pessoas com Deficiên..."
+          "title": "Comissão aprova carga horária mínima para Filosofia e Sociologia no ensino médio",
+          "url": "https://www.camara.leg.br/noticias/1323336-comissao-aprova-carga-horaria-minima-para-filosofia-e-sociologia-no-ensino-medio",
+          "published_at": "Thu, 26 Nov 2026 19:09:00 GMT",
+          "summary": "Marina Ramos / Câmara dos Deputados Deputada Maria do Rosário, relatora do projeto de lei A Comissão de Educação da Câmara dos Deputados aprovou proposta que determina que os currículos do ensino médio incluam Filosofia e Sociologia como conteúdos obrigatórios em todas as séries, com carga horária mínima de duas horas semanais para cada disciplina. O texto altera a Lei de Diretrizes e Bases da Educação Nacional (LDB — Lei 9.394/96 ). A lei atual já torna essas disciplinas obrigatórias, mas não estabelece carga horária mínima nem exige que sejam oferecidas nos três anos do ensino médio. O co..."
         },
         {
-          "title": "Comissão aprova diretrizes de segurança alimentar climática para povos tradicionais da Amazônia",
-          "url": "https://www.camara.leg.br/noticias/1322848-comissao-aprova-diretrizes-de-seguranca-alimentar-climatica-para-povos-tradicionais-da-amazonia",
-          "published_at": "Wed, 25 Nov 2026 18:52:00 GMT",
-          "summary": "Renato Araújo/Câmara dos Deputados Alexandre Lindenmeyer: direito à alimentação adequada e proteção dos recursos hídricos A Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara dos Deputados aprovou projeto de lei que define diretrizes de segurança alimentar e nutricional climática para povos e comunidades tradicionais da Amazônia Legal. O texto aprovado é a versão do relator, deputado Alexandre Lindenmeyer (PT-RS), para o Projeto de Lei 623/26 , da deputada Ana Paula Lima (PT-SC). O relator ampliou os mecanismos de proteção previstos na proposta original. “A iniciativa bus..."
+          "title": "Comissão aprova projeto que prevê gratuidade no transporte para responsáveis levarem crianças à escola pública",
+          "url": "https://www.camara.leg.br/noticias/1323237-comissao-aprova-projeto-que-preve-gratuidade-no-transporte-para-responsaveis-levarem-criancas-a-escola-publica",
+          "published_at": "Thu, 26 Nov 2026 18:21:00 GMT",
+          "summary": "Thiago Cristino / Câmara dos Deputados Talíria Petrone, relatora na comissão A Comissão de Educação aprovou o Projeto de Lei 3888/24 , do deputado Reimont (PT-RJ), que prevê gratuidade no transporte público para responsáveis por crianças da educação infantil e do ensino fundamental da rede pública. O benefício abrange instituições municipais, estaduais e federais e, também, prevê o deslocamento entre a residência e a escola, nos horários escolares, mediante declaração da instituição de ensino. A proposta estabelece multa de um salário mínimo para concessionárias ou permissionárias que recus..."
         },
         {
-          "title": "Denúncias de violência virtual no Ligue 180 crescem 36,5%, diz ministra das Mulheres",
-          "url": "https://www.camara.leg.br/noticias/1322865-denuncias-de-violencia-virtual-no-ligue-180-crescem-365-diz-ministra-das-mulheres",
-          "published_at": "Wed, 25 Nov 2026 18:50:00 GMT",
-          "summary": "Thiago Cristino / Câmara dos Deputados Sessão solene fez parte da campanha '21 Dias de Ativismo pelo Fim da Violência contra as Mulheres' Em sessão solene na Câmara dos Deputados nesta quarta-feira (25), a ministra das Mulheres, Márcia Lopes, alertou que o Ligue 180 recebeu 36,5% mais denúncias de violência virtual até outubro de 2026 do que em todo o ano de 2025. Segundo ela, nos dez primeiros meses deste ano, o canal registrou 6.245 casos desse tipo. Do total de vítimas, 49% eram mulheres negras. Em 27,6% dos casos, o agressor era um ex-companheiro. A cerimônia marcou o Dia Internacional..."
+          "title": "Deputados aprovam acordo de cooperação jurídica na área penal entre Brasil e Guiana",
+          "url": "https://www.camara.leg.br/noticias/1323264-deputados-aprovam-acordo-de-cooperacao-juridica-na-area-penal-entre-brasil-e-guiana",
+          "published_at": "Thu, 26 Nov 2026 15:00:00 GMT",
+          "summary": "Kayo Magalhães / Câmara dos Deputados Dr. Francisco acatou mudança de redação proposta pela deputada Laura Carneiro A Câmara dos Deputados aprovou nesta quinta-feira (26) o Projeto de Decreto Legislativo (PDL) 366/25, que prevê a adesão do Brasil ao tratado celebrado em 2022 com a Guiana para cooperação jurídica em assuntos penais. O texto será enviado ao Senado. Mais cedo, os parlamentares também aprovaram acordo entre as duas nações na área civil . O PDL 366/25 trata de procedimentos que os dois países devem seguir em casos como tomada de depoimentos, ações de busca e apreensão, perícias,..."
         },
         {
-          "title": "Comissão aprova projeto que permite desfiliação partidária pela internet",
-          "url": "https://www.camara.leg.br/noticias/1322899-comissao-aprova-projeto-que-permite-desfiliacao-partidaria-pela-internet",
-          "published_at": "Wed, 25 Nov 2026 18:36:00 GMT",
-          "summary": "Vinicius Loures/Câmara dos Deputados Deputado José Medeiros, relator da proposta na CCJ A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, nesta quarta-feira (25), proposta que simplifica o processo de desfiliação partidária. O texto permite que o filiado comunique seu desligamento do partido por meio eletrônico. O relator, deputado José Medeiros (PL-MT), apresentou um substitutivo ao Projeto de Lei 193/23 , do deputado Kim Kataguiri (Missão-SP). No substitutivo, Medeiros trocou a palavra “solicitação” por “comunicação” ao tratar do desligamento do pa..."
+          "title": "Cancelada votação do parecer sobre mudanças no Código de Trânsito",
+          "url": "https://www.camara.leg.br/noticias/1323183-cancelada-votacao-do-parecer-sobre-mudancas-no-codigo-de-transito",
+          "published_at": "Thu, 26 Nov 2026 14:53:00 GMT",
+          "summary": "Bruno Spada / Câmara dos Deputados Aureo Ribeiro alterou seu relatório anterior para facilitar a aprovação de um texto final A comissão especial da Câmara dos Deputados que analisa alterações no Código de Trânsito Brasileiro cancelou a reunião que realizaria na próxima terça-feira (1º) para discutir e votar o parecer do relator, deputado Aureo Ribeiro (Solidariedade-RJ), sobre o Projeto de Lei 8085/14 e as 270 propostas que tramitam em conjunto. Ainda não há nova data para a votação. Mudanças no parecer Na última reunião, o relator apresentou uma série de alterações no seu relatório anterio..."
         },
         {
-          "title": "Comissão de Orçamento aprova relatório que eleva em R$ 37,1 bilhões a previsão de receita para 2027",
-          "url": "https://www.camara.leg.br/noticias/1322856-comissao-de-orcamento-aprova-relatorio-que-eleva-em-r-371-bilhoes-a-previsao-de-receita-para-2027",
-          "published_at": "Wed, 25 Nov 2026 18:27:00 GMT",
-          "summary": "Vinicius Loures / Câmara dos Deputados Deputado Neto Carletto, relator da Receita do Orçamento de 2027 A Comissão Mista de Orçamento aprovou o Relatório da Receita do Orçamento de 2027 ( PLN 24/26 ) com um acréscimo de R$ 37,1 bilhões em relação ao projeto enviado em agosto pelo Poder Executivo. O relator, deputado Neto Carletto (Avante-BA), explicou que levou em consideração mudanças na legislação e revisões de parâmetros econômicos, como a redução de 2,5% para 1,8% na projeção de crescimento do Produto Interno Bruto (PIB) em 2027, além de outros fatores. “A aplicação dos parâmetros sobre..."
+          "title": "Câmara aprova acordo de cooperação jurídica entre Brasil e Guiana em processos civis",
+          "url": "https://www.camara.leg.br/noticias/1323254-camara-aprova-acordo-de-cooperacao-juridica-entre-brasil-e-guiana-em-processos-civis",
+          "published_at": "Thu, 26 Nov 2026 14:49:00 GMT",
+          "summary": "Vinicius Loures/Câmara dos Deputados Ricardo Ayres: acordo facilita intercâmbio de informações A Câmara dos Deputados aprovou nesta quinta-feira (26) o Projeto de Decreto Legislativo (PDL) 235/25, que prevê a adesão do Brasil ao tratado celebrado em 2022 com a Guiana para cooperação jurídica em processos civis. A proposta será enviada ao Senado. Saiba mais sobre a tramitação de projetos de decreto legislativo Entre outros pontos, o tratado prevê que os dois países se comprometem a prestar cooperação mútua em matéria civil, empresarial, trabalhista, administrativa e em reparação de danos ori..."
         },
         {
-          "title": "Comissão aprova projeto que esclarece crime de corrupção de criança e adolescente",
-          "url": "https://www.camara.leg.br/noticias/1322841-comissao-aprova-projeto-que-esclarece-crime-de-corrupcao-de-crianca-e-adolescente",
-          "published_at": "Wed, 25 Nov 2026 17:11:00 GMT",
-          "summary": "Kayo Magalhães / Câmara dos Deputados Maria Arraes: a proposta busca adequar o ECA ao entendimento consolidado dos tribunais A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou o Projeto de Lei 142/26, para deixar expresso na legislação que a configuração do crime de corrupção de criança e adolescente independe da comprovação da efetiva corrupção da criança ou do adolescente. A relatora, deputada Maria Arraes (PSB-PE), recomendou a aprovação do texto, apresentado pela deputada Laura Carneiro (PSD-RJ). A relatora promoveu ajuste na redação, que altera o..."
+          "title": "Deputados iniciam sessão de votações desta quinta-feira; acompanhe",
+          "url": "https://www.camara.leg.br/noticias/1323085-deputados-iniciam-sessao-de-votacoes-desta-quinta-feira-acompanhe",
+          "published_at": "Thu, 26 Nov 2026 14:41:00 GMT",
+          "summary": "Thiago Cristino / Câmara dos Deputados Sessão deliberativa do Plenário O Plenário da Câmara dos Deputados deu início à sessão de votações desta quinta-feira (26). Neste momento, os parlamentares analisam o projeto (PDL 235/25) de acordo de cooperação jurídica assinado entre Brasil e Guiana. Assista à sessão ao vivo Mais informações a seguir"
         },
         {
-          "title": "Comissão debate formas de ampliar o alcance da rede de proteção à infância",
-          "url": "https://www.camara.leg.br/noticias/1322704-comissao-debate-formas-de-ampliar-o-alcance-da-rede-de-protecao-a-infancia",
-          "published_at": "Wed, 25 Nov 2026 16:41:00 GMT",
-          "summary": "Vinicius Loures / Câmara dos Deputados Reunião da comissão externa A Comissão Externa sobre Prevenção e Enfrentamento da Violência Sexual Infantojuvenil da Câmara dos Deputados realiza audiência pública, nesta quinta-feira (26), para discutir a capilarização da rede de proteção à infância. O debate foi proposto pelo coordenador do colegiado, deputado Fernando Rodolfo (PRD-PE), e está marcado para as 9 horas, no plenário 10. Veja quem foi convidado O parlamentar destaca que, para proteger crianças e adolescentes, os órgãos que os atendem diretamente precisam funcionar bem e estar presentes n..."
-        },
-        {
-          "title": "Comissão aprova proposta que concede gratuidade em ingressos para crianças menores de 3 anos",
-          "url": "https://www.camara.leg.br/noticias/1322791-comissao-aprova-proposta-que-concede-gratuidade-em-ingressos-para-criancas-menores-de-3-anos",
-          "published_at": "Wed, 25 Nov 2026 16:09:00 GMT",
-          "summary": "Vinicius Loures / Câmara dos Deputados Nely Aquino é a relatora da proposta A Comissão de Previdência, Assistência Social, Infância, Adolescência e Família aprovou o Projeto de Lei 4567/24 , do deputado Pinheirinho (PP-MG), que estabelece a gratuidade de ingressos para crianças menores de 3 anos em espetáculos artístico-culturais e esportivos, desde que permaneçam no colo dos pais ou responsáveis. A proposta altera a Lei 12.933/13 , que regulamenta o pagamento de meia-entrada, e busca padronizar os critérios para que crianças de colo sejam dispensadas de pagamento. A gratuidade prevista no..."
+          "title": "Câmara pode votar seis propostas nesta quinta-feira",
+          "url": "https://www.camara.leg.br/noticias/1323169-camara-pode-votar-seis-propostas-nesta-quinta-feira",
+          "published_at": "Thu, 26 Nov 2026 12:26:00 GMT",
+          "summary": "Thiago Cristino / Câmara dos Deputados Sessão deliberativa do Plenário A Câmara dos Deputados tem seis projetos na pauta de votações desta quinta-feira (26). A sessão está marcada para as 10 horas, no Plenário Ulysses Guimarães. Veja a pauta Entre as propostas a serem analisadas está o Projeto de Lei 3944/23, da deputada Erika Hilton (PSol-SP), que trata dos impactos da crise climática na saúde da população negra, especialmente de mulheres e pessoas que vivem em áreas mais afetadas. Também está na pauta o PL 294/15 , do deputado Valmir Assunção (PT-BA), que inclui o ministro de confissão re..."
         },
         {
           "title": "Seminário debate papel da educação ambiental no enfrentamento de emergências climáticas; participe",
           "url": "https://www.camara.leg.br/noticias/1322747-seminario-debate-papel-da-educacao-ambiental-no-enfrentamento-de-emergencias-climaticas-participe",
-          "published_at": "Wed, 25 Nov 2026 15:47:00 GMT",
+          "published_at": "Thu, 26 Nov 2026 11:08:00 GMT",
           "summary": "Guga Marques/Grupo CEEE Brasil tem enfrentado catástrofes potencializadas pelas mudanças climáticas A Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara dos Deputados promove nesta quinta-feira (26) seminário sobre o papel da educação ambiental na prevenção e no enfrentamento das emergências climáticas. O debate será realizado no plenário 2, às 14 horas. Veja quem foi convidado e envie suas perguntas O seminário foi solicitado pelo deputado Nilto Tatto (PT-SP). Segundo ele, o objetivo é transformar conhecimentos e experiências de educadores e organizações da sociedade civil e..."
         },
         {
-          "title": "Comissão de Constituição e Justiça aprova prazo de validade para autorização de viagem internacional de crianças",
-          "url": "https://www.camara.leg.br/noticias/1322775-comissao-de-constituicao-e-justica-aprova-prazo-de-validade-para-autorizacao-de-viagem-internacional-de-criancas",
-          "published_at": "Wed, 25 Nov 2026 15:46:00 GMT",
-          "summary": "Renato Araújo / Câmara dos Deputados Laura Carneiro: proposta aumenta a segurança jurídica das autorizações e reduz riscos A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou, em caráter conclusivo , o Projeto de Lei 2977/24, que estabelece prazo de validade para a autorização que um dos pais concede para a viagem de criança ou adolescente ao exterior na companhia apenas do outro genitor. A proposta poderá seguir diretamente para o Senado, a menos que haja recurso para votação pelo Plenário da Câmara. A proposta altera o Estatuto da Criança e do Adolesc..."
+          "title": "Comissão debate política nacional de proteção às mães atípicas e cuidadores familiares; participe",
+          "url": "https://www.camara.leg.br/noticias/1322723-comissao-debate-politica-nacional-de-protecao-as-maes-atipicas-e-cuidadores-familiares-participe",
+          "published_at": "Thu, 26 Nov 2026 11:00:00 GMT",
+          "summary": "Depositphotos Deputada quer ouvir pessoas diretamente afetadas pela proposta A Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara dos Deputados realiza, nesta quinta-feira (26), audiência pública para discutir a criação de uma Política Nacional voltada à proteção e à promoção dos direitos das mães atípicas e dos cuidadores e cuidadoras familiares. O debate será realizado às 14 horas, no plenário 11, e será interativo. Veja quem foi convidado para o debate e envie suas perguntas. A audiência atende a pedido da deputada Erika Kokay (PT-DF). Segundo a parlamentar, o objetivo é..."
+        },
+        {
+          "title": "Comissão debate qualidade dos serviços de energia elétrica prestados pela Energisa em Mato Grosso do Sul",
+          "url": "https://www.camara.leg.br/noticias/1322713-comissao-debate-qualidade-dos-servicos-de-energia-eletrica-prestados-pela-energisa-em-mato-grosso-do-sul",
+          "published_at": "Thu, 26 Nov 2026 10:50:00 GMT",
+          "summary": "Depositphotos População local relata problemas na distribuição de energia A Comissão de Minas e Energia da Câmara dos Deputados discute, nesta quinta-feira (26), os serviços de distribuição de energia elétrica prestados pela Energisa em Mato Grosso do Sul. A audiência será realizada no plenário 14, às 9 horas. O debate atende a pedido do deputado Beto Pereira (Republicanos-MS). Veja a pauta Segundo o parlamentar, consumidores do estado enfrentam problemas relacionados à qualidade, à continuidade, à segurança e à eficiência do fornecimento de energia elétrica. A audiência também vai abordar..."
         }
       ]
     },
@@ -336,9 +336,15 @@
       "items_count": 20,
       "items": [
         {
+          "title": "Penhor: CAIXA realiza primeiro leilão de joias com lances 100% pelo site - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeTJEallSSlFrc0hIWGp3TC03eDFnWmtvMzlLNGRidWdUVXhYWVpBd3piVlJlNWtCOGRpdExWdEdOU0VhT1Q0UW4wVmJkNElDRWpCLWFRRUZKSmJXSVRqQzlJTWJTbU9SNGQ1dVFxWWJzRFlQZG1oTXNScVJKYm5yN1dLcDNjQnlnVEhqTUQzazZOMVkybmZLSXg5T0hQeWliYlhNOEJyaHJEdloxQ0ZlUGl0c3VyVEtfd25vOTVWTk5wNHB2ZGhDbk82VGFlY19Hdlk5RDNha05HaXdtVlV5cW0yQklROG8?oc=5",
+          "published_at": "Tue, 11 Aug 2026 07:00:00 GMT",
+          "summary": "Penhor: CAIXA realiza primeiro leilão de joias com lances 100% pelo site CAIXA Notícias"
+        },
+        {
           "title": "Caixa Loterias lança Quina Friday - CAIXA Notícias",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeWlITEFNYnNaSmt3OU41LWNTLWVaNldEQ2NEM2hNaGVGZnVGRzZVbXJhQ1lUR2ZjZy0teVpoajZJckhoME5saG8yU1FtdWc5bVFqLTZLZy1MWTlqRVZWbmpDdVpITUVFZFdYZDhTQTNOOXF2M3oybHVibGhLR1Q0dDExTDFEMTVVTDdFQU9RbFllVUVhc1JQd1hOM0dsUjBla1FXNFBQU21ocnp5bTVjOWdURGdjU3VDbXc?oc=5",
-          "published_at": "Wed, 18 Nov 2026 20:39:00 GMT",
+          "published_at": "Wed, 18 Nov 2026 08:00:00 GMT",
           "summary": "Caixa Loterias lança Quina Friday CAIXA Notícias"
         },
         {
@@ -346,6 +352,12 @@
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZFJzNHdVVjQ3R0VTb3Y2QTVtMDVfeFgtV0x5cXk5a3hsXzhTQW9Hbk95NTFiNnhKT0YwOTFJZWo4MVppb0dYY09TZllkTzlYSHN4QlF4eTlzV1A2cjRXWFpXWFQ5TTFOWVhqWTd0UWI1QjFDUFdNYTkyYWpING9RLW5kZFowSnlPX01SWXhUSjVYWFdQN21Wa2MyMDlRR0w0SlFHSmV2ak5EX2d4THRYekFQcXhLTHVsY3YwS2QzbHZxUm1DRV85NmVtRjZwMUdBVEJQVE5Ya0p3THZ6YkMtMnZ0V2pDZlZyREpZVVN3?oc=5",
           "published_at": "Mon, 23 Nov 2026 08:00:00 GMT",
           "summary": "Blue Friday Caixa traz condições promocionais para clientes do banco CAIXA Notícias"
+        },
+        {
+          "title": "Mega da Virada 2026: conheça os maiores prêmios - CAIXA Notícias",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTQ0TUNtWmZqSHVYaUVabC1OSVdFYTJVMUw2aldBYVNYODNWaGw5QjFNeFZGZ0JYbmVQWjVMTkFmWTU0ZzZKV3VlTnVUWFFXSnNEWERsZXhuLWJTOXI4dFVTWHFaQS12QnVKZXhTZ3ROUHQ2ME9IWTFMRmdSV3JndFowQWZsVmFydmU2X3g3bXBlSUxiNVgzZlNxWncyZXZTZ09EQ3R0ZnVEWldlaWhYa3BXalJTNmhQNTdfMzVYcHVzYm8?oc=5",
+          "published_at": "Mon, 23 Nov 2026 13:54:00 GMT",
+          "summary": "Mega da Virada 2026: conheça os maiores prêmios CAIXA Notícias"
         },
         {
           "title": "CAIXA Cultural Fortaleza recebe o espetáculo A Invenção do Nordeste - CAIXA Notícias",
@@ -442,18 +454,6 @@
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZEI5UzNsWmtZclgtZmJLSExZR2ZwMkFrM1duY24yb0xlNTA5UjczNENZVlZKUUdOcVF5SjRsdUdheFEzaHRWREwtQ0pVeE1DRXVvaDVPV092UW9rYWdpUFdObW1KVjM2U25qRi1XMk11M0N5WVhjRGlVc2ZJaDZIdWNKRGw1bWtDSTZ6RjVfb2ZVcUVaVHJ2YTBxVGp4T0pjSnZLVGVqTzdhbFRNcFUxYTlfdzFSYTBNOWFMdVFBMnRtMERRdHVrYy04UFVKdlV6eDA5YThjNlpTMEJkbC1kTFo0OXpmelVsSUN4SE91UXBoU2xINW5r?oc=5",
           "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
           "summary": "Exposição na CAIXA Cultural Brasília celebra centenário do artista Antônio Poteiro CAIXA Notícias"
-        },
-        {
-          "title": "CAIXA Cultural Brasília apresenta “Escola de Mulheres”, de Moliére - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUlNjU2tkY09obmtWQmFoajhjbWloUlVUTkw1RnpsdnlsR2NVUXhKTTlfQ1d2X1hlZW1KZFdGYWZ5Z29CYzkwR1FFWjBVbzhldFgwUjl5OE9yQkE0SjdZYXJSLWQyajVXUUMtQm92NUROYTJyT2EyMllLcGJLc1hpa3dSVVRUMGdnVzB1NGdHMjQyUDlYa1o3YlFmUDhPOUE2V0RhTWtGMXhGSzNTeGtYOEZPMTRZdTJMSGk1eUdRSDZocTREWHVRM2QzU0MtUjF1b1FxZ2V3?oc=5",
-          "published_at": "Tue, 14 Jul 2026 07:00:00 GMT",
-          "summary": "CAIXA Cultural Brasília apresenta “Escola de Mulheres”, de Moliére CAIXA Notícias"
-        },
-        {
-          "title": "Desenrola FIES: CAIXA inicia renegociação com condições especiais - CAIXA Notícias",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQlkwUmtGQmhVLTZCYkRDTjZnbEhYdWhDSmtYS1VvWDRZUkt1UXNYbFkzNTVoZFNaU0s1SlRhUllGSVNidDFmRjRjX2kyVDJROUtXd1JkR2dNQTIzOEZuWXkwX3ZkcnZfcVM4dV91YXZ4c1BJU1dHWjlEOVZTV0hQWTk5Q2RmOXpnUEVHVnN6dmNmeFlScmVkMUhNNkNQV2JsSm12S3E0dlN2Y3lwVUlaQzlMR2V5aVFKMVNPQnlYNlI4VWhBSWtwdUhxbDZ6X3lIcGlwdTN3?oc=5",
-          "published_at": "Wed, 13 May 2026 07:00:00 GMT",
-          "summary": "Desenrola FIES: CAIXA inicia renegociação com condições especiais CAIXA Notícias"
         }
       ],
       "note": "Coletado via endpoint/feed de fallback (https://news.google.com/rss/search?q=site:caixanoticias.caixa.gov.br&hl=pt-BR&gl=BR&ceid=BR:pt-419)"
